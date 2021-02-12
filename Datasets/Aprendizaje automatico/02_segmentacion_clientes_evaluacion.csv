@@ -1,0 +1,2628 @@
+id_cliente;genero;casado;edad;graduado;profesion;experiencia_laboral;clasificacion_gasto;integrantes_familia;categoria_cliente;grupo_segmentacion
+458989;Mujer;1;36;1;Ingeniero;0;1;1;Cat_6;B
+458994;Hombre;1;37;1;Personal de salud;8;2;4;Cat_6;A
+458996;Mujer;1;69;0;Desconocida;0;1;1;Cat_6;A
+459000;Hombre;1;59;0;Ejecutivo;11;3;2;Cat_6;B
+459001;Mujer;0;19;0;Marketing;0;1;4;Cat_6;A
+459003;Hombre;1;47;1;Doctor;0;3;5;Cat_4;C
+459005;Hombre;1;61;1;Doctor;5;1;3;Cat_6;D
+459008;Mujer;1;47;1;Artista;1;2;3;Cat_6;D
+459013;Hombre;1;50;1;Artista;2;2;4;Cat_6;B
+459014;Hombre;0;19;0;Personal de salud;0;1;4;Cat_6;B
+459015;Hombre;0;22;0;Personal de salud;0;1;3;Cat_6;D
+459016;Mujer;0;22;0;Personal de salud;0;1;6;Cat_6;D
+459024;Hombre;1;50;1;Artista;1;2;5;Cat_6;A
+459026;Hombre;0;27;0;Personal de salud;8;1;3;Cat_3;D
+459032;Hombre;0;18;0;Doctor;0;1;3;Cat_6;D
+459033;Mujer;1;61;1;Artista;0;1;1;Cat_6;C
+459036;Mujer;1;20;1;Abogado;1;2;3;Cat_3;D
+459039;Hombre;1;45;1;Artista;1;2;2;Cat_6;B
+459041;Hombre;1;55;1;Artista;8;1;1;Cat_6;B
+459045;Mujer;1;88;1;Abogado;1;2;4;Cat_6;C
+459056;Hombre;1;63;0;Ejecutivo;0;3;3;Cat_6;A
+459057;Hombre;1;69;0;Abogado;0;3;0;Cat_6;D
+459058;Hombre;0;42;1;Artista;0;1;4;Cat_3;A
+459059;Hombre;1;79;0;Ejecutivo;0;3;2;Cat_6;B
+459061;Mujer;1;35;1;Personal de salud;9;3;3;Cat_6;B
+459064;Hombre;1;27;0;Ejecutivo;5;3;4;Cat_6;B
+459065;Hombre;1;52;1;Ingeniero;0;1;2;Cat_6;A
+459074;Mujer;0;29;1;Personal de salud;0;1;4;Cat_4;B
+459077;Mujer;1;79;0;Abogado;1;3;2;Cat_6;A
+459079;Hombre;1;87;1;Abogado;0;3;2;Cat_6;C
+459080;Hombre;1;89;0;Abogado;1;1;2;Cat_6;C
+459083;Hombre;1;63;1;Artista;9;2;3;;A
+459090;Hombre;0;31;0;Artista;1;1;2;Cat_6;B
+459091;Hombre;1;72;1;Artista;1;2;6;Cat_1;D
+459093;Mujer;1;41;1;Doctor;9;2;2;;D
+459100;Mujer;0;61;1;Artista;11;1;1;Cat_6;C
+459106;Hombre;1;62;1;Artista;0;1;2;Cat_6;A
+459114;Hombre;1;56;1;Artista;1;2;2;Cat_6;B
+459116;Hombre;1;60;1;Artista;2;2;5;Cat_6;C
+459117;Hombre;1;68;1;Artista;0;3;2;Cat_6;B
+459118;Hombre;0;19;0;Personal de salud;0;1;8;Cat_6;A
+459119;Hombre;1;57;1;Ejecutivo;8;3;3;Cat_6;D
+459120;Hombre;0;19;0;Personal de salud;5;1;5;Cat_2;A
+459121;Mujer;1;51;1;Artista;3;2;6;Cat_6;C
+459123;Mujer;1;86;0;Artista;1;3;2;Cat_6;A
+459130;Mujer;1;74;0;Abogado;1;3;2;Cat_6;C
+459132;Hombre;0;23;0;Entertainment;6;1;2;Cat_6;B
+459136;Hombre;1;47;1;Artista;0;2;2;Cat_6;D
+459140;Mujer;0;19;0;Personal de salud;7;1;6;Cat_6;D
+459143;Hombre;1;50;0;Artista;0;3;4;Cat_6;B
+459144;Hombre;1;80;1;Abogado;0;3;2;Cat_6;B
+459145;Hombre;1;78;0;Abogado;0;1;1;Cat_2;C
+459150;Mujer;0;48;1;Doctor;0;1;1;Cat_6;A
+459160;Hombre;1;70;1;Doctor;1;2;2;Cat_6;B
+459161;Hombre;1;50;1;Ejecutivo;3;3;5;Cat_6;D
+459162;Mujer;1;83;1;Abogado;0;3;2;Cat_6;C
+459163;Hombre;0;35;1;Entertainment;0;1;1;Cat_6;A
+459167;Mujer;0;36;1;Artista;0;1;2;Cat_5;D
+459170;Mujer;0;35;1;Artista;1;1;1;Cat_6;B
+459171;Hombre;1;35;1;Artista;0;2;2;Cat_6;D
+459172;Hombre;0;18;0;Personal de salud;3;1;3;Cat_2;C
+459175;Mujer;1;73;1;Artista;1;2;2;Cat_6;C
+459181;Hombre;1;62;0;Artista;1;3;3;Cat_6;A
+459182;Mujer;1;46;1;Artista;1;2;2;Cat_6;A
+459184;Hombre;1;43;1;Entertainment;0;1;4;Cat_4;A
+459185;Mujer;0;32;1;Entertainment;7;1;1;Cat_6;D
+459193;Hombre;0;39;1;Artista;0;1;1;Cat_6;C
+459194;Mujer;1;89;1;Abogado;0;3;2;Cat_6;A
+459196;Mujer;0;18;0;Personal de salud;0;1;3;Cat_4;B
+459208;Mujer;1;57;1;Artista;0;3;2;Cat_3;B
+459209;Mujer;0;18;0;Entertainment;0;1;4;Cat_6;D
+459210;Mujer;1;71;1;Artista;1;3;2;Cat_6;C
+459212;Mujer;1;69;1;Artista;0;2;2;Cat_6;C
+459213;Mujer;0;42;1;Personal de salud;0;1;4;Cat_6;D
+459216;Mujer;0;36;1;Artista;0;1;2;Cat_6;B
+459220;Mujer;1;80;1;Abogado;1;3;2;Cat_6;D
+459221;Hombre;1;69;0;Entertainment;0;1;1;Cat_6;B
+459222;Mujer;1;67;1;Artista;0;2;3;Cat_6;A
+459223;Mujer;1;47;1;Doctor;1;2;4;Cat_6;C
+459224;Mujer;1;49;1;Artista;0;2;2;Cat_6;D
+459227;Mujer;1;32;0;Ingeniero;9;1;4;Cat_6;A
+459229;Mujer;1;65;1;Abogado;1;2;4;Cat_6;D
+459236;Mujer;1;78;0;Abogado;0;3;2;Cat_6;D
+459237;Hombre;0;33;1;Artista;1;1;6;Cat_6;D
+459244;Hombre;1;48;1;Artista;1;1;1;Cat_6;D
+459247;Hombre;1;58;1;Ejecutivo;1;2;5;Cat_6;A
+459258;Mujer;1;83;1;Abogado;1;3;0;Cat_6;C
+459263;Mujer;0;30;0;Personal de salud;9;1;4;Cat_6;A
+459264;Mujer;0;35;1;Artista;0;1;2;Cat_6;D
+459266;Hombre;0;32;1;Personal de salud;6;1;5;Cat_6;D
+459270;Hombre;1;69;1;Constructor;1;3;2;Cat_6;B
+459284;Mujer;1;71;1;Abogado;1;3;2;Cat_6;C
+459287;Hombre;0;43;1;Abogado;0;1;1;Cat_4;C
+459288;Hombre;1;37;1;Artista;0;1;2;Cat_6;A
+459289;Hombre;0;42;1;Doctor;0;1;1;Cat_6;B
+459290;Mujer;1;70;1;Doctor;1;2;2;Cat_6;C
+459292;Hombre;0;46;1;Artista;0;1;2;Cat_6;B
+459293;Hombre;0;21;0;Personal de salud;0;1;0;Cat_1;C
+459296;Hombre;1;70;1;Artista;0;2;2;Cat_6;B
+459300;Mujer;1;61;1;Artista;1;1;0;Cat_6;B
+459307;Hombre;1;60;1;Entertainment;1;1;1;Cat_6;C
+459310;Hombre;0;37;1;Entertainment;0;1;2;Cat_2;B
+459316;Hombre;1;30;1;Personal de salud;1;1;2;Cat_6;A
+459318;Mujer;0;32;1;Ingeniero;1;1;3;Cat_6;D
+459320;Hombre;1;26;1;Ejecutivo;0;1;3;Cat_6;D
+459322;Hombre;0;42;1;Marketing;0;1;1;Cat_6;A
+459323;Mujer;0;18;0;Doctor;0;1;0;Cat_6;D
+459338;Hombre;1;80;0;Ejecutivo;0;1;0;Cat_6;D
+459339;Hombre;1;29;1;Personal de salud;8;3;2;Cat_6;C
+459344;Mujer;1;88;1;Artista;1;3;2;Cat_6;D
+459347;Hombre;1;70;1;Abogado;1;1;1;Cat_6;A
+459349;Mujer;1;50;1;Artista;1;3;4;Cat_6;B
+459352;Hombre;1;43;1;Doctor;4;2;4;Cat_3;B
+459353;Hombre;1;51;1;Artista;6;2;2;Cat_6;B
+459354;Mujer;1;50;1;Artista;0;3;3;Cat_6;B
+459355;Mujer;1;74;0;Constructor;0;1;1;Cat_6;B
+459360;Mujer;0;29;1;Personal de salud;0;1;3;Cat_6;A
+459361;Mujer;0;32;1;Ingeniero;0;1;2;Cat_6;D
+459362;Hombre;1;60;0;Ejecutivo;0;1;2;Cat_6;D
+459363;Hombre;0;46;1;Artista;2;1;1;Cat_6;C
+459364;Mujer;1;81;1;Marketing;0;1;2;Cat_6;B
+459369;Hombre;1;41;0;Ingeniero;0;2;7;Cat_4;A
+459375;Hombre;1;22;0;Ejecutivo;0;3;4;Cat_6;A
+459377;Hombre;1;37;1;Artista;0;2;3;Cat_6;D
+459383;Hombre;1;43;0;Ingeniero;0;1;1;Cat_6;D
+459384;Hombre;1;50;1;Artista;1;2;3;Cat_6;D
+459385;Mujer;1;35;1;Artista;1;2;2;Cat_7;A
+459386;Hombre;1;65;0;Abogado;1;3;2;Cat_6;C
+459391;Mujer;0;41;1;Ingeniero;0;1;4;Cat_6;B
+459394;Hombre;0;28;0;Entertainment;8;1;2;Cat_6;D
+459397;Hombre;1;55;1;Artista;4;2;2;Cat_6;A
+459398;Mujer;1;58;0;Abogado;0;3;2;Cat_6;B
+459401;Hombre;0;28;0;Personal de salud;1;1;3;;C
+459403;Hombre;1;48;1;Artista;0;2;4;Cat_7;B
+459405;Mujer;1;78;0;Doctor;1;3;2;Cat_6;B
+459407;Mujer;0;35;1;Doctor;1;1;3;Cat_6;A
+459409;Mujer;1;76;1;Abogado;0;3;2;Cat_6;B
+459410;Mujer;1;88;1;Abogado;1;3;2;Cat_6;A
+459412;Hombre;1;61;1;Desconocida;1;2;3;Cat_6;D
+459413;Mujer;1;79;1;Artista;0;3;2;Cat_6;B
+459415;Hombre;0;30;0;Doctor;0;1;4;Cat_6;A
+459418;Hombre;1;69;0;Ejecutivo;0;3;2;Cat_6;C
+459419;Hombre;1;65;1;Doctor;1;2;2;Cat_6;B
+459420;Mujer;1;70;1;Abogado;1;1;2;Cat_6;C
+459421;Hombre;1;32;0;Personal de salud;0;2;4;Cat_6;D
+459422;Hombre;1;46;1;Entertainment;0;1;4;Cat_6;A
+459423;Hombre;0;21;0;Personal de salud;8;1;5;Cat_6;A
+459424;Hombre;1;47;1;Doctor;0;1;3;Cat_6;B
+459428;Mujer;0;39;0;Marketing;0;1;2;Cat_4;D
+459432;Hombre;1;85;1;Abogado;0;1;3;Cat_6;C
+459436;Mujer;0;66;1;Artista;0;1;2;Cat_6;A
+459439;Mujer;1;50;1;Artista;1;2;2;Cat_6;A
+459445;Mujer;1;42;1;Artista;0;2;3;Cat_6;B
+459447;Hombre;1;53;1;Artista;9;1;1;Cat_6;C
+459449;Hombre;1;37;1;Artista;0;1;2;Cat_6;A
+459451;Mujer;1;45;1;Artista;1;1;2;Cat_6;D
+459456;Mujer;0;66;0;Abogado;0;1;1;Cat_6;A
+459458;Hombre;0;33;0;Marketing;0;1;0;Cat_6;C
+459459;Hombre;1;40;1;Artista;4;1;1;Cat_6;A
+459461;Mujer;1;35;1;Artista;1;1;1;Cat_1;B
+459464;Hombre;0;27;1;Artista;0;1;2;Cat_6;A
+459466;Mujer;1;48;1;Artista;0;2;3;Cat_4;A
+459467;Mujer;1;56;1;Artista;0;2;2;Cat_6;B
+459469;Hombre;1;25;1;Personal de salud;0;1;6;Cat_6;B
+459471;Mujer;0;30;0;Artista;0;1;8;Cat_6;A
+459480;Mujer;1;46;1;Entertainment;7;1;3;Cat_6;C
+459481;Hombre;1;49;0;Abogado;0;1;2;Cat_6;C
+459482;Hombre;1;72;0;Marketing;1;1;4;Cat_6;C
+459485;Mujer;1;79;1;Abogado;0;3;2;Cat_6;C
+459496;Mujer;0;35;1;Artista;0;1;3;Cat_6;A
+459497;Mujer;1;77;1;Abogado;0;1;1;Cat_6;B
+459499;Mujer;1;79;0;Abogado;0;3;2;Cat_6;C
+459503;Hombre;1;42;1;Personal de salud;6;3;4;Cat_6;D
+459505;Mujer;0;42;1;Ingeniero;0;1;1;Cat_6;A
+459507;Hombre;1;67;0;Abogado;0;3;2;Cat_1;B
+459509;Hombre;0;26;1;Personal de salud;1;1;1;Cat_6;B
+459512;Hombre;1;67;1;Abogado;1;3;2;Cat_6;A
+459515;Hombre;1;55;1;Ingeniero;1;1;1;Cat_6;D
+459516;Mujer;0;56;1;Artista;0;2;2;Cat_6;D
+459518;Hombre;1;63;0;Desconocida;0;2;4;Cat_6;A
+459535;Hombre;1;46;1;Artista;8;2;2;Cat_6;C
+459536;Hombre;1;32;1;Personal de salud;7;1;2;Cat_6;D
+459538;Mujer;0;49;1;Constructor;13;1;1;Cat_6;B
+459541;Hombre;1;59;1;Artista;1;3;2;Cat_6;C
+459549;Hombre;0;22;0;Personal de salud;8;1;5;Cat_4;D
+459555;Mujer;0;28;1;Artista;8;1;1;Cat_6;B
+459558;Hombre;0;28;1;Entertainment;1;1;3;Cat_6;A
+459564;Hombre;1;75;1;Abogado;2;1;1;Cat_6;D
+459566;Mujer;1;37;1;Artista;13;1;2;Cat_6;A
+459567;Hombre;1;50;1;Doctor;0;2;2;Cat_6;B
+459571;Mujer;1;50;1;Ejecutivo;1;3;4;Cat_6;C
+459576;Mujer;1;88;0;Abogado;0;1;0;;B
+459579;Mujer;1;35;1;Artista;3;2;5;Cat_4;A
+459581;Mujer;0;35;0;Desconocida;0;1;0;Cat_7;C
+459582;Hombre;1;31;0;Entertainment;0;2;3;Cat_6;A
+459583;Hombre;1;46;1;Artista;0;1;1;Cat_6;C
+459585;Mujer;1;50;1;Artista;1;2;4;Cat_6;C
+459587;Mujer;0;33;1;Artista;7;1;3;Cat_6;A
+459588;Hombre;1;49;1;Artista;0;1;1;Cat_6;A
+459591;Hombre;1;52;1;Artista;1;2;3;Cat_6;C
+459592;Hombre;0;25;0;Personal de salud;0;1;3;Cat_6;D
+459594;Mujer;1;41;1;Artista;6;1;1;Cat_6;D
+459597;Mujer;1;68;1;Artista;0;3;2;Cat_6;D
+459603;Mujer;1;79;0;Abogado;2;3;2;Cat_6;A
+459607;Hombre;1;40;1;Entertainment;5;2;5;Cat_6;A
+459608;Mujer;0;62;1;Doctor;0;1;1;Cat_6;D
+459612;Hombre;0;21;0;Personal de salud;0;1;2;Cat_6;D
+459616;Mujer;0;20;0;Personal de salud;0;1;4;Cat_1;D
+459617;Hombre;0;28;1;Entertainment;1;1;5;Cat_6;C
+459618;Hombre;1;57;1;Doctor;0;2;2;Cat_4;B
+459621;Mujer;0;25;0;Personal de salud;8;1;0;;A
+459625;Mujer;1;63;0;Ingeniero;8;1;1;Cat_6;B
+459626;Mujer;1;26;0;Entertainment;1;1;3;Cat_6;D
+459632;Mujer;1;50;0;Marketing;0;3;3;Cat_4;C
+459644;Mujer;0;30;0;Marketing;9;1;4;Cat_2;D
+459652;Mujer;0;26;0;Ingeniero;0;1;4;Cat_4;B
+459658;Hombre;1;61;1;Artista;1;2;3;Cat_6;C
+459664;Hombre;0;42;1;Artista;3;1;1;Cat_6;A
+459665;Hombre;1;88;1;Artista;4;1;2;Cat_6;A
+459672;Hombre;1;45;0;Artista;3;2;3;Cat_6;A
+459673;Mujer;1;86;1;Abogado;1;1;1;Cat_6;C
+459678;Hombre;0;18;0;Personal de salud;1;1;5;Cat_6;A
+459680;Hombre;0;37;1;Entertainment;0;1;1;Cat_6;B
+459686;Hombre;1;46;1;Artista;1;1;1;Cat_6;A
+459691;Hombre;1;58;0;Artista;0;2;2;Cat_6;D
+459692;Mujer;1;72;1;Abogado;8;3;2;Cat_6;A
+459693;Mujer;1;50;1;Artista;0;3;3;;C
+459699;Mujer;0;56;1;Ingeniero;8;2;3;Cat_6;A
+459701;Hombre;0;46;0;Artista;3;1;3;Cat_5;D
+459710;Hombre;1;57;1;Artista;0;1;1;Cat_6;D
+459711;Hombre;1;42;0;Ejecutivo;9;3;6;Cat_6;D
+459712;Hombre;0;20;0;Personal de salud;0;1;4;Cat_6;D
+459713;Hombre;0;19;0;Personal de salud;0;1;3;Cat_6;C
+459715;Hombre;0;19;0;Personal de salud;4;1;4;Cat_6;D
+459718;Hombre;1;68;1;Ejecutivo;1;1;1;Cat_6;B
+459725;Mujer;1;40;1;Artista;0;1;2;Cat_6;A
+459727;Hombre;1;82;0;Abogado;0;3;2;Cat_6;D
+459740;Mujer;0;23;0;Personal de salud;1;1;3;Cat_6;D
+459742;Mujer;1;84;0;Abogado;1;3;2;Cat_6;D
+459745;Hombre;1;51;0;Artista;0;1;4;Cat_1;C
+459746;Hombre;0;59;1;Artista;1;2;2;Cat_6;B
+459747;Mujer;1;41;1;Artista;1;2;5;Cat_6;C
+459748;Hombre;1;51;0;Ejecutivo;1;3;2;Cat_6;B
+459755;Mujer;1;62;0;Artista;0;2;3;Cat_6;C
+459756;Mujer;1;62;0;Abogado;1;3;4;Cat_4;C
+459760;Mujer;1;38;1;Artista;8;1;1;Cat_6;A
+459763;Hombre;0;18;0;Artista;0;1;4;Cat_4;D
+459767;Hombre;0;22;0;Personal de salud;3;1;4;Cat_6;D
+459771;Mujer;0;30;1;Doctor;0;1;3;Cat_3;A
+459779;Mujer;1;62;1;Entertainment;1;1;1;Cat_6;B
+459780;Mujer;0;43;0;Entertainment;1;1;3;Cat_6;A
+459785;Mujer;0;32;1;Ingeniero;0;1;1;Cat_3;D
+459793;Hombre;1;37;1;Artista;1;3;0;Cat_6;B
+459795;Hombre;0;48;1;Artista;1;1;1;Cat_6;B
+459801;Mujer;0;31;1;Ingeniero;4;1;2;Cat_6;B
+459804;Hombre;1;46;0;Artista;4;3;4;Cat_6;C
+459806;Mujer;1;49;0;Ingeniero;1;2;4;Cat_6;A
+459808;Hombre;1;43;0;Doctor;0;2;4;Cat_6;A
+459815;Hombre;0;42;1;Artista;8;1;1;Cat_6;A
+459816;Hombre;1;37;1;Doctor;0;1;2;Cat_6;A
+459819;Hombre;1;72;1;Entertainment;0;3;2;Cat_6;C
+459821;Hombre;0;71;0;Ejecutivo;0;3;1;;A
+459822;Mujer;0;39;1;Ingeniero;1;1;1;Cat_4;D
+459825;Hombre;0;20;0;Personal de salud;0;1;5;Cat_2;D
+459827;Mujer;0;26;0;Desconocida;0;1;1;Cat_7;A
+459832;Hombre;1;72;1;Ejecutivo;1;1;1;Cat_6;D
+459845;Hombre;1;70;1;Personal de salud;0;1;1;Cat_4;B
+459851;Hombre;0;45;1;Artista;2;1;1;Cat_6;C
+459853;Hombre;0;33;0;Ejecutivo;7;1;5;Cat_6;D
+459856;Hombre;1;50;0;Entertainment;0;2;3;Cat_6;C
+459857;Hombre;0;31;1;Entertainment;6;1;1;Cat_6;A
+459861;Mujer;1;74;0;Abogado;1;3;2;Cat_6;B
+459864;Mujer;1;68;0;Artista;0;3;2;Cat_6;A
+459866;Mujer;0;49;1;Artista;0;1;1;Cat_6;D
+459867;Hombre;1;49;1;Marketing;0;3;2;Cat_6;C
+459869;Mujer;0;18;0;Personal de salud;1;1;3;Cat_6;A
+459871;Mujer;1;85;0;Entertainment;2;2;2;Cat_6;C
+459885;Mujer;0;38;1;Entertainment;0;1;4;Cat_6;A
+459886;Hombre;1;28;0;Artista;0;1;4;Cat_6;A
+459887;Hombre;1;46;0;Artista;3;2;2;;D
+459889;Hombre;1;59;1;Constructor;9;2;3;Cat_6;B
+459897;Mujer;1;56;1;Artista;0;1;2;Cat_6;B
+459909;Hombre;1;69;1;Artista;0;1;1;Cat_6;C
+459910;Hombre;1;66;1;Artista;0;1;2;Cat_6;C
+459911;Hombre;0;18;0;Personal de salud;4;1;6;Cat_2;D
+459914;Hombre;0;36;1;Artista;4;1;1;Cat_4;A
+459923;Hombre;0;31;1;Marketing;1;1;2;Cat_3;B
+459925;Hombre;1;67;0;Ejecutivo;1;3;2;Cat_4;D
+459937;Mujer;0;39;1;Artista;7;1;1;Cat_6;D
+459943;Hombre;0;42;1;Entertainment;4;1;3;Cat_6;C
+459945;Hombre;1;50;1;Artista;0;1;2;Cat_6;A
+459946;Mujer;1;37;1;Artista;0;2;2;Cat_6;D
+459949;Mujer;0;59;1;Artista;0;1;1;Cat_6;C
+459953;Hombre;1;50;1;Artista;8;1;2;Cat_6;D
+459961;Hombre;1;48;1;Artista;8;1;3;Cat_2;B
+459962;Hombre;1;55;1;Artista;9;1;1;Cat_6;B
+459966;Mujer;0;33;1;Doctor;1;1;3;Cat_6;A
+459968;Hombre;0;38;1;Artista;13;1;1;Cat_7;A
+459970;Hombre;0;43;1;Artista;0;1;2;Cat_6;A
+459973;Mujer;0;53;1;Artista;0;1;2;Cat_6;A
+459974;Hombre;0;37;1;Entertainment;0;1;1;Cat_6;B
+459975;Mujer;0;36;1;Artista;5;1;1;Cat_6;A
+459981;Hombre;0;36;1;Artista;5;1;1;Cat_6;A
+459986;Hombre;1;62;1;Artista;1;1;1;Cat_6;D
+459995;Mujer;0;38;0;Artista;2;1;2;Cat_6;B
+459996;Hombre;0;55;1;Entertainment;1;1;1;Cat_6;B
+459998;Hombre;1;60;0;Entertainment;1;2;2;Cat_6;C
+460004;Mujer;1;36;1;Entertainment;7;2;2;Cat_5;A
+460006;Hombre;0;30;0;Entertainment;5;1;9;Cat_3;D
+460014;Mujer;0;66;0;Entertainment;4;1;3;Cat_6;A
+460023;Hombre;1;45;1;Entertainment;1;1;1;Cat_6;D
+460027;Mujer;0;40;1;Entertainment;6;1;0;Cat_6;C
+460033;Mujer;0;45;1;Entertainment;5;1;3;Cat_6;D
+460036;Hombre;1;41;1;Desconocida;2;1;1;Cat_6;B
+460040;Mujer;1;62;1;Constructor;4;1;1;Cat_5;A
+460045;Hombre;1;61;1;Artista;1;1;2;Cat_6;C
+460046;Mujer;1;50;1;Artista;4;1;2;Cat_6;D
+460050;Hombre;1;53;1;Entertainment;3;1;2;Cat_6;A
+460051;Hombre;0;39;1;Artista;7;1;1;Cat_6;A
+460052;Mujer;0;86;1;Abogado;0;1;1;Cat_3;D
+460058;Hombre;1;50;1;Artista;1;1;1;Cat_4;B
+460059;Mujer;0;46;0;Entertainment;4;1;0;Cat_4;A
+460061;Hombre;0;52;1;Marketing;0;1;1;Cat_3;B
+460066;Mujer;0;45;0;Marketing;0;1;1;Cat_6;B
+460068;Mujer;0;37;1;Artista;9;1;1;Cat_6;A
+460073;Mujer;1;36;1;Ingeniero;3;1;1;Cat_6;B
+460075;Mujer;0;25;1;Artista;0;1;1;Cat_6;D
+460079;Mujer;0;40;0;Doctor;1;1;1;Cat_6;B
+460081;Hombre;1;41;1;Artista;11;3;2;Cat_6;A
+460088;Mujer;1;25;1;Constructor;0;3;2;Cat_6;B
+460090;Hombre;1;80;0;Abogado;4;2;2;Cat_6;B
+460093;Mujer;0;46;1;Artista;3;1;1;Cat_3;A
+460095;Mujer;1;81;1;Abogado;1;1;1;Cat_6;D
+460097;Hombre;0;40;1;Artista;0;1;2;Cat_3;B
+460099;Hombre;0;49;1;Desconocida;1;1;1;Cat_3;A
+460101;Mujer;0;26;1;Personal de salud;8;1;3;Cat_3;D
+460103;Hombre;0;26;1;Artista;1;1;1;Cat_4;D
+460105;Mujer;0;47;1;Artista;0;1;1;Cat_4;A
+460106;Mujer;1;71;1;Entertainment;0;1;0;Cat_6;A
+460107;Hombre;1;48;1;Ingeniero;1;2;5;Cat_6;C
+460108;Hombre;1;39;1;Artista;1;2;3;Cat_2;B
+460109;Hombre;1;50;1;Artista;8;2;2;Cat_6;B
+460110;Mujer;0;46;1;Artista;1;1;2;;B
+460112;Hombre;1;26;1;Ingeniero;8;2;2;Cat_3;D
+460116;Mujer;1;42;1;Desconocida;1;1;2;Cat_6;D
+460118;Mujer;1;36;1;Artista;4;1;2;Cat_6;D
+460119;Hombre;0;29;1;Personal de salud;1;1;4;Cat_6;D
+460122;Mujer;0;39;0;Artista;1;1;1;Cat_6;A
+460124;Mujer;0;41;1;Artista;0;1;3;Cat_6;B
+460126;Mujer;1;48;1;Marketing;8;1;0;Cat_6;C
+460134;Hombre;1;40;1;Entertainment;9;3;3;Cat_6;C
+460135;Mujer;0;25;1;Personal de salud;4;1;3;Cat_6;A
+460140;Mujer;1;41;1;Artista;7;1;2;Cat_6;A
+460141;Hombre;0;37;1;Artista;11;1;1;Cat_6;A
+460144;Mujer;0;53;1;Doctor;0;1;0;Cat_3;A
+460146;Mujer;1;51;1;Ingeniero;0;2;3;Cat_3;A
+460147;Hombre;1;73;1;Entertainment;1;2;3;Cat_6;D
+460157;Hombre;1;61;0;Desconocida;1;1;5;Cat_4;D
+460160;Hombre;0;39;1;Entertainment;5;1;1;Cat_3;A
+460162;Mujer;0;19;0;Personal de salud;0;1;4;Cat_2;D
+460166;Mujer;0;19;0;Personal de salud;0;1;7;Cat_2;A
+460167;Mujer;0;23;0;Entertainment;1;1;5;Cat_2;D
+460168;Hombre;1;83;1;Ejecutivo;0;3;2;Cat_2;A
+460171;Mujer;1;62;1;Artista;1;3;2;Cat_6;C
+460174;Mujer;0;43;1;Artista;9;1;4;Cat_6;C
+460175;Mujer;0;27;0;Artista;0;1;5;Cat_2;A
+460177;Hombre;0;50;1;Artista;0;1;1;Cat_6;B
+460179;Mujer;0;23;0;Entertainment;0;1;6;Cat_2;D
+460183;Hombre;0;35;0;Entertainment;9;1;2;Cat_6;D
+460185;Hombre;0;32;0;Personal de salud;9;1;3;Cat_6;D
+460187;Mujer;0;42;1;Doctor;2;1;3;Cat_6;C
+460189;Hombre;0;33;0;Entertainment;13;1;1;Cat_6;A
+460190;Mujer;0;28;1;Entertainment;9;1;3;Cat_6;D
+460192;Hombre;1;35;1;Desconocida;1;1;2;Cat_7;A
+460196;Mujer;0;35;1;Personal de salud;9;1;2;Cat_6;D
+460206;Mujer;1;39;1;Entertainment;0;1;2;Cat_6;A
+460211;Hombre;1;28;0;Artista;6;1;1;Cat_6;A
+460212;Hombre;1;35;1;Entertainment;11;1;6;Cat_6;A
+460214;Mujer;1;45;1;Ingeniero;0;2;2;Cat_6;C
+460222;Mujer;0;73;1;Abogado;4;3;0;Cat_6;A
+460223;Hombre;0;52;0;Entertainment;1;1;1;Cat_6;A
+460227;Hombre;0;28;0;Personal de salud;0;1;3;Cat_6;A
+460242;Hombre;1;38;1;Personal de salud;9;1;3;Cat_6;A
+460243;Mujer;0;42;1;Entertainment;8;1;1;Cat_6;C
+460247;Mujer;0;26;0;Doctor;9;1;0;Cat_6;B
+460248;Mujer;0;27;1;Personal de salud;7;1;2;Cat_6;B
+460252;Hombre;1;41;1;Artista;0;1;2;Cat_6;B
+460263;Hombre;1;41;1;Artista;1;1;2;Cat_6;B
+460265;Hombre;1;47;1;Ejecutivo;0;3;4;Cat_6;D
+460270;Hombre;0;35;1;Doctor;8;1;1;Cat_6;A
+460272;Mujer;0;88;1;Abogado;0;1;1;Cat_6;B
+460275;Mujer;0;46;1;Artista;6;1;1;Cat_6;B
+460276;Mujer;1;41;1;Artista;3;1;2;Cat_6;A
+460281;Mujer;0;30;1;Doctor;10;1;5;Cat_6;B
+460283;Hombre;1;43;1;Doctor;12;1;2;Cat_6;A
+460284;Mujer;0;29;1;Entertainment;9;1;2;Cat_6;A
+460287;Hombre;1;48;1;Artista;1;1;1;Cat_6;B
+460289;Mujer;1;61;1;Artista;4;2;6;Cat_4;B
+460298;Mujer;0;51;1;Abogado;2;1;1;Cat_6;B
+460303;Mujer;0;38;1;Artista;2;1;1;;A
+460305;Mujer;0;49;1;Entertainment;0;3;1;Cat_6;A
+460306;Mujer;0;43;1;Personal de salud;9;1;1;Cat_6;D
+460310;Hombre;0;27;0;Personal de salud;14;1;4;Cat_6;A
+460315;Mujer;0;35;0;Doctor;14;1;6;Cat_7;A
+460319;Mujer;1;39;0;Doctor;4;2;2;Cat_7;B
+460322;Mujer;1;52;0;Ingeniero;9;1;0;Cat_6;B
+460323;Mujer;0;38;1;Ingeniero;10;1;1;Cat_6;B
+460324;Mujer;0;30;1;Entertainment;12;1;2;Cat_6;D
+460327;Mujer;0;43;1;Artista;10;1;1;Cat_6;D
+460333;Mujer;0;42;0;Entertainment;10;1;4;Cat_6;D
+460336;Mujer;0;46;1;Artista;2;1;1;Cat_7;B
+460340;Mujer;0;47;1;Artista;11;1;2;Cat_6;B
+460341;Mujer;0;32;0;Entertainment;13;1;5;Cat_7;B
+460344;Mujer;1;53;1;Artista;11;2;2;Cat_6;D
+460346;Mujer;1;43;1;Artista;12;2;0;Cat_6;A
+460348;Mujer;0;39;1;Artista;0;1;2;Cat_6;A
+460349;Hombre;0;42;1;Artista;3;2;2;Cat_6;A
+460354;Mujer;0;37;1;Artista;3;1;1;Cat_3;B
+460356;Hombre;0;19;0;Personal de salud;0;1;4;Cat_6;D
+460358;Hombre;0;30;0;Marketing;1;1;1;Cat_3;D
+460361;Mujer;1;49;1;Artista;0;1;1;Cat_4;A
+460362;Hombre;1;55;1;Personal de salud;0;1;3;Cat_4;B
+460365;Mujer;1;59;1;Doctor;1;1;2;Cat_4;C
+460369;Mujer;1;46;1;Artista;0;1;2;Cat_6;C
+460370;Mujer;1;27;1;Ejecutivo;9;3;2;Cat_6;B
+460371;Mujer;0;25;1;Artista;1;1;2;Cat_6;B
+460378;Mujer;0;37;1;Doctor;1;1;1;Cat_6;B
+460379;Hombre;0;38;1;Artista;9;1;3;Cat_6;A
+460380;Hombre;0;29;1;Entertainment;9;1;3;Cat_6;D
+460381;Hombre;0;28;1;Artista;11;1;2;Cat_6;A
+460384;Mujer;1;27;1;Marketing;8;1;2;Cat_6;D
+460387;Mujer;0;42;0;Entertainment;3;1;2;Cat_6;D
+460388;Mujer;0;43;1;Artista;14;1;2;Cat_6;B
+460389;Mujer;1;40;1;Personal de salud;8;2;2;Cat_6;A
+460390;Hombre;0;41;1;Artista;9;1;3;Cat_6;B
+460392;Hombre;1;46;0;Entertainment;8;1;1;Cat_1;B
+460394;Mujer;0;32;1;Personal de salud;9;1;3;Cat_6;D
+460397;Mujer;0;56;1;Entertainment;1;1;1;Cat_6;C
+460399;Hombre;0;28;1;Marketing;12;1;1;Cat_6;A
+460401;Mujer;0;25;1;Artista;0;1;3;Cat_7;A
+460404;Hombre;1;42;1;Artista;6;1;7;Cat_6;C
+460405;Mujer;0;41;1;Entertainment;5;1;2;Cat_6;C
+460406;Hombre;1;36;1;Personal de salud;3;1;2;Cat_6;C
+460408;Mujer;0;42;1;Artista;2;1;1;Cat_6;A
+460409;Mujer;0;42;1;Artista;8;1;4;Cat_6;C
+460415;Mujer;0;55;1;Entertainment;1;1;2;Cat_6;B
+460422;Hombre;1;52;1;Entertainment;1;3;0;Cat_6;D
+460431;Mujer;0;47;1;Ingeniero;1;1;1;Cat_6;A
+460434;Hombre;0;57;1;Artista;2;3;3;Cat_6;B
+460437;Mujer;0;26;1;Artista;8;1;1;Cat_6;D
+460440;Mujer;0;28;0;Artista;5;1;2;Cat_6;B
+460443;Mujer;0;37;1;Doctor;0;1;1;Cat_6;D
+460447;Hombre;0;89;0;Abogado;0;1;1;Cat_3;D
+460449;Hombre;0;25;0;Marketing;2;1;1;Cat_3;D
+460450;Hombre;1;50;1;Ejecutivo;1;3;4;Cat_4;C
+460453;Mujer;0;42;1;Doctor;5;1;1;Cat_6;B
+460454;Hombre;0;48;1;Artista;0;1;1;Cat_6;C
+460457;Mujer;0;37;1;Entertainment;9;1;0;Cat_3;D
+460459;Mujer;0;30;0;Ingeniero;1;1;5;Cat_3;D
+460460;Hombre;1;26;0;Entertainment;2;1;4;Cat_3;A
+460467;Mujer;1;47;1;Artista;0;2;2;Cat_6;B
+460470;Hombre;0;36;0;Personal de salud;0;1;4;Cat_4;D
+460476;Hombre;1;53;0;Doctor;0;2;4;Cat_3;A
+460477;Hombre;0;30;0;Entertainment;1;1;6;Cat_3;A
+460484;Mujer;0;20;0;Personal de salud;4;1;7;Cat_3;D
+460485;Mujer;0;19;0;Marketing;8;1;5;Cat_3;D
+460489;Hombre;0;19;0;Personal de salud;9;1;6;Cat_3;D
+460492;Mujer;0;37;0;Marketing;12;1;0;Cat_3;D
+460495;Hombre;0;20;0;Personal de salud;0;1;6;Cat_3;D
+460504;Hombre;0;39;0;Ejecutivo;0;2;3;Cat_3;A
+460505;Mujer;0;26;1;Ingeniero;1;1;3;Cat_3;D
+460507;Hombre;0;31;0;Doctor;0;1;4;Cat_3;A
+460508;Hombre;1;31;1;Personal de salud;2;3;3;Cat_3;A
+460518;Mujer;1;41;1;Ingeniero;9;2;3;Cat_3;A
+460522;Mujer;1;32;0;Constructor;0;2;2;Cat_4;D
+460541;Mujer;1;42;1;Constructor;0;2;3;Cat_3;D
+460542;Mujer;1;89;0;Abogado;1;1;0;Cat_3;B
+460545;Hombre;1;78;0;Abogado;1;3;3;Cat_3;B
+460546;Mujer;1;65;1;Abogado;1;1;2;Cat_3;D
+460547;Mujer;1;48;1;Constructor;0;2;0;Cat_3;A
+460549;Hombre;0;36;1;Artista;8;1;2;Cat_3;C
+460550;Mujer;1;55;1;Artista;0;2;4;Cat_3;C
+460551;Hombre;1;52;1;Ingeniero;0;2;2;Cat_3;B
+460555;Hombre;1;52;1;Constructor;7;2;3;Cat_3;D
+460556;Mujer;1;41;1;Desconocida;1;1;1;Cat_3;D
+460558;Mujer;1;36;1;Ingeniero;0;1;1;Cat_3;D
+460561;Mujer;0;37;0;Ingeniero;7;1;1;Cat_3;C
+460563;Mujer;0;40;0;Personal de salud;1;1;2;Cat_1;A
+460566;Hombre;1;38;1;Constructor;0;2;2;Cat_3;B
+460571;Hombre;0;25;0;Doctor;0;1;3;Cat_3;B
+460572;Mujer;0;33;1;Ingeniero;1;1;4;Cat_3;A
+460574;Hombre;0;26;1;Artista;1;1;1;Cat_3;C
+460582;Mujer;0;28;0;Entertainment;0;1;1;Cat_3;D
+460583;Hombre;0;18;0;Marketing;0;1;6;Cat_3;B
+460585;Hombre;0;52;0;Entertainment;0;1;3;Cat_3;A
+460586;Hombre;0;26;1;Personal de salud;0;1;2;Cat_3;D
+460588;Hombre;0;18;0;Personal de salud;0;1;4;Cat_3;D
+460597;Mujer;0;20;0;Marketing;1;1;2;Cat_3;D
+460598;Mujer;1;36;1;Doctor;0;2;3;Cat_3;B
+460605;Hombre;1;27;1;Doctor;8;2;2;Cat_4;A
+460606;Hombre;0;21;0;Personal de salud;0;1;5;Cat_7;D
+460612;Hombre;0;27;1;Entertainment;8;1;4;Cat_3;D
+460615;Mujer;0;28;1;Personal de salud;0;1;0;Cat_3;D
+460618;Hombre;1;63;1;Abogado;0;1;4;Cat_3;A
+460619;Hombre;0;48;1;Entertainment;0;1;0;Cat_3;A
+460621;Hombre;1;80;1;Abogado;1;1;2;Cat_3;D
+460622;Mujer;1;71;1;Abogado;7;3;3;Cat_3;C
+460626;Hombre;1;47;0;Doctor;8;3;4;Cat_6;D
+460627;Mujer;0;22;0;Desconocida;1;1;4;Cat_3;B
+460633;Hombre;1;35;1;Desconocida;0;3;2;Cat_3;C
+460634;Mujer;0;40;0;Entertainment;0;1;6;Cat_3;A
+460637;Mujer;0;18;0;Personal de salud;0;1;0;Cat_3;A
+460638;Mujer;0;26;1;Artista;0;1;4;Cat_3;D
+460639;Mujer;1;73;1;Abogado;0;1;5;Cat_1;A
+460640;Hombre;1;86;0;Abogado;0;1;1;Cat_3;C
+460645;Mujer;0;37;0;Doctor;1;1;2;Cat_3;B
+460646;Hombre;1;59;1;Entertainment;0;1;0;Cat_3;A
+460653;Mujer;0;28;0;Constructor;8;1;1;Cat_4;B
+460656;Mujer;1;29;1;Artista;9;1;3;Cat_6;A
+460658;Mujer;1;37;1;Marketing;7;2;3;Cat_6;D
+460659;Mujer;1;46;1;Marketing;0;2;3;Cat_6;A
+460660;Hombre;0;39;0;Entertainment;6;1;1;Cat_6;B
+460661;Mujer;0;33;0;Constructor;8;1;1;Cat_6;D
+460668;Mujer;0;32;1;Doctor;0;1;2;Cat_3;D
+460678;Mujer;0;32;0;Doctor;6;1;2;Cat_3;A
+460686;Mujer;0;25;0;Constructor;8;1;1;Cat_3;D
+460687;Mujer;1;48;1;Constructor;9;2;2;Cat_3;C
+460691;Mujer;0;27;0;Constructor;8;1;1;Cat_3;B
+460702;Mujer;0;49;1;Artista;1;1;1;Cat_6;A
+460703;Mujer;1;33;1;Ingeniero;8;2;5;Cat_4;A
+460706;Mujer;0;33;0;Ingeniero;7;1;6;Cat_4;C
+460708;Hombre;1;39;1;Artista;0;1;3;Cat_6;A
+460716;Hombre;1;50;1;Entertainment;0;2;4;Cat_6;B
+460719;Mujer;1;84;1;Abogado;0;1;0;Cat_3;A
+460720;Mujer;1;46;1;Artista;0;2;2;Cat_6;B
+460722;Hombre;1;31;0;Entertainment;0;2;3;Cat_3;A
+460726;Hombre;1;57;1;Artista;3;2;2;Cat_6;B
+460727;Hombre;1;73;0;Ejecutivo;1;3;4;Cat_3;B
+460729;Hombre;1;36;1;Entertainment;9;1;4;Cat_6;A
+460733;Hombre;0;53;1;Marketing;2;1;4;Cat_6;C
+460734;Hombre;1;41;1;Entertainment;9;2;0;Cat_2;B
+460738;Mujer;0;53;0;Ingeniero;0;1;0;Cat_7;B
+460740;Hombre;1;35;1;Artista;2;2;3;Cat_6;C
+460743;Hombre;1;62;1;Artista;0;2;3;Cat_6;C
+460746;Hombre;0;23;0;Marketing;0;1;3;Cat_6;A
+460763;Hombre;0;51;1;Artista;1;1;2;Cat_6;C
+460769;Mujer;1;83;0;Abogado;1;3;2;Cat_6;A
+460780;Mujer;0;26;1;Personal de salud;0;1;2;Cat_3;B
+460783;Hombre;1;86;1;Abogado;1;1;1;Cat_6;C
+460785;Hombre;0;26;1;Personal de salud;0;1;4;Cat_7;D
+460789;Hombre;1;42;1;Ejecutivo;0;1;3;Cat_6;D
+460794;Mujer;1;41;1;Constructor;9;1;1;Cat_6;A
+460796;Hombre;1;67;0;Abogado;0;1;3;Cat_6;B
+460802;Hombre;1;68;1;Abogado;1;3;2;Cat_6;A
+460811;Mujer;1;45;0;Ingeniero;0;3;2;Cat_6;A
+460813;Mujer;1;86;0;Abogado;0;3;2;Cat_6;A
+460815;Hombre;1;62;1;Artista;0;3;2;Cat_3;A
+460822;Hombre;1;42;1;Artista;1;1;2;Cat_6;A
+460825;Hombre;0;26;1;Doctor;0;1;3;Cat_4;C
+460828;Hombre;0;48;0;Entertainment;1;1;1;Cat_6;C
+460830;Hombre;1;40;0;Entertainment;3;2;5;Cat_2;B
+460831;Hombre;0;20;0;Personal de salud;0;1;4;Cat_6;C
+460837;Mujer;0;25;1;Artista;1;1;1;Cat_5;D
+460838;Hombre;0;37;1;Artista;1;1;0;Cat_6;D
+460840;Hombre;1;77;1;Abogado;1;1;1;Cat_6;D
+460844;Hombre;1;50;1;Personal de salud;0;1;2;Cat_6;D
+460846;Mujer;0;22;0;Marketing;0;1;4;Cat_6;D
+460847;Hombre;0;26;1;Artista;1;1;3;Cat_6;A
+460851;Hombre;1;71;0;Doctor;0;2;3;Cat_6;D
+460855;Hombre;1;50;1;Artista;0;1;2;Cat_6;A
+460857;Hombre;0;29;0;Entertainment;1;1;1;Cat_4;D
+460859;Hombre;1;51;1;Entertainment;0;1;4;Cat_6;A
+460860;Hombre;1;52;1;Artista;6;2;4;Cat_6;C
+460861;Hombre;0;20;0;Personal de salud;1;1;3;Cat_3;A
+460866;Hombre;0;26;1;Doctor;0;1;9;Cat_4;B
+460870;Hombre;0;37;1;Personal de salud;0;1;0;Cat_4;C
+460871;Mujer;0;33;1;Personal de salud;0;1;0;Cat_6;B
+460872;Mujer;1;39;1;Artista;0;1;2;Cat_4;B
+460877;Mujer;1;53;0;Artista;1;2;5;Cat_6;B
+460878;Hombre;1;49;0;Entertainment;0;2;4;Cat_6;D
+460882;Hombre;0;21;0;Personal de salud;0;1;2;Cat_3;D
+460888;Hombre;1;39;0;Constructor;8;1;1;Cat_6;B
+460891;Mujer;1;38;0;Artista;2;2;4;Cat_3;B
+460897;Hombre;0;22;0;Personal de salud;4;1;4;Cat_6;B
+460898;Hombre;1;52;0;Artista;2;2;4;Cat_6;D
+460899;Hombre;0;40;1;Entertainment;0;1;3;Cat_6;C
+460901;Hombre;0;20;0;Doctor;8;1;3;Cat_6;A
+460902;Hombre;0;41;1;Ejecutivo;1;1;3;Cat_6;D
+460905;Hombre;0;30;1;Artista;1;1;1;Cat_3;A
+460906;Mujer;1;89;1;Abogado;1;3;3;Cat_6;D
+460907;Hombre;1;83;0;Abogado;1;3;3;Cat_6;A
+460923;Hombre;1;53;1;Artista;0;2;3;Cat_6;A
+460924;Hombre;0;31;0;Doctor;1;1;5;Cat_2;D
+460928;Hombre;1;48;1;Artista;1;2;4;Cat_6;C
+460934;Mujer;0;29;0;Doctor;0;1;2;Cat_6;A
+460935;Hombre;1;87;1;Abogado;0;1;1;Cat_6;D
+460945;Hombre;0;19;0;Ingeniero;4;1;7;Cat_6;A
+460953;Hombre;1;60;0;Entertainment;1;1;2;Cat_6;B
+460961;Hombre;0;23;0;Personal de salud;1;1;2;Cat_3;D
+460962;Hombre;1;61;1;Ejecutivo;9;3;4;Cat_6;D
+460963;Mujer;0;27;1;Artista;1;1;3;Cat_6;A
+460968;Hombre;1;32;0;Doctor;14;2;2;Cat_3;D
+460975;Hombre;1;79;0;Abogado;0;3;2;Cat_6;C
+460976;Hombre;0;19;0;Personal de salud;1;1;4;Cat_6;D
+460977;Hombre;1;42;1;Ejecutivo;0;3;3;Cat_4;C
+460979;Hombre;1;76;0;Abogado;1;1;1;Cat_6;D
+460981;Mujer;1;41;0;Marketing;1;2;2;Cat_6;D
+460984;Hombre;1;38;1;Entertainment;0;2;4;Cat_6;D
+460988;Hombre;1;43;1;Entertainment;0;2;3;Cat_4;B
+460989;Hombre;0;19;0;Personal de salud;1;1;3;Cat_1;D
+460991;Mujer;0;28;1;Personal de salud;1;1;3;Cat_7;B
+460993;Hombre;1;56;1;Artista;0;2;4;Cat_6;C
+460999;Hombre;0;28;1;Ingeniero;0;1;3;Cat_3;C
+461000;Hombre;1;60;0;Marketing;1;3;2;Cat_3;A
+461001;Mujer;0;55;1;Artista;0;1;0;Cat_3;B
+461015;Hombre;1;35;1;Entertainment;1;2;2;Cat_3;D
+461016;Hombre;0;25;0;Personal de salud;5;1;5;Cat_3;A
+461022;Hombre;1;71;1;Artista;1;1;1;Cat_3;D
+461023;Hombre;1;65;0;Abogado;0;3;2;Cat_3;D
+461024;Hombre;1;74;1;Abogado;1;1;1;Cat_6;B
+461028;Mujer;0;20;0;Personal de salud;5;1;4;Cat_4;D
+461029;Hombre;1;43;0;Entertainment;9;1;2;Cat_4;B
+461034;Mujer;0;20;0;Marketing;3;1;6;Cat_3;D
+461037;Hombre;1;40;1;Personal de salud;0;3;5;Cat_3;C
+461038;Mujer;1;46;1;Ingeniero;0;3;5;Cat_3;C
+461041;Mujer;1;65;0;Abogado;1;3;7;Cat_3;A
+461042;Hombre;0;21;0;Personal de salud;0;1;0;Cat_4;D
+461043;Hombre;1;50;0;Personal de salud;1;1;7;Cat_4;B
+461044;Hombre;0;18;0;Personal de salud;0;1;5;Cat_4;D
+461049;Mujer;1;61;1;Doctor;1;1;7;Cat_7;A
+461050;Hombre;1;49;1;Desconocida;1;3;3;Cat_6;C
+461053;Hombre;1;39;0;Ejecutivo;0;3;4;Cat_3;D
+461059;Mujer;1;52;0;Abogado;1;3;2;Cat_6;B
+461060;Hombre;1;56;1;Ejecutivo;0;3;5;Cat_6;C
+461065;Hombre;1;55;1;Ejecutivo;0;1;6;Cat_3;C
+461071;Hombre;1;42;0;Ingeniero;1;2;5;Cat_3;A
+461078;Mujer;0;33;0;Constructor;0;1;6;Cat_3;D
+461082;Hombre;0;19;0;Personal de salud;8;1;4;Cat_1;A
+461085;Mujer;0;27;0;Ingeniero;1;1;1;Cat_3;D
+461093;Mujer;1;38;1;Artista;1;2;4;Cat_3;C
+461099;Mujer;0;38;0;Artista;1;1;4;Cat_3;D
+461111;Mujer;1;43;1;Doctor;8;1;1;Cat_6;B
+461114;Hombre;1;53;1;Artista;1;2;4;Cat_3;A
+461116;Hombre;1;33;0;Ejecutivo;4;3;4;Cat_3;B
+461118;Mujer;0;30;1;Personal de salud;7;1;0;Cat_3;A
+461119;Mujer;0;22;0;Personal de salud;6;1;3;Cat_3;C
+461121;Hombre;0;33;0;Doctor;0;1;4;Cat_3;B
+461124;Hombre;0;21;0;Personal de salud;1;1;8;Cat_4;D
+461127;Hombre;0;20;0;Personal de salud;1;1;5;Cat_4;D
+461128;Hombre;0;19;0;Personal de salud;7;1;3;Cat_6;C
+461129;Mujer;1;58;1;Entertainment;1;2;4;Cat_6;C
+461131;Hombre;1;67;1;Artista;1;3;0;Cat_6;B
+461145;Mujer;1;36;1;Entertainment;1;1;2;Cat_3;A
+461152;Mujer;0;30;0;Constructor;8;1;0;Cat_3;A
+461154;Hombre;0;23;0;Constructor;1;1;4;Cat_3;A
+461158;Mujer;0;42;1;Entertainment;1;1;0;Cat_3;D
+461162;Mujer;0;37;0;Marketing;8;1;3;Cat_3;A
+461163;Mujer;1;58;0;Entertainment;9;1;4;Cat_3;C
+461168;Mujer;1;26;0;Ingeniero;7;2;2;Cat_3;B
+461169;Hombre;0;39;1;Entertainment;9;1;2;Cat_3;B
+461174;Mujer;0;23;0;Marketing;0;1;4;Cat_3;A
+461177;Hombre;1;41;0;Ejecutivo;8;2;4;Cat_1;A
+461178;Hombre;1;26;0;Entertainment;0;1;3;Cat_3;D
+461179;Mujer;1;25;0;Ingeniero;3;1;3;Cat_3;D
+461181;Hombre;0;19;0;Personal de salud;0;1;4;Cat_3;D
+461183;Hombre;0;36;0;Ejecutivo;0;1;5;Cat_3;A
+461187;Hombre;0;29;0;Personal de salud;9;1;4;Cat_3;A
+461197;Hombre;0;26;0;Marketing;1;1;1;Cat_3;A
+461198;Mujer;0;78;1;Abogado;0;1;1;Cat_6;C
+461201;Mujer;0;55;1;Artista;0;1;1;Cat_6;A
+461205;Hombre;0;26;1;Personal de salud;0;1;3;Cat_2;D
+461211;Mujer;0;46;1;Entertainment;0;1;1;Cat_6;C
+461214;Hombre;0;29;0;Personal de salud;0;1;4;Cat_6;D
+461215;Mujer;0;36;1;Artista;10;1;1;Cat_6;B
+461218;Hombre;1;27;0;Ejecutivo;1;1;6;Cat_6;D
+461220;Mujer;0;29;0;Ejecutivo;8;1;3;Cat_6;C
+461221;Mujer;0;25;0;Marketing;1;1;4;Cat_6;B
+461225;Mujer;0;30;0;Marketing;10;1;6;Cat_6;A
+461226;Hombre;1;45;1;Desconocida;1;1;2;Cat_6;A
+461230;Mujer;0;21;0;Ejecutivo;0;1;0;Cat_3;A
+461232;Mujer;1;41;1;Ejecutivo;0;3;0;Cat_3;A
+461233;Hombre;1;38;1;Entertainment;0;1;0;Cat_3;C
+461236;Mujer;0;28;1;Personal de salud;9;1;1;Cat_6;A
+461237;Hombre;0;33;1;Doctor;1;1;5;Cat_2;A
+461241;Hombre;1;31;1;Personal de salud;7;1;2;Cat_6;A
+461242;Hombre;1;45;1;Personal de salud;0;1;2;Cat_6;A
+461243;Hombre;1;47;1;Marketing;0;1;5;Cat_6;A
+461248;Mujer;0;39;0;Personal de salud;0;1;1;Cat_6;B
+461251;Mujer;0;47;1;Marketing;1;1;0;Cat_6;C
+461252;Mujer;1;53;1;Doctor;0;1;1;Cat_3;D
+461256;Hombre;0;27;0;Doctor;1;1;4;Cat_4;B
+461257;Hombre;1;37;1;Ingeniero;1;2;2;Cat_4;D
+461258;Mujer;1;62;1;Artista;1;2;3;Cat_4;B
+461262;Mujer;0;29;0;Ingeniero;0;1;7;Cat_4;C
+461263;Mujer;1;51;1;Artista;0;1;1;Cat_4;B
+461265;Hombre;0;30;0;Marketing;1;1;6;Cat_4;B
+461269;Hombre;0;18;0;Entertainment;0;1;4;Cat_4;B
+461274;Mujer;1;87;1;Abogado;0;3;2;Cat_6;C
+461276;Hombre;1;68;1;Marketing;0;1;2;Cat_7;B
+461277;Hombre;1;84;1;Abogado;5;1;1;Cat_6;D
+461281;Hombre;0;22;0;Personal de salud;2;1;9;Cat_2;D
+461286;Mujer;0;22;0;Doctor;2;1;4;Cat_6;D
+461289;Hombre;0;21;0;Personal de salud;1;1;3;Cat_6;D
+461292;Mujer;1;89;0;Abogado;0;3;2;Cat_3;C
+461297;Hombre;1;73;0;Abogado;0;3;2;Cat_6;B
+461299;Mujer;1;75;1;Abogado;0;3;2;Cat_6;C
+461303;Mujer;0;20;0;Doctor;6;1;4;Cat_2;A
+461308;Hombre;0;22;0;Personal de salud;1;1;2;Cat_6;D
+461309;Mujer;0;22;0;Personal de salud;0;1;4;Cat_6;D
+461313;Hombre;1;63;1;Artista;0;2;0;Cat_6;B
+461314;Hombre;1;46;1;Artista;1;2;3;Cat_6;D
+461319;Hombre;1;58;0;Artista;0;2;2;Cat_6;B
+461320;Mujer;0;41;1;Artista;1;1;3;Cat_6;B
+461322;Hombre;1;42;1;Artista;0;2;2;Cat_6;A
+461323;Mujer;1;43;1;Personal de salud;6;2;2;Cat_6;B
+461324;Mujer;0;49;1;Artista;3;1;1;Cat_6;D
+461326;Mujer;0;40;1;Artista;0;1;1;Cat_6;A
+461335;Hombre;1;53;0;Ejecutivo;8;3;2;Cat_6;D
+461340;Hombre;1;36;1;Artista;4;2;2;Cat_7;B
+461346;Hombre;1;50;1;Artista;8;1;2;Cat_6;D
+461348;Hombre;1;42;1;Personal de salud;1;1;1;Cat_6;D
+461350;Hombre;0;30;0;Personal de salud;0;1;4;Cat_2;D
+461352;Hombre;0;29;0;Personal de salud;2;1;5;Cat_2;D
+461356;Hombre;0;28;1;Entertainment;1;1;2;Cat_6;B
+461357;Hombre;0;27;1;Personal de salud;1;1;4;Cat_6;D
+461363;Hombre;0;49;1;Artista;0;1;1;Cat_6;A
+461366;Hombre;0;32;1;Personal de salud;1;1;1;Cat_6;D
+461370;Hombre;0;25;1;Doctor;1;1;3;Cat_6;A
+461377;Mujer;1;63;1;Artista;0;1;1;Cat_6;B
+461378;Mujer;0;42;1;Artista;8;1;1;Cat_6;B
+461379;Hombre;0;31;1;Personal de salud;1;1;0;Cat_5;B
+461383;Hombre;1;71;1;Artista;0;3;2;Cat_6;A
+461388;Hombre;0;20;0;Personal de salud;0;1;5;Cat_2;B
+461397;Hombre;0;22;0;Personal de salud;1;1;4;Cat_6;D
+461402;Mujer;0;29;1;Entertainment;1;1;5;Cat_6;A
+461408;Hombre;1;47;1;Marketing;0;1;3;Cat_6;A
+461421;Hombre;1;43;1;Artista;0;2;3;Cat_6;B
+461423;Hombre;0;32;1;Artista;1;1;3;Cat_4;D
+461426;Hombre;1;47;1;Artista;7;2;2;Cat_6;A
+461428;Hombre;0;46;1;Artista;0;1;1;Cat_6;B
+461432;Mujer;1;41;1;Artista;1;2;2;Cat_6;D
+461437;Hombre;1;37;1;Entertainment;0;2;2;Cat_6;B
+461439;Hombre;1;40;1;Artista;0;2;2;Cat_6;A
+461441;Hombre;1;60;1;Artista;0;2;4;Cat_6;A
+461442;Hombre;1;46;1;Artista;0;2;6;Cat_2;D
+461454;Mujer;1;36;1;Artista;6;3;4;Cat_7;B
+461456;Mujer;0;38;0;Marketing;0;1;1;Cat_6;B
+461457;Mujer;1;32;0;Doctor;0;1;5;Cat_6;A
+461458;Mujer;0;41;1;Artista;5;1;1;Cat_6;D
+461462;Hombre;1;56;1;Marketing;0;1;3;Cat_6;A
+461465;Hombre;1;31;1;Artista;8;2;2;Cat_6;D
+461466;Hombre;1;45;0;Artista;0;1;2;Cat_7;A
+461468;Hombre;1;69;1;Entertainment;0;2;3;Cat_6;C
+461469;Hombre;1;37;1;Artista;0;1;2;Cat_6;A
+461476;Hombre;1;47;1;Artista;1;2;4;Cat_2;D
+461479;Mujer;1;52;1;Artista;1;2;3;Cat_6;C
+461480;Mujer;1;57;1;Artista;1;3;3;Cat_6;A
+461482;Mujer;0;50;1;Artista;9;1;1;Cat_6;A
+461494;Hombre;1;27;0;Ingeniero;0;2;2;Cat_6;D
+461501;Mujer;1;45;1;Ingeniero;1;3;3;Cat_6;B
+461503;Mujer;0;30;1;Artista;8;1;2;Cat_6;D
+461510;Hombre;1;45;1;Artista;0;1;2;Cat_6;B
+461514;Hombre;0;30;0;Personal de salud;1;1;4;Cat_6;C
+461516;Hombre;1;31;1;Entertainment;1;2;3;Cat_6;A
+461518;Mujer;1;45;1;Artista;1;2;4;Cat_3;C
+461521;Hombre;1;67;1;Artista;0;3;2;Cat_6;B
+461522;Hombre;1;76;0;Ejecutivo;1;3;2;Cat_6;A
+461525;Hombre;1;69;1;Entertainment;0;1;2;Cat_6;D
+461526;Hombre;1;83;0;Entertainment;0;1;2;Cat_6;A
+461530;Hombre;1;38;1;Ingeniero;0;1;2;Cat_6;D
+461534;Hombre;1;36;1;Artista;0;1;1;Cat_6;A
+461540;Hombre;0;41;1;Desconocida;2;1;2;Cat_2;A
+461546;Mujer;1;69;0;Abogado;0;1;3;Cat_6;C
+461548;Mujer;0;33;1;Ingeniero;0;1;3;Cat_6;A
+461553;Hombre;0;38;1;Artista;1;1;3;Cat_7;C
+461556;Mujer;1;48;1;Ingeniero;1;2;2;Cat_6;B
+461558;Hombre;1;51;1;Ingeniero;2;2;2;Cat_6;C
+461564;Hombre;1;56;1;Ejecutivo;1;3;2;Cat_6;A
+461570;Hombre;1;57;1;Artista;0;2;3;Cat_6;D
+461574;Mujer;1;49;1;Artista;1;2;3;Cat_6;B
+461587;Hombre;0;30;1;Personal de salud;0;1;3;Cat_6;D
+461593;Mujer;1;40;1;Doctor;8;2;2;Cat_6;B
+461602;Mujer;0;30;1;Artista;0;1;0;Cat_6;D
+461604;Hombre;1;38;0;Entertainment;0;2;2;Cat_6;D
+461612;Mujer;0;31;1;Personal de salud;8;1;5;Cat_6;D
+461615;Hombre;0;33;1;Doctor;0;1;2;Cat_6;C
+461617;Hombre;0;50;1;Artista;0;1;2;Cat_6;A
+461619;Hombre;1;52;1;Ejecutivo;0;3;3;Cat_6;C
+461624;Mujer;1;39;1;Artista;0;2;0;Cat_2;D
+461626;Hombre;1;73;1;Ejecutivo;0;3;2;Cat_6;C
+461630;Hombre;1;46;1;Artista;0;2;3;Cat_6;C
+461637;Hombre;1;50;1;Artista;0;1;2;Cat_7;C
+461644;Hombre;0;30;0;Personal de salud;0;1;6;Cat_6;D
+461653;Mujer;1;60;1;Doctor;0;2;2;Cat_6;D
+461655;Mujer;1;39;1;Constructor;9;2;2;Cat_6;D
+461658;Mujer;1;59;1;Artista;1;2;2;Cat_5;B
+461659;Mujer;1;51;1;Artista;0;2;2;Cat_6;C
+461661;Mujer;1;40;1;Artista;5;2;2;Cat_2;B
+461663;Hombre;0;23;0;Personal de salud;1;1;3;Cat_6;D
+461668;Hombre;1;53;1;Artista;4;2;4;Cat_2;C
+461671;Hombre;0;32;0;Personal de salud;7;1;5;Cat_6;A
+461674;Hombre;1;52;1;Ejecutivo;0;3;4;Cat_6;B
+461676;Mujer;0;31;1;Ingeniero;0;1;1;Cat_6;D
+461679;Hombre;0;30;1;Personal de salud;3;1;4;Cat_6;A
+461681;Hombre;0;25;1;Personal de salud;8;1;3;Cat_7;D
+461683;Hombre;1;40;1;Ejecutivo;1;3;4;Cat_6;A
+461685;Mujer;0;27;1;Personal de salud;4;1;4;Cat_6;A
+461686;Hombre;1;61;1;Artista;0;1;2;Cat_6;A
+461690;Mujer;0;33;1;Ingeniero;1;1;1;Cat_4;A
+461694;Hombre;0;28;1;Doctor;1;1;4;Cat_4;A
+461695;Mujer;1;48;1;Artista;2;2;2;Cat_6;C
+461698;Mujer;1;73;1;Artista;0;3;2;Cat_6;B
+461701;Hombre;1;36;0;Artista;0;2;2;Cat_5;D
+461705;Mujer;0;32;0;Personal de salud;0;1;4;Cat_6;A
+461708;Hombre;1;82;0;Abogado;0;3;2;Cat_6;A
+461709;Hombre;0;28;1;Artista;1;1;3;Cat_4;D
+461711;Mujer;0;42;1;Artista;8;1;3;Cat_2;D
+461716;Mujer;1;60;1;Abogado;6;3;9;Cat_6;B
+461720;Mujer;0;46;1;Artista;1;1;1;Cat_4;A
+461722;Hombre;0;31;0;Doctor;0;1;3;Cat_6;C
+461724;Mujer;1;50;1;Artista;1;1;1;Cat_7;C
+461725;Mujer;0;30;1;Ingeniero;3;1;1;Cat_4;A
+461727;Mujer;0;49;1;Artista;1;1;3;Cat_6;D
+461737;Mujer;1;51;1;Doctor;0;2;6;Cat_4;C
+461738;Mujer;1;46;1;Desconocida;0;2;3;Cat_6;A
+461744;Hombre;1;53;1;Artista;0;2;4;Cat_6;B
+461747;Hombre;1;65;1;Artista;0;3;2;Cat_6;A
+461749;Mujer;0;22;0;Personal de salud;0;1;5;Cat_6;D
+461752;Hombre;1;65;1;Doctor;1;2;3;Cat_6;C
+461756;Mujer;1;39;1;Ingeniero;0;2;2;Cat_4;A
+461760;Hombre;1;84;1;Artista;0;3;2;Cat_6;D
+461769;Hombre;0;37;1;Artista;0;1;1;Cat_6;C
+461771;Hombre;1;28;1;Doctor;8;2;2;Cat_6;D
+461775;Mujer;1;82;0;Abogado;0;3;2;Cat_6;A
+461778;Mujer;1;87;1;Abogado;0;3;2;Cat_6;A
+461780;Mujer;0;69;1;Abogado;1;1;5;Cat_6;D
+461782;Mujer;1;51;1;Artista;0;3;5;Cat_6;B
+461784;Mujer;1;74;1;Abogado;1;1;1;Cat_6;B
+461788;Mujer;1;79;1;Abogado;1;3;2;Cat_6;A
+461791;Mujer;0;21;0;Abogado;9;1;1;Cat_6;D
+461792;Mujer;0;20;0;Personal de salud;5;1;5;Cat_2;D
+461800;Mujer;0;43;1;Doctor;3;1;1;Cat_2;A
+461801;Mujer;0;25;0;Personal de salud;1;1;3;Cat_6;A
+461802;Hombre;0;43;1;Artista;0;1;4;Cat_6;B
+461804;Mujer;0;42;1;Artista;1;1;1;Cat_6;D
+461807;Hombre;0;25;1;Doctor;10;1;4;Cat_6;A
+461815;Hombre;1;59;1;Artista;0;1;1;Cat_3;A
+461816;Mujer;0;49;1;Marketing;0;1;5;Cat_6;D
+461821;Mujer;0;32;0;Doctor;1;1;4;Cat_6;A
+461822;Hombre;1;36;1;Artista;8;3;2;Cat_6;A
+461824;Hombre;1;45;1;Marketing;9;1;3;Cat_6;A
+461832;Hombre;0;29;1;Personal de salud;0;1;3;Cat_6;A
+461837;Hombre;1;37;1;Artista;0;1;2;Cat_6;C
+461845;Mujer;1;48;1;Doctor;1;2;4;Cat_6;D
+461846;Mujer;0;65;1;Artista;0;1;2;Cat_2;C
+461848;Hombre;0;39;0;Marketing;1;1;2;Cat_6;A
+461858;Hombre;0;25;0;Entertainment;1;1;7;Cat_4;A
+461859;Mujer;1;49;0;Artista;5;1;5;Cat_6;D
+461860;Mujer;1;77;1;Abogado;1;3;2;Cat_6;D
+461862;Mujer;0;38;1;Artista;9;1;1;Cat_6;A
+461864;Hombre;0;19;1;Marketing;0;1;6;Cat_4;D
+461872;Mujer;1;76;1;Abogado;1;3;2;Cat_6;A
+461873;Hombre;0;28;1;Doctor;0;1;4;Cat_6;A
+461874;Hombre;1;51;1;Doctor;1;2;3;Cat_3;B
+461882;Mujer;0;28;1;Doctor;0;1;5;Cat_7;D
+461892;Mujer;0;42;1;Personal de salud;0;1;1;Cat_2;A
+461896;Hombre;1;45;1;Artista;1;1;1;Cat_6;A
+461898;Hombre;1;63;1;Ejecutivo;6;3;3;Cat_6;D
+461899;Mujer;0;18;0;Doctor;0;1;6;Cat_6;A
+461901;Hombre;0;26;1;Artista;7;1;4;Cat_6;D
+461910;Hombre;1;31;1;Artista;0;2;2;Cat_2;D
+461913;Hombre;0;43;1;Entertainment;5;1;4;Cat_2;B
+461914;Mujer;1;60;1;Artista;7;1;0;Cat_6;A
+461921;Mujer;0;36;1;Artista;0;1;1;Cat_6;A
+461927;Hombre;0;32;0;Personal de salud;1;1;4;Cat_2;A
+461928;Hombre;1;68;1;Abogado;0;1;1;;A
+461929;Hombre;1;60;1;Entertainment;1;1;1;Cat_6;C
+461930;Mujer;0;42;1;Artista;0;1;1;Cat_4;B
+461931;Mujer;0;18;0;Personal de salud;6;1;5;;D
+461936;Hombre;1;69;0;Abogado;0;3;2;Cat_6;D
+461937;Mujer;0;42;1;Doctor;0;1;0;Cat_6;B
+461941;Mujer;1;70;1;Artista;1;1;1;Cat_6;C
+461943;Hombre;0;25;1;Personal de salud;1;1;3;Cat_6;C
+461962;Hombre;1;56;1;Entertainment;1;2;3;Cat_6;A
+461963;Mujer;0;40;1;Artista;9;1;1;Cat_6;D
+461965;Hombre;0;23;0;Personal de salud;1;1;6;Cat_6;B
+461967;Mujer;0;20;0;Marketing;3;1;4;Cat_7;D
+461968;Mujer;0;39;1;Entertainment;2;1;1;Cat_6;D
+461978;Mujer;0;19;0;Personal de salud;0;1;4;Cat_6;D
+461985;Hombre;0;28;1;Entertainment;0;1;0;Cat_5;D
+461988;Hombre;1;40;0;Ingeniero;1;2;2;Cat_6;C
+461989;Mujer;0;60;1;Ingeniero;1;2;4;Cat_2;B
+461993;Hombre;0;33;0;Personal de salud;3;1;4;Cat_6;D
+461994;Hombre;1;20;0;Doctor;14;1;2;Cat_6;B
+461996;Mujer;0;35;0;Artista;7;1;4;Cat_6;A
+461999;Hombre;0;27;1;Doctor;0;1;5;Cat_6;B
+462007;Mujer;1;42;1;Artista;1;2;2;Cat_6;D
+462011;Hombre;1;30;0;Marketing;0;1;4;Cat_4;C
+462013;Mujer;1;56;1;Ejecutivo;0;2;2;Cat_6;C
+462015;Hombre;1;28;1;Entertainment;0;2;2;Cat_6;D
+462016;Mujer;1;38;1;Artista;6;2;2;Cat_6;A
+462017;Hombre;0;26;1;Entertainment;9;1;1;Cat_2;A
+462027;Hombre;0;36;0;Ingeniero;0;1;1;Cat_6;B
+462029;Hombre;0;56;0;Entertainment;0;1;1;Cat_6;A
+462033;Hombre;0;26;1;Entertainment;0;1;1;Cat_6;D
+462038;Hombre;0;28;1;Artista;4;1;4;Cat_6;C
+462043;Hombre;0;32;0;Personal de salud;0;1;5;Cat_6;D
+462044;Mujer;0;52;1;Artista;4;1;1;Cat_6;B
+462048;Mujer;0;23;0;Personal de salud;0;1;4;Cat_6;D
+462051;Hombre;0;23;0;Personal de salud;0;1;5;Cat_4;D
+462052;Hombre;1;50;1;Artista;0;1;2;Cat_6;C
+462053;Hombre;1;26;1;Artista;0;1;2;Cat_6;D
+462058;Hombre;1;40;1;Entertainment;8;1;2;Cat_6;A
+462060;Mujer;1;53;1;Artista;1;2;2;Cat_6;C
+462064;Hombre;1;63;1;Artista;0;2;3;Cat_7;D
+462068;Hombre;1;62;1;Ejecutivo;0;3;3;Cat_6;B
+462075;Mujer;0;38;1;Artista;1;1;1;Cat_6;C
+462078;Mujer;1;57;0;Artista;1;2;2;Cat_2;B
+462080;Mujer;0;43;1;Artista;9;1;1;Cat_6;A
+462081;Hombre;0;21;0;Marketing;1;1;3;Cat_4;B
+462083;Hombre;0;22;0;Personal de salud;0;1;5;Cat_6;A
+462084;Hombre;1;68;1;Artista;1;1;1;Cat_6;C
+462085;Mujer;0;28;1;Personal de salud;0;1;1;Cat_6;D
+462088;Hombre;1;33;1;Artista;0;2;2;Cat_6;A
+462090;Mujer;0;38;1;Artista;8;1;1;Cat_6;C
+462091;Hombre;0;23;0;Personal de salud;0;1;5;Cat_4;D
+462094;Mujer;0;41;1;Personal de salud;0;1;1;Cat_6;A
+462096;Mujer;0;41;1;Constructor;0;1;1;Cat_4;C
+462102;Mujer;0;39;1;Doctor;4;1;1;Cat_6;A
+462103;Mujer;1;49;0;Entertainment;9;3;2;Cat_6;A
+462108;Mujer;1;33;1;Constructor;0;2;2;Cat_6;D
+462109;Hombre;1;79;0;Abogado;0;1;1;Cat_6;D
+462111;Hombre;1;38;1;Artista;6;2;4;Cat_6;A
+462114;Hombre;0;21;0;Personal de salud;1;1;4;Cat_6;D
+462116;Mujer;1;68;1;Doctor;0;2;2;Cat_6;B
+462118;Hombre;0;31;1;Artista;0;1;3;Cat_6;B
+462120;Hombre;1;46;0;Artista;1;1;3;Cat_3;C
+462128;Hombre;1;35;1;Artista;9;2;2;Cat_6;D
+462131;Mujer;0;42;1;Artista;8;1;3;Cat_2;C
+462134;Hombre;1;87;0;Abogado;0;1;1;;A
+462141;Mujer;0;38;1;Artista;8;1;1;Cat_6;A
+462149;Mujer;1;88;0;Abogado;2;3;1;Cat_6;C
+462151;Mujer;0;42;1;Artista;9;1;1;Cat_6;C
+462163;Mujer;1;26;1;Artista;4;2;2;Cat_3;D
+462168;Hombre;1;35;1;Ejecutivo;0;3;3;Cat_6;A
+462171;Mujer;1;41;0;Ingeniero;3;3;2;Cat_6;C
+462172;Hombre;1;37;1;Doctor;1;2;2;Cat_1;D
+462174;Mujer;1;41;1;Ingeniero;8;2;4;Cat_4;B
+462177;Hombre;0;35;0;Artista;6;1;5;Cat_2;B
+462179;Mujer;0;33;1;Marketing;0;1;9;Cat_7;C
+462180;Mujer;1;61;1;Ingeniero;2;2;4;Cat_2;A
+462186;Mujer;0;19;0;Doctor;1;1;3;Cat_1;A
+462187;Mujer;0;50;1;Artista;4;1;1;Cat_6;B
+462188;Mujer;1;48;0;Ingeniero;0;2;4;Cat_4;C
+462196;Hombre;1;57;0;Marketing;1;2;3;Cat_4;B
+462197;Mujer;1;72;0;Ingeniero;1;2;3;Cat_4;A
+462198;Mujer;0;39;0;Ingeniero;4;1;0;Cat_3;B
+462200;Mujer;1;49;1;Doctor;0;1;3;Cat_4;A
+462202;Mujer;0;41;1;Entertainment;0;1;4;Cat_4;A
+462203;Hombre;1;65;0;Ejecutivo;2;3;7;Cat_4;A
+462204;Mujer;0;22;0;Marketing;0;1;3;Cat_4;D
+462205;Mujer;0;23;0;Personal de salud;0;1;4;Cat_4;C
+462209;Mujer;1;41;0;Artista;0;1;1;Cat_4;B
+462210;Mujer;1;42;1;Ingeniero;0;1;3;Cat_4;A
+462211;Hombre;0;18;0;Personal de salud;0;1;3;Cat_4;D
+462214;Hombre;1;49;0;Doctor;1;1;2;Cat_4;A
+462216;Mujer;1;40;0;Doctor;0;1;2;Cat_4;A
+462218;Hombre;1;50;0;Ejecutivo;1;2;5;Cat_4;D
+462220;Mujer;0;19;0;Personal de salud;6;1;3;Cat_4;D
+462222;Hombre;0;22;0;Personal de salud;0;1;6;Cat_4;D
+462229;Hombre;0;23;0;Desconocida;1;1;8;Cat_4;B
+462231;Hombre;0;27;1;Artista;4;1;6;Cat_4;A
+462232;Hombre;1;55;0;Ejecutivo;0;3;8;Cat_4;B
+462234;Hombre;1;32;0;Desconocida;1;2;6;Cat_4;B
+462238;Hombre;1;57;0;Entertainment;0;1;2;Cat_3;B
+462240;Hombre;1;80;0;Abogado;0;3;2;Cat_6;A
+462243;Hombre;1;43;0;Ejecutivo;0;1;4;Cat_6;B
+462246;Mujer;1;79;0;Abogado;1;3;2;Cat_6;A
+462249;Hombre;0;25;0;Entertainment;1;1;3;Cat_6;A
+462256;Mujer;1;58;1;Constructor;0;2;4;Cat_6;B
+462257;Mujer;1;78;1;Abogado;0;3;2;Cat_6;A
+462260;Hombre;1;76;1;Abogado;1;1;2;Cat_6;D
+462262;Hombre;0;27;0;Personal de salud;1;1;3;;D
+462274;Hombre;1;47;1;Artista;1;2;3;Cat_6;D
+462275;Hombre;1;43;1;Artista;1;2;2;Cat_6;C
+462278;Hombre;0;31;1;Personal de salud;1;1;4;Cat_6;A
+462279;Hombre;0;27;0;Personal de salud;0;1;7;Cat_6;B
+462280;Hombre;0;31;1;Personal de salud;0;1;4;Cat_6;A
+462281;Hombre;1;46;1;Artista;1;1;2;Cat_6;D
+462284;Hombre;1;48;1;Ejecutivo;1;2;4;Cat_6;C
+462285;Hombre;1;51;1;Doctor;0;1;2;;C
+462286;Hombre;1;57;0;Doctor;0;2;2;Cat_6;C
+462290;Mujer;0;30;1;Doctor;0;1;1;Cat_6;B
+462291;Mujer;0;37;1;Marketing;0;1;3;Cat_6;B
+462297;Mujer;0;31;1;Artista;14;1;2;Cat_6;D
+462300;Hombre;1;49;1;Artista;1;2;3;Cat_6;D
+462304;Hombre;1;56;1;Artista;1;1;4;Cat_4;C
+462306;Hombre;1;83;0;Abogado;8;3;2;Cat_6;B
+462309;Hombre;0;32;1;Personal de salud;0;1;1;Cat_6;B
+462310;Hombre;1;63;1;Artista;5;2;4;Cat_6;A
+462323;Mujer;1;71;1;Doctor;1;2;2;Cat_6;A
+462336;Hombre;1;50;0;Artista;0;1;4;Cat_6;B
+462339;Hombre;0;31;1;Artista;4;1;5;Cat_6;A
+462340;Hombre;1;60;0;Entertainment;0;2;6;Cat_6;A
+462342;Mujer;1;71;1;Abogado;8;3;2;Cat_6;D
+462345;Hombre;1;49;1;Doctor;0;2;6;Cat_4;B
+462346;Hombre;1;74;1;Abogado;9;1;1;Cat_6;C
+462349;Hombre;1;51;1;Artista;1;2;6;Cat_6;A
+462355;Hombre;1;61;0;Entertainment;0;1;0;Cat_6;D
+462356;Hombre;0;46;1;Ingeniero;0;1;3;Cat_6;B
+462358;Hombre;1;39;0;Doctor;2;2;2;Cat_6;B
+462365;Hombre;1;85;1;Abogado;1;3;2;Cat_6;C
+462368;Mujer;1;31;1;Artista;1;2;2;Cat_6;A
+462370;Hombre;1;39;1;Ejecutivo;4;3;3;Cat_6;B
+462381;Mujer;1;48;0;Doctor;1;3;2;Cat_6;C
+462382;Hombre;1;71;1;Abogado;0;3;2;Cat_6;B
+462384;Mujer;0;31;1;Personal de salud;0;1;1;Cat_7;A
+462386;Mujer;0;32;1;Personal de salud;0;1;5;Cat_6;A
+462389;Mujer;1;55;0;Ingeniero;0;1;1;Cat_6;D
+462395;Hombre;1;46;1;Artista;0;3;2;Cat_6;C
+462396;Hombre;1;53;1;Doctor;0;2;2;Cat_6;B
+462397;Hombre;1;50;1;Artista;0;2;4;Cat_6;C
+462400;Hombre;0;45;1;Artista;1;1;1;Cat_6;D
+462401;Hombre;1;33;0;Ejecutivo;1;2;2;Cat_4;C
+462409;Mujer;1;29;0;Ingeniero;5;1;2;Cat_6;D
+462411;Hombre;0;35;1;Artista;8;1;1;Cat_6;B
+462415;Hombre;0;25;0;Doctor;1;1;1;Cat_6;D
+462420;Hombre;0;26;1;Personal de salud;0;1;3;Cat_6;D
+462421;Hombre;0;48;1;Artista;1;1;2;Cat_6;C
+462423;Hombre;1;66;0;Abogado;0;3;3;Cat_6;A
+462424;Mujer;1;38;0;Artista;0;1;3;Cat_6;C
+462428;Hombre;1;65;1;Entertainment;2;2;3;Cat_6;C
+462429;Hombre;1;87;0;Abogado;1;1;1;Cat_6;D
+462445;Hombre;0;20;0;Personal de salud;1;1;3;Cat_6;D
+462446;Hombre;0;19;0;Personal de salud;0;1;4;Cat_6;D
+462447;Hombre;0;22;0;Personal de salud;9;1;4;Cat_6;D
+462450;Hombre;0;18;0;Personal de salud;0;1;0;Cat_6;D
+462451;Hombre;0;18;0;Marketing;1;1;9;Cat_6;D
+462452;Hombre;0;19;0;Personal de salud;0;1;0;Cat_4;A
+462454;Hombre;0;19;0;Personal de salud;1;1;3;Cat_2;D
+462456;Hombre;0;22;0;Personal de salud;0;1;8;Cat_6;A
+462457;Hombre;0;31;0;Personal de salud;4;1;4;Cat_6;D
+462463;Hombre;1;63;0;Artista;0;2;2;Cat_6;A
+462472;Hombre;0;43;1;Artista;1;1;1;Cat_6;C
+462473;Hombre;0;73;0;Ingeniero;0;1;0;Cat_4;A
+462485;Mujer;1;39;0;Ingeniero;0;1;2;Cat_6;A
+462488;Hombre;0;31;1;Personal de salud;1;1;5;Cat_6;A
+462491;Hombre;0;31;1;Artista;0;1;5;Cat_6;D
+462492;Hombre;1;43;0;Artista;0;2;4;Cat_2;A
+462496;Hombre;1;52;0;Artista;0;2;3;Cat_6;A
+462498;Mujer;1;63;1;Doctor;0;2;3;Cat_6;C
+462503;Hombre;1;51;1;Ejecutivo;1;3;4;Cat_6;C
+462508;Hombre;1;35;1;Personal de salud;1;1;7;Cat_4;B
+462512;Mujer;1;32;0;Entertainment;0;2;2;Cat_4;B
+462517;Mujer;1;39;1;Constructor;9;3;4;Cat_6;C
+462518;Mujer;0;25;0;Personal de salud;1;1;6;Cat_5;D
+462519;Hombre;0;20;0;Personal de salud;0;1;5;Cat_4;D
+462521;Mujer;0;33;0;Constructor;9;1;1;Cat_6;D
+462522;Hombre;1;36;0;Ejecutivo;0;2;5;Cat_4;A
+462524;Mujer;1;35;1;Doctor;0;1;2;Cat_6;B
+462525;Mujer;1;42;1;Artista;1;2;2;Cat_6;D
+462526;Mujer;1;52;1;Artista;2;2;5;Cat_6;C
+462529;Mujer;1;42;1;Ingeniero;1;1;2;Cat_6;C
+462531;Mujer;1;57;0;Constructor;0;3;2;Cat_6;A
+462533;Mujer;0;30;1;Entertainment;1;1;3;Cat_6;A
+462538;Mujer;1;73;1;Abogado;1;3;2;Cat_6;C
+462541;Hombre;1;66;1;Ingeniero;3;3;2;Cat_6;D
+462542;Mujer;1;62;1;Artista;9;2;5;Cat_2;B
+462543;Mujer;1;36;1;Artista;4;1;1;Cat_3;C
+462545;Hombre;0;33;0;Ingeniero;0;1;3;Cat_4;B
+462554;Hombre;0;28;0;Personal de salud;0;1;8;Cat_4;A
+462561;Mujer;1;48;1;Artista;3;2;2;Cat_6;C
+462563;Mujer;1;53;1;Artista;1;2;2;Cat_6;D
+462566;Mujer;1;27;0;Doctor;1;1;0;Cat_3;D
+462577;Mujer;1;71;0;Marketing;0;3;2;Cat_4;B
+462578;Hombre;1;35;1;Artista;9;2;2;Cat_4;A
+462580;Mujer;0;41;1;Artista;0;1;1;Cat_4;A
+462584;Mujer;1;39;0;Entertainment;0;1;4;Cat_4;A
+462587;Mujer;1;79;0;Abogado;1;3;2;Cat_4;C
+462589;Mujer;0;29;0;Ingeniero;9;1;8;Cat_4;A
+462595;Mujer;0;33;1;Artista;7;1;7;Cat_4;A
+462596;Mujer;0;31;0;Personal de salud;0;1;0;Cat_4;C
+462600;Hombre;1;25;0;Ingeniero;4;2;3;Cat_4;D
+462607;Mujer;0;43;0;Ingeniero;2;2;3;Cat_4;C
+462609;Mujer;1;52;0;Doctor;4;1;1;Cat_4;C
+462611;Hombre;1;41;0;Ejecutivo;0;3;7;Cat_4;D
+462612;Mujer;1;27;0;Doctor;0;3;6;Cat_4;D
+462613;Mujer;1;39;0;Ingeniero;1;2;5;Cat_4;C
+462615;Hombre;0;32;0;Doctor;3;1;7;Cat_4;A
+462617;Hombre;0;19;0;Personal de salud;1;1;5;Cat_4;A
+462619;Hombre;0;58;0;Desconocida;1;3;0;Cat_4;C
+462625;Hombre;0;30;1;Artista;1;1;3;Cat_4;A
+462626;Mujer;0;31;1;Ingeniero;0;1;6;Cat_4;A
+462632;Mujer;1;43;0;Ingeniero;0;2;4;Cat_4;A
+462637;Mujer;1;63;0;Marketing;0;2;6;Cat_4;A
+462643;Mujer;1;37;1;Ingeniero;0;2;3;Cat_4;B
+462654;Hombre;1;37;0;Artista;0;2;6;Cat_4;A
+462658;Mujer;1;31;1;Constructor;9;2;2;;B
+462668;Mujer;0;38;1;Artista;4;1;1;Cat_6;A
+462669;Mujer;1;41;1;Entertainment;0;3;6;Cat_6;C
+462678;Mujer;1;45;1;Artista;3;2;3;Cat_6;B
+462680;Hombre;1;35;1;Doctor;0;2;4;Cat_6;D
+462683;Mujer;1;43;0;Ingeniero;1;1;5;Cat_1;A
+462685;Mujer;0;33;0;Personal de salud;0;1;3;Cat_4;B
+462687;Hombre;0;26;0;Constructor;14;1;3;Cat_3;D
+462692;Mujer;1;39;0;Artista;0;2;2;Cat_6;A
+462696;Hombre;1;49;0;Artista;1;3;2;Cat_6;A
+462697;Hombre;0;47;0;Desconocida;0;2;2;Cat_6;A
+462702;Hombre;1;53;0;Entertainment;1;2;4;Cat_4;B
+462704;Hombre;1;52;1;Ejecutivo;5;3;5;Cat_6;A
+462705;Mujer;1;66;0;Abogado;0;2;2;Cat_6;A
+462716;Hombre;0;26;0;Entertainment;6;1;2;Cat_4;D
+462720;Hombre;1;38;1;Marketing;0;1;5;Cat_6;A
+462722;Mujer;0;25;0;Constructor;0;1;4;Cat_6;C
+462723;Mujer;1;53;0;Artista;8;2;2;Cat_6;D
+462727;Mujer;1;87;0;Abogado;0;3;2;Cat_6;C
+462729;Hombre;0;28;0;Personal de salud;1;1;2;Cat_6;D
+462731;Mujer;1;37;1;Artista;7;3;3;Cat_6;A
+462732;Mujer;1;42;1;Artista;0;1;1;Cat_6;B
+462735;Mujer;1;25;0;Artista;1;2;2;Cat_1;D
+462736;Mujer;1;33;0;Ingeniero;6;1;3;Cat_6;D
+462738;Mujer;0;33;1;Personal de salud;0;1;3;Cat_2;D
+462739;Hombre;1;46;1;Artista;1;1;2;Cat_6;C
+462743;Hombre;0;33;0;Personal de salud;2;1;4;Cat_3;A
+462746;Hombre;0;26;0;Entertainment;1;1;3;Cat_6;A
+462747;Hombre;0;32;0;Doctor;6;1;4;Cat_6;D
+462752;Mujer;0;25;0;Personal de salud;0;1;1;Cat_6;A
+462755;Mujer;0;18;0;Personal de salud;1;1;0;Cat_6;D
+462756;Mujer;0;22;0;Ingeniero;0;1;4;Cat_6;D
+462761;Hombre;0;19;0;Personal de salud;2;1;4;Cat_6;B
+462762;Hombre;1;46;1;Artista;0;3;4;Cat_6;D
+462767;Hombre;0;19;0;Personal de salud;4;1;4;Cat_6;A
+462768;Hombre;1;45;1;Artista;0;2;3;Cat_6;C
+462776;Mujer;1;52;1;Ingeniero;1;2;3;Cat_6;C
+462785;Mujer;1;42;1;Ingeniero;0;2;5;Cat_3;C
+462788;Hombre;1;47;0;Entertainment;1;2;3;Cat_3;B
+462792;Hombre;1;45;0;Constructor;0;2;4;Cat_6;C
+462799;Hombre;0;32;0;Personal de salud;0;1;0;Cat_5;A
+462804;Hombre;1;41;0;Ejecutivo;5;3;3;Cat_4;D
+462807;Mujer;0;28;1;Constructor;0;1;1;Cat_6;C
+462810;Hombre;1;37;0;Ejecutivo;9;3;4;Cat_6;D
+462814;Mujer;1;20;0;Ingeniero;8;2;2;Cat_5;A
+462817;Mujer;1;73;1;Abogado;3;1;1;Cat_6;C
+462819;Hombre;1;51;1;Artista;0;2;3;Cat_6;C
+462823;Hombre;1;18;1;Ingeniero;0;2;4;Cat_6;D
+462824;Hombre;1;42;0;Ingeniero;1;2;3;Cat_4;D
+462826;Hombre;0;20;0;Personal de salud;1;1;3;Cat_3;B
+462827;Mujer;0;23;0;Doctor;0;1;3;Cat_3;D
+462834;Hombre;1;31;1;Constructor;2;1;2;Cat_1;B
+462838;Mujer;1;33;1;Constructor;1;1;3;Cat_5;D
+462841;Hombre;0;21;0;Personal de salud;9;1;6;Cat_6;A
+462845;Hombre;1;51;1;Doctor;5;2;7;Cat_6;A
+462849;Hombre;1;47;1;Artista;0;2;4;Cat_6;C
+462850;Hombre;0;20;0;Personal de salud;0;1;4;Cat_6;D
+462853;Hombre;0;21;0;Personal de salud;0;1;2;Cat_6;B
+462854;Hombre;0;22;0;Personal de salud;1;1;3;Cat_6;D
+462858;Mujer;0;32;1;Ingeniero;9;1;4;Cat_6;A
+462861;Mujer;0;30;1;Personal de salud;8;1;1;Cat_6;D
+462866;Hombre;1;61;1;Doctor;1;1;1;Cat_6;D
+462868;Hombre;1;43;0;Entertainment;0;2;4;Cat_4;D
+462869;Hombre;0;25;1;Doctor;8;1;1;Cat_6;A
+462871;Hombre;1;46;0;Entertainment;0;2;3;Cat_6;D
+462872;Mujer;1;53;0;Ingeniero;12;1;2;Cat_3;C
+462874;Hombre;1;55;1;Doctor;0;3;2;Cat_6;B
+462887;Mujer;1;42;0;Ingeniero;0;1;3;Cat_6;D
+462890;Mujer;0;26;1;Marketing;11;1;1;Cat_6;D
+462891;Hombre;0;29;0;Personal de salud;0;1;3;Cat_6;A
+462894;Hombre;1;39;1;Artista;4;2;4;Cat_3;A
+462900;Hombre;1;38;1;Artista;1;2;3;Cat_6;C
+462903;Hombre;1;69;1;Entertainment;0;2;2;Cat_6;A
+462905;Mujer;0;25;0;Artista;6;1;3;Cat_6;A
+462914;Mujer;0;26;1;Artista;4;1;4;Cat_6;D
+462920;Hombre;1;51;0;Ejecutivo;0;3;5;Cat_6;C
+462923;Hombre;1;30;0;Constructor;8;2;2;Cat_6;C
+462925;Mujer;1;28;0;Constructor;0;2;2;Cat_3;B
+462927;Mujer;0;33;0;Constructor;8;1;2;Cat_6;D
+462936;Mujer;0;41;1;Ingeniero;0;1;1;Cat_6;C
+462941;Hombre;0;71;0;Abogado;0;1;2;Cat_6;D
+462944;Hombre;1;42;1;Ejecutivo;5;3;3;Cat_6;C
+462951;Hombre;1;71;1;Abogado;2;1;1;Cat_6;B
+462956;Hombre;1;35;0;Artista;6;2;5;Cat_6;C
+462958;Hombre;0;28;0;Marketing;0;1;5;Cat_6;D
+462963;Hombre;1;31;1;Artista;1;2;2;Cat_3;A
+462966;Hombre;1;43;1;Artista;2;2;3;Cat_6;A
+462968;Mujer;1;77;0;Abogado;0;3;2;Cat_6;A
+462971;Mujer;1;71;1;Ingeniero;0;1;1;Cat_6;B
+462976;Mujer;1;47;1;Ingeniero;0;2;2;Cat_6;C
+462981;Mujer;0;26;0;Constructor;9;1;1;Cat_6;D
+462982;Hombre;1;40;0;Doctor;4;2;4;Cat_6;B
+462983;Mujer;1;72;1;Abogado;0;3;2;Cat_6;B
+462984;Mujer;1;73;1;Artista;1;3;2;Cat_6;D
+462986;Hombre;0;26;1;Personal de salud;1;1;6;Cat_3;B
+462992;Mujer;1;57;1;Ingeniero;0;3;3;Cat_3;C
+462993;Hombre;1;30;0;Artista;0;2;3;Cat_6;C
+462994;Mujer;1;36;0;Artista;0;2;3;Cat_6;A
+462998;Hombre;1;52;0;Entertainment;10;2;4;Cat_6;B
+463003;Hombre;1;42;1;Artista;3;2;2;Cat_6;A
+463012;Hombre;1;52;0;Ingeniero;0;1;1;Cat_6;C
+463020;Hombre;1;28;1;Artista;0;2;3;Cat_1;B
+463023;Mujer;1;43;0;Constructor;7;1;1;Cat_6;B
+463024;Hombre;0;43;1;Artista;0;1;1;Cat_6;C
+463028;Hombre;0;25;0;Doctor;0;1;4;Cat_6;D
+463030;Hombre;1;52;1;Ejecutivo;1;3;3;Cat_6;A
+463034;Mujer;0;28;1;Constructor;9;1;1;Cat_6;D
+463037;Hombre;1;56;1;Entertainment;0;2;4;Cat_6;A
+463039;Hombre;1;38;0;Ejecutivo;12;3;7;Cat_6;A
+463040;Hombre;1;83;0;Abogado;1;3;2;Cat_6;C
+463044;Hombre;1;82;1;Abogado;0;3;2;Cat_6;B
+463047;Hombre;1;32;1;Constructor;8;1;0;Cat_6;D
+463051;Mujer;0;35;1;Constructor;12;1;1;Cat_6;C
+463052;Hombre;1;40;1;Marketing;0;1;2;Cat_6;B
+463058;Mujer;0;25;1;Constructor;13;1;1;;B
+463062;Mujer;1;39;1;Artista;0;2;3;Cat_6;D
+463069;Hombre;0;25;1;Artista;7;1;1;Cat_6;C
+463075;Hombre;1;52;1;Artista;0;1;4;Cat_6;B
+463080;Hombre;0;33;0;Artista;0;1;4;Cat_5;B
+463083;Hombre;0;28;1;Artista;6;1;3;Cat_6;A
+463085;Mujer;0;43;1;Artista;0;1;1;Cat_6;C
+463086;Hombre;0;30;1;Artista;8;1;0;Cat_5;C
+463088;Mujer;1;84;1;Abogado;1;3;2;Cat_6;A
+463089;Hombre;1;48;1;Ejecutivo;6;3;4;Cat_6;C
+463090;Mujer;1;55;0;Ingeniero;3;2;2;Cat_6;D
+463091;Mujer;1;37;1;Constructor;8;1;1;Cat_6;A
+463094;Hombre;1;38;1;Ingeniero;11;2;3;Cat_6;A
+463096;Mujer;0;28;1;Doctor;0;1;3;Cat_6;A
+463099;Hombre;1;86;1;Abogado;0;1;1;Cat_6;C
+463100;Mujer;0;35;0;Constructor;9;1;1;Cat_6;D
+463102;Hombre;0;35;0;Entertainment;0;1;2;Cat_6;A
+463104;Mujer;1;46;0;Abogado;0;1;1;Cat_6;A
+463106;Mujer;1;79;1;Abogado;0;1;1;Cat_6;C
+463108;Hombre;1;63;1;Abogado;5;3;2;Cat_6;B
+463118;Mujer;1;50;1;Doctor;0;3;3;Cat_6;D
+463120;Mujer;0;35;1;Entertainment;0;1;1;Cat_6;A
+463129;Hombre;1;65;0;Doctor;0;1;1;Cat_6;A
+463133;Hombre;1;50;0;Artista;0;2;4;Cat_6;C
+463138;Mujer;0;27;0;Constructor;0;1;0;Cat_3;A
+463144;Hombre;1;45;1;Ejecutivo;0;3;3;Cat_6;D
+463145;Mujer;0;36;1;Constructor;0;1;4;Cat_6;A
+463146;Hombre;1;43;0;Entertainment;11;2;2;Cat_6;B
+463148;Hombre;1;62;1;Marketing;1;3;5;Cat_6;B
+463149;Hombre;1;57;1;Artista;2;2;2;Cat_6;A
+463150;Hombre;0;51;0;Marketing;9;1;1;Cat_6;A
+463151;Hombre;1;59;1;Artista;0;1;1;Cat_3;A
+463154;Mujer;1;27;0;Artista;0;1;4;Cat_6;C
+463156;Mujer;1;83;0;Abogado;0;3;2;Cat_6;B
+463157;Hombre;1;50;1;Entertainment;6;1;3;Cat_6;A
+463158;Hombre;1;75;1;Ejecutivo;1;3;3;Cat_6;D
+463163;Hombre;0;28;0;Ejecutivo;2;1;2;Cat_3;C
+463164;Hombre;1;39;1;Artista;9;2;2;Cat_6;A
+463165;Mujer;1;69;1;Doctor;0;2;2;Cat_6;C
+463166;Mujer;0;41;1;Artista;1;1;1;Cat_4;D
+463170;Mujer;0;28;1;Personal de salud;0;1;5;Cat_3;A
+463171;Mujer;1;39;0;Entertainment;1;3;3;Cat_3;A
+463173;Hombre;0;47;1;Artista;0;1;1;Cat_3;C
+463174;Mujer;1;62;1;Ingeniero;1;1;1;Cat_3;B
+463175;Mujer;0;41;0;Ingeniero;0;1;4;Cat_3;A
+463181;Hombre;1;49;1;Doctor;5;2;3;Cat_5;D
+463187;Mujer;1;52;1;Artista;8;1;2;Cat_6;A
+463192;Mujer;1;48;0;Entertainment;2;2;0;Cat_4;A
+463195;Mujer;0;26;1;Personal de salud;7;1;2;Cat_3;A
+463196;Mujer;1;72;1;Ingeniero;1;1;1;Cat_6;C
+463199;Mujer;1;47;1;Artista;0;1;3;Cat_4;D
+463201;Mujer;0;19;0;Personal de salud;1;1;2;Cat_4;D
+463203;Mujer;0;21;0;Personal de salud;1;1;3;Cat_7;A
+463204;Hombre;0;39;0;Entertainment;1;1;1;Cat_6;D
+463209;Mujer;0;52;1;Artista;0;1;1;Cat_6;C
+463218;Hombre;1;37;0;Entertainment;8;2;3;Cat_6;B
+463219;Hombre;1;51;0;Entertainment;0;1;2;Cat_6;A
+463220;Hombre;1;48;0;Ingeniero;1;2;3;Cat_6;B
+463221;Hombre;0;22;0;Personal de salud;0;1;3;Cat_6;D
+463224;Hombre;1;47;1;Ejecutivo;1;3;4;Cat_6;B
+463240;Mujer;1;45;0;Ingeniero;0;2;3;Cat_6;A
+463242;Mujer;0;29;0;Ingeniero;5;1;2;Cat_6;C
+463244;Mujer;1;47;0;Doctor;1;1;1;Cat_6;C
+463245;Hombre;1;41;1;Entertainment;8;2;2;Cat_6;B
+463248;Mujer;1;32;0;Constructor;9;2;4;Cat_2;C
+463251;Hombre;1;31;0;Marketing;2;1;3;Cat_6;D
+463256;Hombre;0;20;0;Marketing;1;1;3;Cat_6;A
+463258;Mujer;1;46;1;Artista;0;2;3;Cat_6;B
+463260;Hombre;1;70;1;Abogado;3;1;1;Cat_6;D
+463265;Hombre;1;65;1;Artista;1;2;3;Cat_6;D
+463266;Mujer;1;68;0;Artista;1;2;2;Cat_6;C
+463267;Hombre;1;29;0;Constructor;9;1;1;Cat_4;A
+463269;Hombre;1;41;1;Entertainment;3;2;2;Cat_3;A
+463270;Hombre;1;50;0;Ejecutivo;0;1;5;;C
+463273;Hombre;1;38;1;Entertainment;9;2;2;Cat_3;C
+463276;Hombre;1;37;0;Ejecutivo;0;2;2;Cat_3;A
+463277;Mujer;1;30;0;Ingeniero;6;1;2;Cat_3;A
+463278;Mujer;1;63;1;Ingeniero;1;1;1;Cat_3;B
+463280;Hombre;1;42;1;Artista;6;2;2;Cat_3;B
+463292;Hombre;1;41;0;Ejecutivo;0;3;3;Cat_6;C
+463302;Mujer;1;60;1;Ingeniero;0;3;4;Cat_6;B
+463308;Hombre;1;46;1;Ingeniero;1;1;2;Cat_3;C
+463316;Mujer;1;83;0;Abogado;0;3;2;Cat_6;B
+463323;Hombre;1;27;1;Personal de salud;3;1;2;Cat_6;D
+463324;Mujer;0;22;0;Personal de salud;1;1;4;Cat_2;B
+463330;Hombre;0;20;0;Personal de salud;0;1;4;Cat_6;A
+463332;Mujer;1;40;1;Ingeniero;0;1;2;Cat_6;A
+463334;Mujer;0;28;1;Doctor;0;1;6;Cat_4;D
+463335;Hombre;0;28;1;Doctor;0;1;1;Cat_4;A
+463338;Hombre;1;28;0;Entertainment;0;1;2;Cat_3;B
+463340;Mujer;0;20;0;Personal de salud;0;1;4;Cat_3;D
+463341;Mujer;1;53;0;Ingeniero;0;2;6;Cat_3;A
+463348;Mujer;1;35;1;Doctor;0;1;2;Cat_6;A
+463351;Mujer;0;21;0;Personal de salud;3;1;4;Cat_5;C
+463356;Hombre;0;30;1;Personal de salud;6;1;4;Cat_2;D
+463360;Mujer;1;46;1;Artista;2;1;1;Cat_6;B
+463367;Mujer;0;36;1;Ingeniero;3;1;4;Cat_2;D
+463368;Mujer;1;38;1;Artista;4;3;3;Cat_2;A
+463372;Mujer;1;26;0;Marketing;1;2;2;;D
+463375;Mujer;1;45;1;Doctor;1;1;1;Cat_4;D
+463376;Mujer;1;46;1;Ejecutivo;5;3;2;Cat_6;A
+463378;Hombre;0;25;1;Doctor;0;1;1;Cat_3;A
+463379;Hombre;0;27;0;Marketing;0;1;7;Cat_6;A
+463386;Mujer;1;42;1;Doctor;6;1;1;Cat_3;A
+463387;Hombre;0;20;0;Marketing;3;1;2;Cat_3;D
+463391;Hombre;1;55;1;Doctor;6;1;1;Cat_3;B
+463395;Hombre;0;25;0;Marketing;0;1;1;Cat_6;C
+463404;Hombre;1;27;0;Doctor;0;3;2;Cat_3;C
+463406;Hombre;0;31;0;Marketing;0;1;4;Cat_3;D
+463409;Mujer;1;38;0;Entertainment;6;2;5;Cat_2;B
+463411;Hombre;1;43;1;Entertainment;0;2;2;Cat_6;B
+463420;Mujer;1;59;1;Artista;2;3;3;Cat_6;D
+463423;Hombre;1;61;0;Ejecutivo;1;2;3;Cat_6;B
+463427;Mujer;1;27;1;Ingeniero;1;1;2;Cat_6;D
+463428;Hombre;1;26;0;Ejecutivo;1;3;5;Cat_6;A
+463431;Hombre;1;39;1;Artista;0;2;4;Cat_4;B
+463437;Hombre;1;51;1;Artista;0;2;3;Cat_6;C
+463438;Hombre;1;47;0;Entertainment;0;2;3;Cat_6;B
+463443;Hombre;1;52;1;Artista;1;2;4;Cat_6;A
+463444;Hombre;1;59;1;Abogado;0;3;2;Cat_6;C
+463447;Hombre;1;57;0;Ingeniero;1;2;2;Cat_6;A
+463452;Mujer;1;86;1;Abogado;1;3;2;Cat_6;D
+463460;Hombre;1;49;1;Artista;0;2;2;Cat_6;C
+463461;Hombre;0;30;0;Doctor;0;1;4;Cat_4;B
+463462;Mujer;1;43;0;Ingeniero;0;2;4;Cat_6;A
+463470;Hombre;0;19;0;Personal de salud;0;1;5;Cat_2;D
+463472;Hombre;0;20;0;Personal de salud;0;1;4;Cat_6;D
+463473;Hombre;0;19;0;Personal de salud;0;1;3;Cat_6;D
+463475;Mujer;1;43;1;Doctor;0;1;1;Cat_6;A
+463477;Hombre;0;31;0;Personal de salud;0;1;4;Cat_4;B
+463483;Hombre;1;30;0;Ejecutivo;1;3;2;Cat_6;D
+463491;Hombre;1;27;1;Doctor;8;2;3;Cat_6;B
+463493;Hombre;1;36;1;Ejecutivo;0;3;4;Cat_6;B
+463499;Hombre;1;47;1;Ejecutivo;0;1;2;Cat_6;A
+463500;Hombre;1;35;1;Ejecutivo;1;3;4;Cat_6;A
+463503;Hombre;1;25;1;Entertainment;0;1;2;Cat_7;D
+463508;Mujer;1;25;0;Artista;0;1;3;Cat_6;D
+463509;Hombre;0;38;0;Artista;1;1;1;Cat_3;C
+463512;Mujer;0;32;0;Ingeniero;0;1;3;Cat_6;A
+463516;Hombre;1;48;0;Ejecutivo;1;3;6;Cat_6;A
+463527;Mujer;0;38;0;Artista;10;1;1;Cat_6;A
+463528;Hombre;1;70;0;Ejecutivo;0;3;2;Cat_6;A
+463529;Hombre;0;42;1;Marketing;0;1;1;Cat_6;C
+463533;Mujer;1;85;1;Artista;1;3;2;Cat_2;D
+463537;Mujer;0;25;1;Personal de salud;1;1;3;Cat_6;B
+463545;Mujer;0;31;1;Doctor;1;1;2;Cat_4;D
+463548;Mujer;0;20;0;Personal de salud;3;1;4;Cat_4;D
+463550;Mujer;1;37;1;Artista;0;2;2;Cat_4;B
+463553;Hombre;0;33;1;Artista;8;1;2;Cat_6;A
+463554;Mujer;0;52;0;Artista;5;1;1;Cat_6;C
+463557;Hombre;0;26;1;Doctor;0;1;3;Cat_6;A
+463560;Mujer;0;21;0;Personal de salud;9;1;5;Cat_4;D
+463561;Mujer;0;42;1;Ingeniero;0;1;1;Cat_6;C
+463566;Mujer;1;35;1;Constructor;0;2;4;Cat_2;D
+463572;Hombre;1;39;1;Artista;0;2;4;Cat_6;D
+463577;Mujer;1;41;1;Doctor;1;2;2;Cat_6;D
+463586;Mujer;0;18;0;Personal de salud;1;1;5;Cat_6;A
+463588;Hombre;0;22;0;Personal de salud;0;1;1;Cat_6;D
+463598;Mujer;1;25;0;Ingeniero;2;1;2;Cat_6;A
+463601;Mujer;0;20;0;Personal de salud;4;1;5;;A
+463603;Mujer;0;18;0;Entertainment;0;1;4;Cat_2;A
+463605;Mujer;0;20;0;Personal de salud;1;1;5;Cat_5;D
+463606;Hombre;0;21;0;Marketing;0;1;4;Cat_2;D
+463614;Mujer;0;25;0;Personal de salud;1;1;4;Cat_3;A
+463615;Mujer;1;60;1;Artista;0;2;2;Cat_6;A
+463616;Mujer;1;46;0;Ingeniero;0;2;5;Cat_3;A
+463619;Hombre;1;68;0;Ejecutivo;1;3;2;Cat_6;A
+463620;Hombre;0;21;0;Personal de salud;1;1;4;Cat_2;B
+463623;Hombre;0;27;1;Doctor;0;1;3;Cat_6;C
+463624;Hombre;1;59;1;Ejecutivo;1;3;4;Cat_6;C
+463628;Mujer;0;26;1;Artista;8;1;1;Cat_6;B
+463632;Hombre;1;26;1;Artista;0;2;2;Cat_6;D
+463638;Mujer;1;32;0;Doctor;1;2;2;Cat_7;D
+463639;Hombre;0;33;0;Personal de salud;0;1;6;Cat_6;A
+463640;Hombre;0;28;1;Personal de salud;0;1;3;Cat_6;A
+463644;Mujer;0;30;1;Personal de salud;0;1;3;Cat_7;A
+463652;Mujer;0;32;1;Artista;0;1;1;Cat_6;D
+463654;Mujer;0;41;0;Ingeniero;3;1;3;Cat_3;B
+463655;Hombre;1;42;1;Artista;13;1;2;Cat_6;A
+463661;Mujer;1;45;1;Doctor;1;2;4;Cat_6;A
+463663;Mujer;0;39;1;Desconocida;1;1;2;Cat_6;A
+463664;Mujer;0;29;0;Ingeniero;0;1;1;Cat_6;D
+463665;Hombre;1;46;1;Entertainment;1;2;3;Cat_6;A
+463669;Mujer;1;26;1;Marketing;5;3;4;Cat_2;D
+463670;Mujer;0;26;1;Personal de salud;0;1;4;Cat_6;A
+463689;Mujer;1;41;1;Doctor;1;1;0;Cat_6;B
+463699;Mujer;1;38;1;Marketing;9;1;3;Cat_6;D
+463703;Hombre;1;69;0;Ejecutivo;1;3;4;Cat_6;C
+463704;Hombre;0;46;1;Artista;0;1;2;Cat_6;D
+463707;Mujer;0;40;0;Artista;0;1;1;Cat_5;A
+463713;Hombre;0;25;0;Ingeniero;9;1;3;Cat_4;C
+463714;Hombre;1;59;0;Desconocida;1;2;2;Cat_4;A
+463716;Hombre;0;26;0;Doctor;1;1;4;Cat_6;D
+463718;Mujer;0;33;1;Artista;0;1;4;Cat_6;A
+463722;Hombre;1;56;1;Ejecutivo;8;3;2;Cat_6;A
+463724;Hombre;0;30;0;Personal de salud;0;1;5;Cat_4;D
+463726;Mujer;0;26;0;Personal de salud;0;1;3;Cat_6;C
+463727;Mujer;0;28;0;Doctor;0;1;5;Cat_3;A
+463728;Mujer;1;28;0;Doctor;0;2;6;Cat_6;A
+463732;Hombre;0;20;0;Personal de salud;1;1;4;Cat_6;D
+463734;Hombre;1;41;0;Ejecutivo;1;2;3;Cat_6;A
+463741;Hombre;1;37;1;Artista;0;3;3;Cat_6;C
+463745;Hombre;1;59;1;Artista;1;2;3;Cat_3;A
+463747;Mujer;1;43;1;Artista;0;2;2;Cat_6;A
+463748;Hombre;0;20;0;Personal de salud;1;1;3;Cat_6;A
+463753;Mujer;0;30;1;Personal de salud;1;1;5;Cat_2;A
+463756;Hombre;1;66;0;Ejecutivo;0;2;2;Cat_6;C
+463761;Hombre;1;28;1;Artista;1;2;3;Cat_6;D
+463764;Hombre;1;49;1;Entertainment;0;2;3;Cat_6;B
+463766;Mujer;1;61;1;Artista;0;2;3;;C
+463767;Hombre;1;27;1;Artista;9;2;2;Cat_6;D
+463768;Mujer;1;35;0;Ingeniero;1;1;1;Cat_4;A
+463774;Hombre;1;33;1;Personal de salud;0;2;2;Cat_6;A
+463776;Mujer;1;36;1;Artista;2;2;2;Cat_6;A
+463782;Mujer;0;27;1;Artista;9;1;1;Cat_6;D
+463783;Mujer;0;29;0;Personal de salud;0;1;0;;A
+463784;Mujer;0;31;0;Ingeniero;1;1;5;Cat_4;D
+463785;Mujer;0;30;0;Personal de salud;0;1;4;Cat_4;D
+463786;Mujer;1;43;1;Artista;0;2;2;Cat_6;A
+463790;Hombre;1;47;0;Ejecutivo;1;1;4;Cat_4;C
+463792;Mujer;0;42;0;Ingeniero;0;1;1;Cat_6;D
+463794;Mujer;0;33;1;Personal de salud;0;1;5;Cat_2;D
+463799;Mujer;0;36;1;Artista;1;1;4;Cat_2;C
+463800;Mujer;0;30;1;Ingeniero;1;1;3;Cat_6;D
+463804;Hombre;1;60;1;Artista;9;1;1;Cat_6;B
+463807;Mujer;0;32;1;Personal de salud;0;1;3;Cat_4;A
+463811;Mujer;1;32;1;Artista;0;2;2;Cat_4;C
+463814;Mujer;0;28;0;Personal de salud;7;1;3;Cat_5;A
+463816;Hombre;1;46;1;Personal de salud;2;3;4;Cat_7;B
+463818;Mujer;1;38;1;Artista;4;1;1;Cat_6;B
+463819;Hombre;1;28;0;Artista;8;1;0;Cat_6;C
+463821;Hombre;1;30;1;Entertainment;7;1;2;Cat_6;D
+463825;Mujer;1;52;1;Artista;0;2;3;;A
+463827;Mujer;1;46;1;Ingeniero;1;2;4;Cat_6;D
+463828;Hombre;1;37;0;Ingeniero;0;2;2;Cat_1;C
+463830;Mujer;0;25;1;Ingeniero;2;1;3;Cat_6;B
+463834;Mujer;1;43;1;Ingeniero;1;2;4;Cat_6;A
+463835;Hombre;0;32;0;Marketing;0;1;4;Cat_6;B
+463842;Mujer;1;50;1;Ingeniero;1;3;4;Cat_6;D
+463847;Hombre;1;43;0;Artista;3;2;3;Cat_6;B
+463856;Hombre;1;37;1;Artista;0;2;2;Cat_4;B
+463857;Hombre;1;61;0;Personal de salud;0;3;4;Cat_7;D
+463859;Hombre;1;39;1;Artista;5;2;2;Cat_6;A
+463865;Hombre;1;46;1;Artista;1;2;5;Cat_6;B
+463877;Hombre;1;37;0;Entertainment;0;2;4;Cat_4;D
+463880;Mujer;1;36;0;Ingeniero;0;1;3;Cat_2;A
+463884;Mujer;0;28;0;Artista;0;1;1;Cat_6;B
+463891;Hombre;1;86;1;Abogado;0;1;1;Cat_6;B
+463892;Hombre;0;42;1;Artista;8;1;1;Cat_6;B
+463904;Hombre;1;82;1;Ejecutivo;1;1;1;Cat_6;D
+463917;Mujer;0;18;0;Personal de salud;1;1;8;Cat_4;B
+463923;Mujer;0;18;0;Ingeniero;0;1;4;Cat_6;D
+463924;Mujer;0;36;1;Artista;1;1;1;Cat_5;A
+463926;Mujer;0;26;0;Ingeniero;1;1;6;Cat_6;A
+463931;Hombre;1;49;1;Entertainment;1;2;2;Cat_6;B
+463932;Mujer;1;69;1;Artista;1;2;3;Cat_6;A
+463941;Mujer;0;29;0;Artista;1;1;6;Cat_4;D
+463943;Hombre;0;68;1;Entertainment;1;1;2;Cat_6;C
+463946;Hombre;0;33;0;Personal de salud;4;1;3;Cat_4;D
+463948;Hombre;1;38;0;Ejecutivo;3;3;5;Cat_6;A
+463951;Hombre;1;52;0;Entertainment;1;2;3;Cat_6;B
+463955;Hombre;1;28;1;Artista;1;1;2;Cat_6;B
+463958;Mujer;0;27;0;Personal de salud;1;1;5;Cat_2;B
+463961;Mujer;0;28;0;Ingeniero;0;1;4;Cat_4;B
+463963;Mujer;1;25;0;Ingeniero;7;3;3;Cat_6;A
+463966;Mujer;0;30;1;Artista;8;1;1;Cat_6;A
+463978;Hombre;1;40;1;Artista;1;2;3;Cat_2;A
+463980;Mujer;0;25;1;Artista;0;1;9;Cat_6;B
+463981;Mujer;0;30;1;Artista;5;1;1;;D
+463983;Mujer;1;43;0;Ingeniero;0;2;2;Cat_4;A
+463986;Mujer;0;26;1;Artista;1;1;4;Cat_6;B
+463997;Mujer;1;37;0;Entertainment;0;2;3;Cat_6;C
+464000;Mujer;0;28;0;Personal de salud;1;1;5;Cat_7;B
+464004;Mujer;1;31;0;Marketing;1;1;5;Cat_4;A
+464007;Hombre;1;46;1;Artista;1;1;3;Cat_6;A
+464009;Mujer;1;47;1;Artista;5;2;4;Cat_6;C
+464010;Hombre;0;28;0;Personal de salud;1;1;4;Cat_6;B
+464013;Hombre;0;30;0;Personal de salud;0;1;1;Cat_6;D
+464016;Mujer;0;29;1;Entertainment;1;3;1;Cat_1;A
+464019;Hombre;0;23;0;Artista;2;1;5;Cat_6;D
+464021;Mujer;0;22;0;Personal de salud;1;1;5;Cat_6;D
+464023;Hombre;0;20;0;Personal de salud;1;1;5;Cat_7;D
+464030;Hombre;0;22;0;Entertainment;1;1;4;Cat_6;D
+464031;Mujer;0;19;0;Personal de salud;0;1;4;Cat_6;C
+464032;Hombre;0;21;0;Personal de salud;1;1;3;Cat_6;D
+464033;Mujer;0;19;0;Personal de salud;0;1;4;Cat_6;B
+464039;Hombre;0;39;1;Artista;1;1;2;Cat_6;A
+464042;Mujer;1;38;1;Artista;8;1;2;Cat_6;D
+464046;Hombre;0;33;1;Personal de salud;3;1;1;Cat_6;A
+464048;Mujer;0;38;1;Constructor;4;1;1;Cat_6;B
+464049;Mujer;0;29;1;Personal de salud;0;1;3;Cat_6;A
+464053;Mujer;1;35;0;Entertainment;4;1;1;Cat_6;D
+464054;Hombre;1;32;1;Artista;9;2;2;Cat_6;A
+464059;Hombre;1;59;1;Artista;0;1;1;Cat_6;D
+464063;Mujer;0;32;1;Doctor;0;1;1;Cat_6;B
+464066;Mujer;0;29;1;Personal de salud;8;1;3;Cat_4;C
+464067;Mujer;0;31;1;Entertainment;0;1;4;Cat_2;A
+464068;Hombre;1;59;0;Ejecutivo;0;3;4;Cat_6;B
+464071;Hombre;1;87;1;Abogado;0;3;2;Cat_6;A
+464072;Hombre;1;53;1;Ejecutivo;0;1;2;Cat_6;C
+464076;Hombre;1;83;0;Abogado;0;3;2;Cat_6;D
+464084;Hombre;0;33;0;Personal de salud;1;1;5;Cat_4;A
+464087;Mujer;0;26;0;Ingeniero;0;1;4;Cat_6;B
+464089;Mujer;1;39;1;Artista;7;3;5;;C
+464096;Mujer;0;27;0;Personal de salud;1;1;5;Cat_4;A
+464099;Mujer;1;42;1;Artista;5;2;2;Cat_4;A
+464103;Hombre;1;46;1;Artista;4;2;2;Cat_6;B
+464110;Hombre;1;63;1;Doctor;0;3;2;Cat_6;C
+464112;Hombre;0;32;1;Doctor;1;1;2;Cat_6;B
+464115;Mujer;0;38;1;Ingeniero;0;1;3;Cat_6;C
+464118;Hombre;0;38;1;Entertainment;1;1;2;Cat_6;D
+464121;Mujer;1;63;1;Ingeniero;1;1;1;Cat_6;D
+464123;Mujer;0;45;1;Artista;1;1;1;Cat_6;A
+464127;Mujer;0;33;1;Personal de salud;1;1;5;Cat_2;A
+464132;Hombre;0;27;0;Entertainment;0;1;2;Cat_6;C
+464137;Mujer;1;87;0;Artista;7;3;2;Cat_7;B
+464139;Mujer;0;25;0;Personal de salud;14;1;1;Cat_6;D
+464144;Hombre;1;61;1;Artista;0;2;4;Cat_6;B
+464152;Hombre;1;41;1;Artista;1;3;4;Cat_6;B
+464162;Hombre;1;86;1;Abogado;0;3;2;Cat_6;D
+464167;Hombre;1;51;1;Ejecutivo;4;3;3;Cat_6;B
+464169;Hombre;0;83;0;Abogado;0;3;2;Cat_6;A
+464172;Hombre;1;60;1;Artista;3;3;3;Cat_6;C
+464173;Hombre;1;65;1;Artista;6;2;3;Cat_6;D
+464175;Mujer;0;32;0;Personal de salud;1;1;0;Cat_6;C
+464176;Mujer;1;41;1;Artista;1;1;1;Cat_6;B
+464179;Mujer;1;56;1;Artista;0;2;3;Cat_6;A
+464180;Mujer;1;74;0;Abogado;1;3;2;Cat_6;C
+464182;Hombre;1;39;1;Artista;4;2;2;Cat_2;B
+464183;Mujer;0;42;0;Artista;2;1;2;Cat_6;A
+464185;Hombre;1;68;1;Artista;5;3;2;Cat_6;A
+464195;Hombre;0;30;1;Artista;1;1;1;Cat_6;A
+464200;Mujer;0;32;0;Personal de salud;1;1;3;Cat_6;C
+464202;Hombre;1;43;1;Artista;13;1;1;Cat_6;A
+464204;Mujer;1;40;1;Artista;3;3;2;Cat_5;C
+464205;Mujer;1;87;0;Entertainment;0;3;2;Cat_6;D
+464206;Hombre;1;43;0;Entertainment;1;1;2;Cat_6;B
+464211;Hombre;1;48;1;Doctor;1;2;3;Cat_2;C
+464212;Mujer;1;58;1;Marketing;0;2;2;Cat_6;A
+464216;Hombre;1;52;1;Artista;0;3;3;Cat_6;A
+464217;Mujer;0;30;0;Personal de salud;14;1;3;Cat_6;A
+464223;Mujer;1;53;1;Artista;2;1;2;Cat_6;D
+464226;Mujer;1;56;1;Artista;3;2;3;Cat_6;C
+464231;Hombre;1;48;1;Artista;1;2;4;Cat_6;B
+464232;Hombre;1;28;0;Doctor;1;1;5;Cat_6;D
+464246;Mujer;1;61;1;Artista;0;2;2;Cat_6;B
+464254;Hombre;1;62;1;Entertainment;1;2;3;Cat_6;C
+464255;Mujer;1;49;1;Artista;1;2;5;Cat_4;B
+464257;Hombre;1;40;0;Entertainment;0;3;2;Cat_6;D
+464265;Hombre;1;62;1;Entertainment;1;1;2;Cat_6;B
+464269;Hombre;0;35;1;Entertainment;1;1;0;Cat_1;C
+464270;Mujer;0;48;1;Artista;4;1;1;Cat_6;B
+464271;Mujer;1;36;1;Artista;1;2;3;Cat_2;B
+464274;Mujer;1;56;1;Artista;1;2;5;Cat_6;D
+464276;Mujer;1;66;0;Marketing;0;3;2;Cat_1;D
+464283;Hombre;0;40;1;Artista;6;1;2;Cat_6;D
+464286;Mujer;1;57;1;Artista;0;2;2;Cat_6;B
+464287;Hombre;1;42;1;Artista;0;2;3;Cat_2;A
+464289;Hombre;1;35;0;Marketing;1;1;3;Cat_6;A
+464292;Hombre;1;58;1;Artista;0;2;2;Cat_6;C
+464297;Hombre;0;29;0;Artista;8;1;5;Cat_5;D
+464298;Hombre;0;26;0;Doctor;0;1;1;Cat_6;A
+464308;Mujer;1;84;1;Abogado;1;3;2;Cat_6;D
+464318;Hombre;1;86;1;Ejecutivo;0;1;1;Cat_6;D
+464320;Hombre;1;77;0;Abogado;1;3;2;Cat_6;D
+464326;Mujer;0;37;1;Artista;0;1;3;Cat_6;A
+464332;Hombre;1;74;0;Ejecutivo;0;3;2;Cat_6;B
+464339;Hombre;0;27;0;Artista;1;1;2;Cat_6;A
+464344;Mujer;1;56;1;Artista;0;1;1;Cat_6;D
+464351;Mujer;0;27;1;Personal de salud;0;1;1;Cat_6;A
+464364;Hombre;1;39;1;Artista;7;2;2;Cat_6;C
+464368;Hombre;1;35;1;Entertainment;3;2;2;Cat_6;A
+464370;Hombre;1;66;1;Entertainment;1;2;2;Cat_6;A
+464373;Mujer;0;47;1;Artista;0;1;2;Cat_6;C
+464378;Mujer;1;36;1;Artista;8;2;2;Cat_6;B
+464381;Hombre;1;43;1;Artista;4;2;2;Cat_6;D
+464382;Mujer;1;55;1;Artista;0;2;4;Cat_6;D
+464386;Hombre;1;41;1;Doctor;0;2;3;Cat_6;A
+464387;Mujer;0;26;1;Artista;9;1;5;Cat_6;D
+464389;Hombre;1;72;1;Artista;0;3;2;Cat_2;A
+464392;Hombre;1;59;0;Artista;0;2;2;Cat_6;A
+464396;Hombre;1;38;1;Entertainment;1;2;3;Cat_6;D
+464412;Hombre;1;72;0;Abogado;1;1;2;Cat_6;C
+464424;Hombre;0;31;1;Personal de salud;1;1;4;Cat_6;A
+464425;Hombre;0;41;1;Artista;9;1;1;Cat_6;B
+464432;Hombre;0;25;0;Ingeniero;9;1;2;Cat_3;D
+464433;Hombre;0;29;1;Artista;0;1;0;Cat_2;A
+464436;Hombre;1;83;1;Abogado;0;3;2;Cat_4;D
+464437;Mujer;1;51;1;Ingeniero;0;2;4;Cat_6;B
+464441;Hombre;1;40;1;Artista;0;1;2;Cat_2;D
+464451;Mujer;1;76;1;Artista;0;2;2;Cat_6;C
+464456;Hombre;1;29;1;Artista;1;1;4;Cat_6;A
+464468;Hombre;1;46;1;Artista;1;1;3;Cat_6;B
+464473;Mujer;1;58;1;Artista;0;2;4;Cat_6;A
+464474;Mujer;0;46;1;Artista;1;1;1;Cat_6;D
+464478;Mujer;1;74;0;Abogado;0;3;2;Cat_6;D
+464481;Hombre;1;53;1;Ejecutivo;1;3;3;Cat_6;A
+464482;Hombre;1;63;1;Artista;1;1;1;Cat_6;D
+464483;Mujer;1;49;1;Artista;1;2;3;Cat_6;C
+464485;Hombre;0;25;1;Entertainment;5;1;2;Cat_3;A
+464487;Hombre;0;46;0;Ingeniero;1;1;3;Cat_4;C
+464488;Mujer;0;43;1;Artista;7;1;9;Cat_6;B
+464494;Mujer;1;58;1;Artista;1;2;4;Cat_3;C
+464499;Hombre;1;41;1;Ejecutivo;1;3;4;Cat_6;C
+464501;Mujer;0;28;0;Personal de salud;1;1;3;Cat_6;D
+464504;Hombre;0;26;1;Personal de salud;0;1;4;Cat_6;A
+464506;Hombre;0;29;1;Personal de salud;9;1;2;Cat_4;B
+464517;Hombre;0;33;1;Personal de salud;0;1;0;Cat_5;A
+464522;Mujer;0;39;1;Ingeniero;14;1;1;Cat_6;C
+464526;Hombre;1;51;1;Entertainment;0;2;4;Cat_6;D
+464528;Hombre;1;46;1;Entertainment;4;3;4;Cat_2;B
+464533;Hombre;1;38;0;Ejecutivo;0;3;6;Cat_6;D
+464536;Hombre;1;26;1;Artista;1;2;3;Cat_6;D
+464540;Mujer;1;42;1;Ingeniero;1;2;4;Cat_4;A
+464544;Mujer;1;43;1;Entertainment;5;2;3;Cat_6;C
+464549;Hombre;1;53;1;Ejecutivo;1;1;4;Cat_6;B
+464550;Hombre;1;46;1;Artista;0;1;4;Cat_6;D
+464552;Mujer;1;40;1;Artista;1;2;3;Cat_4;D
+464553;Hombre;1;71;1;Artista;1;1;2;Cat_6;B
+464555;Hombre;1;32;1;Marketing;13;3;4;Cat_4;A
+464560;Hombre;0;41;1;Entertainment;9;1;2;Cat_6;A
+464561;Mujer;0;46;1;Entertainment;8;1;2;Cat_6;D
+464566;Hombre;1;40;1;Ejecutivo;0;3;4;Cat_6;A
+464569;Hombre;0;29;0;Doctor;1;1;5;Cat_6;D
+464570;Hombre;1;25;1;Doctor;1;2;2;Cat_6;C
+464572;Mujer;1;52;1;Marketing;0;1;1;Cat_6;A
+464576;Hombre;0;30;1;Doctor;9;1;5;Cat_6;D
+464577;Mujer;1;25;1;Personal de salud;12;3;2;Cat_6;B
+464580;Hombre;0;32;0;Artista;9;1;4;Cat_6;D
+464581;Mujer;0;33;0;Doctor;0;1;4;Cat_6;A
+464586;Mujer;0;49;1;Artista;1;1;1;Cat_3;C
+464593;Mujer;0;43;1;Doctor;1;1;4;Cat_2;D
+464594;Hombre;1;48;1;Artista;1;1;1;Cat_2;D
+464597;Hombre;0;41;0;Artista;5;1;2;Cat_6;C
+464601;Mujer;0;29;1;Personal de salud;9;1;2;Cat_6;C
+464603;Mujer;0;35;1;Artista;0;1;2;Cat_3;B
+464606;Hombre;1;41;1;Artista;1;2;2;Cat_6;C
+464607;Mujer;1;47;1;Artista;1;2;4;Cat_2;C
+464608;Mujer;1;53;1;Artista;1;2;3;Cat_6;B
+464618;Hombre;0;40;1;Artista;5;1;1;Cat_6;B
+464620;Mujer;1;40;1;Artista;0;3;2;Cat_6;A
+464621;Hombre;1;46;1;Artista;0;1;1;Cat_6;B
+464637;Mujer;0;36;1;Marketing;0;1;4;Cat_4;D
+464641;Mujer;1;71;1;Abogado;2;1;6;Cat_1;A
+464652;Mujer;1;30;0;Ingeniero;5;2;2;Cat_4;A
+464654;Mujer;1;40;0;Ingeniero;1;2;4;Cat_4;A
+464664;Hombre;1;43;0;Entertainment;0;2;5;Cat_4;C
+464666;Hombre;1;40;1;Entertainment;3;2;3;Cat_4;B
+464670;Hombre;1;39;0;Entertainment;1;2;4;Cat_4;B
+464673;Hombre;1;49;0;Ejecutivo;1;3;7;Cat_2;D
+464674;Hombre;1;51;0;Artista;0;2;5;Cat_4;D
+464675;Mujer;1;39;0;Doctor;1;2;9;Cat_4;A
+464677;Hombre;1;23;0;Personal de salud;1;1;5;Cat_4;B
+464683;Hombre;1;53;0;Ingeniero;0;2;6;Cat_4;A
+464684;Mujer;0;35;0;Ingeniero;9;1;5;Cat_4;B
+464685;Hombre;0;35;0;Ejecutivo;2;1;4;Cat_4;A
+464688;Hombre;1;30;1;Doctor;1;1;9;Cat_4;C
+464690;Hombre;1;39;0;Ingeniero;2;2;0;Cat_4;A
+464691;Hombre;0;38;1;Artista;1;1;3;Cat_4;A
+464692;Mujer;0;53;0;Marketing;0;1;1;Cat_3;A
+464693;Mujer;0;36;1;Ingeniero;8;1;1;Cat_4;C
+464695;Hombre;0;33;0;Ingeniero;0;1;4;Cat_4;A
+464696;Mujer;0;40;1;Ingeniero;1;1;1;Cat_4;C
+464697;Mujer;1;36;1;Artista;0;2;4;Cat_4;D
+464699;Hombre;0;31;0;Doctor;1;1;5;Cat_4;A
+464701;Hombre;0;31;0;Doctor;1;1;2;Cat_4;A
+464704;Hombre;1;41;1;Personal de salud;0;2;4;Cat_4;C
+464707;Hombre;1;48;0;Desconocida;0;2;4;Cat_4;D
+464711;Mujer;1;38;1;Artista;5;2;3;Cat_1;D
+464712;Hombre;1;49;0;Artista;1;1;5;Cat_4;A
+464722;Hombre;1;42;1;Doctor;1;1;0;Cat_4;A
+464726;Hombre;1;28;1;Ejecutivo;14;3;9;Cat_4;D
+464728;Hombre;1;51;0;Entertainment;0;3;4;Cat_4;C
+464732;Hombre;1;41;0;Artista;1;2;2;Cat_4;C
+464737;Mujer;1;57;0;Ingeniero;0;2;6;Cat_4;C
+464739;Hombre;1;67;1;Artista;0;1;1;Cat_4;C
+464746;Hombre;1;29;0;Ejecutivo;3;2;5;Cat_4;D
+464752;Mujer;1;46;0;Marketing;0;1;1;Cat_4;A
+464755;Hombre;1;49;1;Artista;0;3;2;Cat_6;C
+464756;Mujer;0;28;0;Ingeniero;6;1;3;Cat_4;A
+464758;Mujer;1;48;0;Ingeniero;1;2;4;Cat_4;B
+464760;Mujer;1;51;0;Ingeniero;5;2;4;Cat_4;C
+464765;Mujer;1;48;0;Ingeniero;5;2;6;Cat_4;D
+464766;Mujer;1;48;0;Ingeniero;5;2;5;Cat_4;A
+464769;Mujer;0;52;0;Ingeniero;9;2;4;Cat_4;D
+464772;Mujer;1;39;0;Ingeniero;8;2;4;Cat_4;D
+464774;Mujer;1;50;0;Ingeniero;7;2;5;Cat_4;B
+464780;Mujer;0;33;0;Ingeniero;1;1;9;Cat_4;B
+464790;Mujer;0;35;1;Artista;0;1;1;Cat_4;D
+464792;Hombre;1;30;0;Marketing;2;3;5;Cat_4;B
+464794;Mujer;1;46;0;Ingeniero;8;2;0;Cat_4;C
+464799;Hombre;0;36;0;Marketing;0;1;4;Cat_4;B
+464802;Hombre;0;43;0;Entertainment;0;1;1;Cat_4;D
+464804;Hombre;1;26;0;Entertainment;1;1;1;Cat_4;A
+464806;Hombre;1;33;0;Ejecutivo;0;1;2;Cat_4;D
+464809;Hombre;1;50;0;Entertainment;0;2;5;Cat_4;B
+464812;Mujer;1;49;1;Ingeniero;1;3;5;Cat_4;D
+464813;Hombre;1;48;1;Ingeniero;6;2;5;Cat_6;A
+464817;Hombre;0;31;1;Artista;5;1;1;Cat_4;D
+464818;Mujer;1;38;0;Ingeniero;0;2;2;Cat_4;A
+464825;Mujer;0;21;0;Personal de salud;5;1;1;Cat_4;D
+464827;Mujer;1;50;0;Entertainment;8;2;5;Cat_4;B
+464828;Hombre;0;23;0;Personal de salud;9;1;6;Cat_4;B
+464831;Mujer;1;21;0;Personal de salud;0;1;2;Cat_4;D
+464832;Hombre;1;71;0;Abogado;1;1;0;Cat_4;C
+464835;Hombre;0;20;0;Personal de salud;0;1;6;Cat_4;D
+464836;Mujer;0;32;0;Ingeniero;7;3;5;Cat_4;A
+464845;Hombre;1;29;0;Ingeniero;0;2;3;Cat_4;A
+464849;Hombre;1;42;1;Artista;0;2;4;Cat_4;A
+464851;Hombre;0;20;0;Doctor;0;1;6;Cat_4;B
+464852;Hombre;1;36;0;Ejecutivo;1;1;6;Cat_4;D
+464854;Mujer;1;42;0;Ingeniero;0;3;6;Cat_4;B
+464857;Hombre;0;18;0;Personal de salud;7;1;4;Cat_4;B
+464861;Hombre;0;25;0;Constructor;0;1;2;Cat_4;A
+464864;Mujer;0;30;0;Ingeniero;10;1;8;Cat_4;D
+464865;Mujer;0;28;0;Constructor;9;1;9;Cat_4;A
+464868;Hombre;1;42;1;Entertainment;7;1;6;Cat_4;B
+464872;Hombre;1;38;1;Artista;1;1;4;Cat_4;C
+464873;Hombre;1;42;1;Artista;1;2;2;Cat_4;C
+464876;Mujer;1;52;0;Ingeniero;0;2;5;Cat_4;B
+464879;Mujer;1;29;1;Doctor;0;2;2;Cat_4;C
+464884;Hombre;1;40;1;Artista;1;1;2;Cat_4;A
+464885;Mujer;0;38;0;Ingeniero;1;1;2;Cat_4;C
+464886;Hombre;1;37;1;Ingeniero;1;2;4;Cat_4;C
+464902;Mujer;1;65;0;Abogado;1;1;1;Cat_4;B
+464905;Hombre;0;81;0;Ejecutivo;0;3;2;Cat_4;C
+464907;Hombre;0;59;1;Ingeniero;0;2;2;Cat_4;A
+464910;Mujer;1;47;1;Artista;1;2;5;Cat_4;B
+464911;Hombre;1;57;1;Artista;0;2;3;Cat_4;C
+464915;Hombre;1;39;1;Ejecutivo;0;3;4;Cat_4;B
+464916;Mujer;0;32;0;Doctor;8;3;2;Cat_4;D
+464919;Hombre;1;37;1;Artista;9;1;1;Cat_4;A
+464920;Hombre;0;39;1;Artista;4;1;1;Cat_4;A
+464921;Hombre;1;39;0;Doctor;1;2;5;Cat_4;D
+464925;Hombre;0;60;0;Ejecutivo;7;2;2;Cat_4;A
+464927;Mujer;1;70;1;Artista;1;2;2;Cat_4;D
+464932;Hombre;1;51;1;Ejecutivo;9;1;1;Cat_4;C
+464938;Hombre;1;48;0;Artista;1;1;3;Cat_4;B
+464939;Hombre;0;43;0;Entertainment;0;1;1;Cat_4;B
+464940;Mujer;1;29;0;Ingeniero;1;1;2;Cat_4;A
+464944;Mujer;1;43;1;Entertainment;0;1;2;Cat_4;B
+464947;Hombre;0;25;0;Doctor;5;1;1;Cat_4;D
+464957;Mujer;1;75;0;Abogado;0;1;1;Cat_4;B
+464960;Mujer;0;22;0;Personal de salud;0;1;5;Cat_4;C
+464961;Hombre;1;86;0;Marketing;1;1;1;Cat_4;B
+464963;Mujer;1;50;1;Entertainment;1;1;2;Cat_4;D
+464972;Hombre;1;73;0;Abogado;1;3;9;Cat_4;C
+464973;Hombre;0;87;0;Abogado;1;1;2;Cat_4;A
+464981;Hombre;1;49;1;Artista;0;2;4;Cat_6;C
+464987;Hombre;1;46;1;Ejecutivo;1;3;5;Cat_6;D
+464990;Hombre;1;73;0;Ejecutivo;0;3;2;Cat_6;D
+464991;Mujer;1;87;1;Abogado;1;3;2;Cat_6;A
+464995;Hombre;1;53;0;Ejecutivo;2;3;4;Cat_4;A
+465001;Hombre;1;84;1;Abogado;1;3;2;Cat_6;B
+465005;Hombre;1;47;1;Ejecutivo;3;3;3;Cat_6;C
+465012;Hombre;1;59;0;Ejecutivo;1;3;4;Cat_6;B
+465014;Hombre;1;82;0;Abogado;1;1;1;Cat_6;A
+465022;Mujer;1;71;1;Abogado;0;3;2;Cat_6;C
+465023;Hombre;1;39;1;Artista;9;2;2;Cat_2;B
+465026;Mujer;0;25;0;Doctor;0;1;2;Cat_6;B
+465032;Hombre;1;67;1;Ejecutivo;1;3;2;Cat_6;C
+465035;Mujer;1;83;1;Abogado;13;3;2;Cat_6;B
+465038;Hombre;1;49;0;Ejecutivo;0;3;4;Cat_6;B
+465039;Mujer;1;87;0;Abogado;0;3;2;Cat_6;A
+465040;Hombre;1;69;0;Abogado;1;2;2;Cat_6;D
+465045;Hombre;1;40;1;Entertainment;9;2;2;Cat_6;B
+465056;Hombre;1;87;1;Abogado;1;3;2;Cat_6;A
+465069;Hombre;1;68;1;Personal de salud;0;2;3;Cat_6;A
+465075;Mujer;1;43;1;Artista;0;2;2;Cat_6;A
+465076;Hombre;1;67;1;Artista;0;3;5;Cat_6;A
+465079;Hombre;1;80;1;Abogado;1;1;1;Cat_6;D
+465082;Hombre;1;65;1;Abogado;1;1;1;Cat_3;D
+465087;Hombre;0;29;1;Doctor;0;1;4;Cat_6;A
+465091;Hombre;1;60;1;Entertainment;0;2;3;Cat_6;B
+465092;Hombre;1;72;1;Ejecutivo;1;3;2;Cat_6;D
+465093;Hombre;1;57;1;Doctor;0;1;1;Cat_6;D
+465095;Hombre;1;47;1;Ejecutivo;1;3;4;Cat_6;C
+465099;Hombre;1;39;0;Entertainment;1;2;2;Cat_6;B
+465100;Hombre;1;62;1;Artista;0;3;2;Cat_6;B
+465101;Mujer;1;81;1;Abogado;1;1;1;Cat_6;A
+465105;Hombre;1;65;0;Ejecutivo;8;2;2;Cat_6;C
+465109;Hombre;0;47;0;Abogado;0;1;2;Cat_6;D
+465111;Mujer;1;40;1;Artista;8;2;2;Cat_6;A
+465112;Mujer;1;86;0;Abogado;0;3;2;Cat_6;D
+465113;Hombre;1;67;1;Abogado;0;3;2;Cat_4;B
+465119;Mujer;1;45;1;Artista;0;2;5;Cat_6;B
+465120;Mujer;0;27;1;Personal de salud;1;1;4;Cat_6;D
+465121;Mujer;0;32;1;Artista;7;1;1;Cat_3;D
+465122;Mujer;1;41;1;Artista;3;2;2;Cat_6;A
+465124;Mujer;1;27;1;Personal de salud;6;2;2;Cat_6;D
+465128;Mujer;1;58;0;Artista;0;2;3;Cat_6;A
+465134;Mujer;1;61;1;Entertainment;1;2;5;Cat_6;B
+465136;Hombre;1;52;1;Artista;0;2;2;Cat_6;A
+465144;Hombre;0;25;1;Doctor;8;1;1;Cat_6;D
+465147;Hombre;0;33;1;Personal de salud;2;1;3;Cat_6;D
+465148;Hombre;0;31;0;Artista;0;1;0;;A
+465150;Hombre;0;37;1;Entertainment;1;1;1;Cat_6;D
+465153;Hombre;1;38;1;Artista;1;2;2;Cat_6;B
+465155;Hombre;1;81;1;Abogado;0;1;1;Cat_6;B
+465160;Hombre;1;61;1;Ejecutivo;0;3;3;Cat_6;D
+465164;Hombre;0;20;0;Personal de salud;0;1;3;Cat_6;D
+465171;Mujer;1;48;1;Artista;8;3;4;Cat_6;C
+465172;Mujer;1;43;1;Artista;8;2;2;Cat_6;D
+465175;Mujer;0;22;0;Constructor;0;1;4;Cat_6;D
+465176;Mujer;1;63;1;Artista;1;2;4;Cat_6;A
+465181;Mujer;0;25;1;Personal de salud;8;1;1;Cat_4;D
+465182;Mujer;0;73;1;Abogado;1;1;1;Cat_6;A
+465186;Mujer;1;43;0;Artista;4;2;4;Cat_1;A
+465187;Mujer;1;39;0;Doctor;1;2;4;Cat_4;C
+465188;Mujer;1;49;1;Artista;0;2;4;Cat_6;B
+465189;Mujer;1;83;1;Abogado;1;3;2;Cat_6;C
+465194;Hombre;0;22;0;Personal de salud;9;1;6;Cat_2;D
+465196;Mujer;0;31;1;Artista;2;1;2;Cat_4;D
+465197;Mujer;1;60;1;Artista;1;3;4;Cat_6;C
+465201;Hombre;1;42;1;Entertainment;1;2;4;Cat_3;A
+465202;Hombre;0;25;0;Entertainment;7;1;4;Cat_6;B
+465203;Hombre;0;29;1;Personal de salud;3;1;3;Cat_6;D
+465204;Hombre;1;29;1;Personal de salud;1;1;2;Cat_6;B
+465213;Hombre;1;39;1;Entertainment;2;2;2;Cat_6;C
+465214;Hombre;1;33;0;Ingeniero;14;1;1;Cat_6;D
+465216;Hombre;1;35;1;Ejecutivo;9;3;4;Cat_6;A
+465226;Hombre;1;38;0;Entertainment;2;1;3;Cat_6;D
+465228;Hombre;1;59;1;Artista;1;3;2;Cat_6;C
+465231;Hombre;1;67;0;Artista;1;2;2;Cat_6;B
+465236;Hombre;1;45;1;Artista;1;1;1;Cat_6;A
+465237;Hombre;1;70;1;Abogado;0;3;2;Cat_6;D
+465242;Hombre;0;19;0;Personal de salud;5;1;4;Cat_3;A
+465249;Mujer;0;23;0;Personal de salud;0;1;4;Cat_6;B
+465254;Hombre;0;22;0;Personal de salud;1;1;4;Cat_7;D
+465261;Mujer;0;23;1;Personal de salud;1;1;4;Cat_1;D
+465264;Hombre;1;80;0;Ejecutivo;0;1;1;Cat_6;D
+465267;Hombre;1;40;0;Ingeniero;14;2;5;Cat_4;A
+465274;Hombre;0;36;1;Artista;0;1;1;Cat_4;A
+465285;Mujer;1;31;0;Ingeniero;8;1;4;Cat_6;C
+465288;Mujer;1;20;0;Ingeniero;1;1;2;Cat_4;A
+465289;Hombre;1;31;1;Ejecutivo;1;3;2;Cat_6;A
+465290;Hombre;1;50;1;Ejecutivo;0;3;5;Cat_6;A
+465294;Hombre;1;67;0;Abogado;0;1;2;Cat_6;B
+465295;Mujer;0;43;1;Doctor;9;2;1;Cat_6;B
+465296;Mujer;1;85;1;Abogado;5;3;3;Cat_6;A
+465303;Mujer;1;65;1;Artista;1;2;3;Cat_2;A
+465306;Hombre;1;71;0;Ejecutivo;1;2;4;Cat_2;D
+465310;Mujer;0;20;0;Personal de salud;1;1;6;Cat_4;D
+465319;Hombre;0;20;0;Personal de salud;0;1;5;Cat_6;D
+465326;Hombre;1;87;1;Artista;0;1;1;Cat_6;A
+465333;Mujer;1;37;1;Artista;4;1;2;Cat_7;C
+465335;Hombre;1;59;0;Entertainment;1;2;2;Cat_7;C
+465340;Mujer;0;29;1;Artista;3;1;4;Cat_2;A
+465342;Hombre;1;85;1;Ejecutivo;0;3;2;Cat_6;D
+465344;Mujer;1;72;1;Abogado;1;3;2;Cat_6;D
+465345;Mujer;0;42;1;Artista;0;1;0;Cat_6;A
+465351;Mujer;1;45;1;Artista;9;2;2;Cat_6;A
+465352;Hombre;1;59;1;Entertainment;1;2;4;Cat_6;B
+465354;Hombre;0;19;0;Doctor;0;1;5;Cat_2;A
+465357;Mujer;1;47;1;Artista;0;2;3;Cat_6;B
+465358;Mujer;1;73;1;Artista;0;3;2;Cat_6;A
+465359;Mujer;1;42;0;Artista;1;1;1;Cat_6;C
+465364;Mujer;0;37;1;Doctor;7;1;5;Cat_2;A
+465366;Mujer;0;38;1;Artista;8;1;1;Cat_6;D
+465371;Mujer;0;41;1;Artista;1;1;1;Cat_6;A
+465372;Mujer;0;40;1;Entertainment;0;1;1;Cat_6;A
+465383;Mujer;1;30;1;Entertainment;0;1;4;Cat_6;D
+465384;Hombre;1;56;1;Artista;0;3;2;Cat_6;B
+465391;Mujer;1;65;1;Abogado;1;3;2;Cat_6;B
+465393;Hombre;1;35;1;Artista;5;2;2;Cat_6;D
+465395;Mujer;1;37;0;Ingeniero;0;2;5;Cat_4;A
+465399;Hombre;0;36;1;Entertainment;0;1;1;Cat_4;B
+465405;Mujer;0;26;1;Constructor;1;3;4;Cat_2;A
+465408;Hombre;0;25;0;Ejecutivo;0;1;4;Cat_6;D
+465410;Hombre;0;30;0;Personal de salud;0;1;4;Cat_5;D
+465417;Hombre;1;37;1;Entertainment;0;2;2;Cat_4;D
+465419;Hombre;0;30;0;Artista;0;1;3;Cat_6;A
+465423;Hombre;1;46;1;Entertainment;1;2;4;Cat_7;D
+465428;Mujer;0;38;1;Ingeniero;1;1;1;Cat_4;C
+465433;Mujer;0;40;1;Artista;0;1;1;Cat_2;A
+465435;Mujer;0;31;1;Artista;5;1;1;Cat_6;A
+465437;Hombre;1;45;1;Ejecutivo;4;3;5;Cat_6;A
+465440;Hombre;1;55;0;Ingeniero;1;1;5;Cat_6;A
+465441;Mujer;1;51;1;Ingeniero;2;1;1;Cat_4;B
+465445;Mujer;0;29;1;Constructor;5;1;7;Cat_6;A
+465458;Mujer;1;74;1;Artista;1;3;2;Cat_6;C
+465461;Hombre;1;69;0;Entertainment;1;2;3;Cat_6;D
+465463;Mujer;0;28;0;Doctor;0;1;5;Cat_2;B
+465464;Hombre;1;41;1;Ejecutivo;0;2;0;Cat_4;C
+465467;Hombre;0;29;0;Personal de salud;1;1;3;Cat_6;A
+465471;Hombre;1;39;1;Artista;0;1;1;Cat_6;C
+465472;Mujer;1;74;0;Entertainment;0;3;3;Cat_6;D
+465473;Mujer;0;59;1;Artista;4;1;1;Cat_6;D
+465477;Hombre;0;27;0;Personal de salud;1;1;3;Cat_2;A
+465479;Hombre;0;33;0;Artista;0;1;1;Cat_4;B
+465482;Hombre;0;31;0;Entertainment;9;1;2;Cat_2;C
+465483;Hombre;1;46;0;Artista;0;2;3;Cat_6;A
+465484;Mujer;1;63;1;Artista;0;1;2;Cat_6;A
+465488;Hombre;0;22;0;Personal de salud;1;1;4;Cat_6;A
+465489;Mujer;0;53;1;Ingeniero;1;1;5;Cat_6;D
+465492;Hombre;1;59;0;Entertainment;1;1;1;Cat_2;D
+465496;Hombre;1;84;1;Abogado;0;1;2;Cat_2;C
+465505;Hombre;1;63;1;Artista;1;2;4;Cat_6;A
+465507;Hombre;1;35;1;Artista;8;1;1;Cat_6;C
+465508;Hombre;0;21;0;Personal de salud;1;1;4;Cat_6;D
+465510;Hombre;1;67;0;Abogado;0;3;2;Cat_6;C
+465518;Mujer;1;41;1;Artista;1;2;3;Cat_4;C
+465520;Mujer;0;27;1;Artista;0;1;8;Cat_2;A
+465521;Mujer;1;53;1;Artista;1;2;2;Cat_7;D
+465522;Mujer;0;33;1;Personal de salud;4;1;8;Cat_5;D
+465529;Mujer;0;32;0;Doctor;0;1;4;Cat_6;A
+465538;Hombre;1;59;0;Desconocida;5;3;2;Cat_6;B
+465539;Mujer;1;50;1;Artista;1;3;5;Cat_6;D
+465541;Mujer;1;50;1;Artista;1;2;4;Cat_7;D
+465543;Mujer;1;41;1;Personal de salud;1;2;2;Cat_3;A
+465547;Mujer;1;71;0;Abogado;1;1;1;Cat_6;C
+465550;Mujer;0;33;1;Personal de salud;1;1;6;Cat_3;D
+465551;Mujer;1;46;1;Artista;0;2;2;Cat_3;C
+465554;Mujer;0;78;1;Abogado;1;1;3;Cat_6;D
+465555;Mujer;1;69;0;Abogado;0;3;2;Cat_4;A
+465558;Mujer;0;40;1;Personal de salud;8;1;1;Cat_7;D
+465568;Hombre;1;43;1;Ejecutivo;2;3;3;Cat_6;D
+465569;Hombre;1;36;1;Artista;0;3;3;Cat_6;D
+465571;Hombre;1;35;1;Entertainment;1;2;2;Cat_2;B
+465577;Hombre;0;30;0;Personal de salud;0;1;4;Cat_3;D
+465584;Hombre;1;47;0;Entertainment;3;2;2;Cat_6;A
+465586;Hombre;1;69;0;Artista;0;1;1;Cat_6;A
+465587;Hombre;1;41;1;Entertainment;0;1;5;Cat_3;C
+465594;Hombre;1;33;0;Ejecutivo;4;1;6;Cat_3;A
+465598;Hombre;0;27;1;Personal de salud;6;1;5;Cat_2;C
+465600;Hombre;1;38;1;Ingeniero;6;1;2;Cat_3;B
+465601;Hombre;1;35;1;Artista;0;2;4;Cat_3;A
+465602;Hombre;1;27;1;Artista;10;1;2;Cat_3;A
+465603;Mujer;1;51;1;Constructor;9;1;0;Cat_3;B
+465605;Mujer;1;52;1;Ingeniero;4;1;1;Cat_3;B
+465611;Hombre;0;53;1;Doctor;0;1;1;Cat_6;B
+465612;Hombre;1;43;1;Artista;8;2;2;Cat_6;D
+465616;Hombre;1;42;1;Doctor;8;1;2;Cat_6;A
+465621;Hombre;0;36;1;Doctor;9;1;1;Cat_6;D
+465625;Hombre;0;36;1;Artista;14;1;2;Cat_6;A
+465627;Mujer;0;40;1;Personal de salud;1;1;1;Cat_6;B
+465629;Hombre;1;47;1;Entertainment;2;2;3;Cat_6;C
+465635;Hombre;0;30;0;Doctor;1;1;2;Cat_4;D
+465638;Mujer;1;53;1;Artista;0;1;0;Cat_3;A
+465640;Hombre;1;45;1;Artista;5;2;2;Cat_6;B
+465644;Hombre;0;33;1;Personal de salud;0;1;5;Cat_6;A
+465645;Mujer;0;40;1;Artista;8;1;2;Cat_6;A
+465649;Mujer;1;36;1;Marketing;5;1;1;Cat_6;D
+465651;Hombre;0;32;0;Ingeniero;0;1;4;Cat_6;A
+465653;Mujer;1;51;1;Artista;0;1;2;Cat_6;D
+465655;Mujer;0;49;1;Artista;0;1;1;Cat_6;C
+465656;Hombre;1;81;0;Abogado;1;1;0;Cat_6;A
+465658;Hombre;1;72;1;Artista;1;2;4;Cat_6;A
+465663;Mujer;0;70;1;Artista;0;1;2;Cat_6;A
+465667;Hombre;0;21;0;Personal de salud;0;1;3;Cat_2;D
+465668;Hombre;0;21;0;Personal de salud;1;1;5;Cat_4;D
+465669;Mujer;1;41;0;Entertainment;4;2;4;Cat_4;A
+465670;Mujer;0;49;0;Ingeniero;12;1;1;Cat_4;C
+465675;Mujer;0;51;0;Entertainment;0;1;1;Cat_4;C
+465680;Hombre;1;28;0;Personal de salud;0;2;5;Cat_4;A
+465685;Hombre;0;37;1;Personal de salud;5;1;2;Cat_3;D
+465688;Mujer;1;63;0;Artista;1;2;3;Cat_3;B
+465689;Hombre;0;19;0;Personal de salud;8;1;4;Cat_3;A
+465695;Mujer;0;32;0;Personal de salud;0;1;3;Cat_4;D
+465697;Mujer;1;51;0;Artista;6;1;1;Cat_6;B
+465703;Hombre;1;26;0;Entertainment;3;1;2;Cat_4;A
+465704;Hombre;1;61;0;Artista;0;1;1;Cat_6;A
+465705;Mujer;1;51;1;Artista;0;2;4;Cat_6;A
+465706;Mujer;1;45;1;Artista;0;2;3;Cat_6;A
+465721;Hombre;1;29;1;Entertainment;1;3;2;Cat_3;A
+465722;Hombre;1;47;0;Desconocida;0;1;5;Cat_3;C
+465725;Hombre;0;25;1;Doctor;1;1;2;Cat_3;C
+465727;Hombre;0;40;0;Marketing;0;1;5;Cat_4;B
+465728;Hombre;0;45;1;Desconocida;1;1;1;Cat_4;B
+465733;Hombre;1;32;1;Entertainment;1;2;2;Cat_4;B
+465734;Hombre;1;38;1;Artista;0;1;3;Cat_1;A
+465736;Mujer;0;38;1;Artista;8;1;2;Cat_3;B
+465737;Mujer;1;48;1;Ingeniero;7;1;3;Cat_3;D
+465740;Mujer;0;71;1;Doctor;0;1;1;Cat_6;B
+465742;Mujer;1;46;1;Artista;3;1;3;Cat_6;A
+465751;Mujer;1;46;1;Artista;9;1;2;Cat_6;A
+465753;Mujer;1;49;1;Artista;7;1;2;Cat_6;C
+465766;Hombre;1;43;0;Entertainment;0;1;3;Cat_4;B
+465768;Mujer;0;38;1;Artista;6;1;4;Cat_4;A
+465769;Hombre;0;25;1;Personal de salud;8;1;4;Cat_6;A
+465772;Mujer;1;46;1;Ingeniero;0;1;4;Cat_1;A
+465775;Mujer;0;28;1;Ingeniero;9;1;3;Cat_6;D
+465776;Mujer;0;41;1;Entertainment;5;1;4;Cat_6;A
+465777;Mujer;0;32;1;Artista;9;1;5;Cat_6;D
+465784;Mujer;0;21;0;Personal de salud;0;1;4;Cat_3;C
+465788;Hombre;0;22;0;Personal de salud;1;1;6;Cat_4;D
+465793;Hombre;0;27;0;Personal de salud;0;1;5;Cat_4;D
+465797;Hombre;1;40;1;Artista;0;2;2;Cat_2;C
+465804;Mujer;1;68;0;Ingeniero;0;1;1;Cat_4;A
+465809;Mujer;0;25;0;Constructor;1;1;7;Cat_4;A
+465811;Hombre;0;28;0;Personal de salud;1;1;4;Cat_4;A
+465813;Hombre;0;28;0;Marketing;2;1;8;Cat_4;B
+465818;Hombre;0;27;0;Entertainment;1;1;3;Cat_4;A
+465823;Hombre;1;67;0;Entertainment;5;2;4;Cat_4;A
+465826;Hombre;1;46;0;Ejecutivo;4;1;9;Cat_4;D
+465828;Mujer;0;33;0;Entertainment;8;1;4;Cat_4;C
+465829;Mujer;1;40;1;Doctor;6;2;3;Cat_4;A
+465830;Mujer;1;48;0;Desconocida;5;2;7;Cat_4;C
+465831;Hombre;1;42;0;Ejecutivo;0;3;5;Cat_4;A
+465837;Hombre;0;56;1;Desconocida;1;1;1;Cat_6;A
+465841;Mujer;0;51;1;Ingeniero;3;1;1;Cat_6;B
+465848;Mujer;0;27;1;Personal de salud;0;1;1;Cat_7;D
+465849;Mujer;0;25;1;Doctor;7;1;3;Cat_4;D
+465851;Mujer;1;51;0;Artista;9;3;2;Cat_4;A
+465853;Mujer;1;26;1;Personal de salud;0;2;2;Cat_6;B
+465857;Mujer;0;35;1;Doctor;0;1;1;Cat_6;B
+465860;Mujer;0;25;1;Doctor;1;1;3;Cat_6;A
+465863;Hombre;0;30;0;Personal de salud;6;1;3;Cat_6;A
+465865;Mujer;0;41;1;Personal de salud;9;1;1;Cat_6;D
+465866;Hombre;1;42;1;Artista;6;1;3;Cat_6;A
+465867;Mujer;1;40;1;Artista;8;3;5;Cat_6;A
+465873;Hombre;0;36;1;Entertainment;13;1;1;Cat_6;A
+465875;Mujer;0;39;1;Artista;9;1;1;Cat_6;B
+465884;Hombre;1;40;1;Ejecutivo;7;3;3;Cat_6;A
+465893;Mujer;1;40;1;Ingeniero;1;2;2;Cat_6;D
+465894;Hombre;0;28;1;Artista;9;1;6;Cat_6;D
+465907;Mujer;0;31;1;Marketing;8;1;0;Cat_1;D
+465916;Hombre;0;41;1;Artista;4;1;1;Cat_6;D
+465923;Mujer;0;28;1;Ingeniero;9;1;5;Cat_6;A
+465925;Hombre;0;30;1;Personal de salud;1;1;1;Cat_6;A
+465927;Mujer;0;30;1;Personal de salud;1;1;1;Cat_6;D
+465930;Mujer;0;38;1;Artista;9;1;2;Cat_6;D
+465931;Hombre;1;43;1;Artista;7;1;1;Cat_7;A
+465935;Hombre;0;29;1;Entertainment;9;1;1;Cat_6;A
+465937;Mujer;0;30;1;Personal de salud;9;1;3;Cat_6;A
+465941;Hombre;1;27;1;Personal de salud;0;1;2;Cat_6;D
+465948;Mujer;1;48;1;Artista;0;2;2;Cat_6;B
+465953;Mujer;0;51;1;Artista;1;1;1;Cat_6;C
+465957;Mujer;0;48;1;Marketing;0;1;1;Cat_6;A
+465960;Mujer;0;28;1;Marketing;9;1;1;Cat_6;B
+465961;Mujer;0;40;1;Artista;3;1;1;Cat_6;A
+465963;Hombre;1;51;1;Artista;1;1;2;Cat_6;B
+465965;Mujer;1;36;0;Marketing;8;1;2;Cat_6;A
+465972;Mujer;0;51;1;Marketing;9;1;1;Cat_6;D
+465974;Hombre;1;45;1;Ejecutivo;5;3;4;Cat_4;A
+465975;Hombre;0;40;1;Artista;8;1;1;Cat_6;A
+465976;Hombre;0;40;1;Artista;0;1;1;Cat_7;B
+465979;Hombre;1;41;1;Artista;2;1;2;Cat_6;B
+465982;Hombre;1;43;1;Entertainment;0;2;4;Cat_6;C
+465983;Hombre;0;21;0;Personal de salud;1;1;3;Cat_6;A
+465996;Hombre;0;23;0;Personal de salud;1;1;4;Cat_6;D
+465997;Mujer;0;31;0;Doctor;0;1;3;Cat_6;C
+466001;Mujer;1;42;1;Entertainment;6;1;2;Cat_6;B
+466007;Hombre;1;61;0;Artista;0;1;1;Cat_7;A
+466017;Mujer;1;45;1;Constructor;0;1;1;Cat_3;A
+466019;Mujer;1;63;1;Artista;5;1;1;Cat_3;C
+466020;Hombre;1;86;0;Abogado;0;1;1;Cat_6;B
+466022;Mujer;1;67;0;Ingeniero;0;3;3;Cat_7;C
+466023;Hombre;1;71;0;Ejecutivo;0;3;3;Cat_7;A
+466024;Mujer;1;43;0;Entertainment;14;1;2;Cat_3;A
+466032;Hombre;0;28;0;Entertainment;0;1;2;Cat_6;A
+466042;Hombre;1;47;0;Entertainment;0;1;2;Cat_6;B
+466043;Mujer;1;53;1;Artista;0;2;4;Cat_6;B
+466046;Mujer;1;36;0;Entertainment;1;2;2;Cat_4;A
+466058;Hombre;1;35;0;Entertainment;1;1;0;Cat_4;D
+466069;Mujer;1;48;1;Artista;1;3;4;;B
+466071;Mujer;1;60;1;Artista;3;1;3;Cat_4;C
+466078;Mujer;1;45;0;Ejecutivo;0;1;1;Cat_6;D
+466079;Mujer;1;42;0;Ingeniero;0;1;2;Cat_6;A
+466082;Mujer;1;89;1;Abogado;1;1;1;Cat_6;A
+466083;Mujer;0;23;0;Marketing;4;1;2;Cat_3;D
+466084;Hombre;1;46;1;Constructor;11;1;1;Cat_3;A
+466085;Hombre;0;22;0;Desconocida;8;1;4;Cat_4;D
+466088;Mujer;0;30;0;Personal de salud;0;1;7;Cat_6;B
+466090;Hombre;1;58;1;Entertainment;0;1;0;Cat_6;B
+466092;Hombre;1;73;1;Artista;0;2;4;Cat_6;C
+466099;Mujer;1;71;1;Abogado;0;1;1;Cat_6;A
+466103;Mujer;1;35;0;Ingeniero;0;1;5;Cat_6;A
+466109;Hombre;1;52;1;Entertainment;1;2;4;Cat_6;D
+466111;Hombre;1;84;1;Abogado;0;1;2;Cat_6;A
+466114;Hombre;1;47;1;Entertainment;1;2;5;Cat_6;C
+466115;Hombre;1;39;0;Ejecutivo;0;1;2;Cat_6;B
+466118;Mujer;1;40;0;Ingeniero;0;1;3;Cat_4;D
+466124;Mujer;0;46;1;Artista;1;1;1;Cat_6;C
+466128;Hombre;0;40;1;Artista;3;1;2;Cat_6;B
+466130;Mujer;0;27;0;Artista;1;1;6;Cat_6;D
+466132;Mujer;0;23;0;Personal de salud;4;1;4;Cat_7;A
+466136;Mujer;0;21;1;Artista;1;1;2;Cat_6;A
+466138;Hombre;1;70;0;Abogado;2;3;2;Cat_6;B
+466140;Hombre;1;28;1;Entertainment;1;1;2;Cat_6;D
+466141;Mujer;1;58;1;Constructor;1;1;4;Cat_6;C
+466142;Mujer;1;27;1;Entertainment;0;2;2;Cat_6;A
+466143;Mujer;1;49;0;Ingeniero;0;2;5;;A
+466146;Mujer;1;37;0;Ingeniero;8;2;3;Cat_6;B
+466148;Hombre;1;39;0;Entertainment;1;2;4;Cat_6;B
+466149;Mujer;0;28;0;Doctor;2;1;4;Cat_6;A
+466153;Hombre;1;73;0;Entertainment;0;2;2;Cat_6;A
+466154;Mujer;1;51;1;Artista;1;2;5;Cat_3;C
+466156;Mujer;1;48;1;Doctor;8;2;3;Cat_2;B
+466157;Hombre;1;72;1;Constructor;9;1;0;;D
+466161;Hombre;1;47;0;Artista;1;2;0;Cat_6;D
+466162;Mujer;1;67;1;Doctor;0;1;1;Cat_4;A
+466166;Hombre;1;77;1;Abogado;0;3;2;Cat_4;C
+466172;Hombre;1;46;1;Artista;3;2;3;Cat_6;A
+466178;Mujer;1;52;1;Artista;1;2;4;Cat_6;B
+466180;Hombre;1;67;0;Abogado;1;1;1;Cat_6;B
+466185;Hombre;1;62;1;Doctor;0;2;4;Cat_6;D
+466200;Hombre;1;45;1;Doctor;8;2;3;Cat_4;B
+466201;Hombre;1;40;1;Doctor;1;2;5;Cat_4;D
+466206;Mujer;1;60;1;Artista;4;2;2;Cat_3;A
+466207;Mujer;1;37;1;Doctor;8;2;4;Cat_2;A
+466208;Hombre;1;69;0;Ejecutivo;2;3;1;Cat_6;D
+466210;Mujer;1;58;1;Artista;1;3;4;Cat_6;C
+466211;Hombre;1;52;1;Artista;1;1;0;Cat_6;C
+466213;Hombre;0;20;0;Personal de salud;2;1;5;Cat_6;A
+466218;Mujer;0;23;0;Personal de salud;6;1;4;Cat_2;D
+466223;Hombre;1;66;1;Artista;0;1;1;Cat_4;D
+466225;Hombre;0;19;0;Personal de salud;1;1;3;Cat_2;A
+466226;Mujer;1;53;1;Artista;0;2;5;Cat_6;D
+466233;Mujer;1;59;1;Constructor;6;1;1;Cat_6;B
+466235;Mujer;1;61;1;Artista;0;2;4;Cat_4;D
+466236;Mujer;1;68;1;Ingeniero;1;1;2;Cat_4;B
+466238;Hombre;0;20;0;Personal de salud;1;1;3;Cat_4;A
+466246;Hombre;0;20;0;Personal de salud;1;1;4;Cat_2;D
+466247;Mujer;0;49;1;Artista;0;1;4;Cat_2;C
+466253;Hombre;0;19;0;Personal de salud;1;1;3;Cat_2;D
+466257;Mujer;0;27;0;Personal de salud;1;1;4;Cat_6;A
+466264;Hombre;1;32;1;Desconocida;1;1;2;Cat_3;D
+466268;Mujer;1;67;1;Artista;0;2;3;Cat_4;A
+466271;Hombre;0;27;0;Entertainment;1;1;3;Cat_2;C
+466274;Hombre;1;72;1;Ejecutivo;0;1;0;Cat_6;B
+466276;Mujer;0;32;0;Doctor;1;1;5;Cat_4;D
+466278;Mujer;0;28;0;Desconocida;0;1;2;Cat_3;B
+466282;Hombre;1;29;1;Personal de salud;8;1;0;Cat_6;D
+466285;Mujer;0;19;0;Personal de salud;1;1;5;Cat_2;D
+466286;Mujer;1;52;1;Artista;1;2;5;Cat_2;D
+466287;Mujer;1;47;1;Doctor;1;2;2;Cat_2;B
+466289;Hombre;0;19;0;Personal de salud;3;1;5;Cat_2;A
+466290;Mujer;0;18;0;Personal de salud;5;1;0;Cat_4;D
+466292;Mujer;1;79;0;Abogado;1;3;2;Cat_6;C
+466297;Mujer;0;19;0;Personal de salud;1;1;4;Cat_4;A
+466300;Mujer;1;48;1;Artista;0;1;3;Cat_2;C
+466301;Hombre;1;52;1;Artista;1;2;3;Cat_2;C
+466306;Hombre;0;23;0;Personal de salud;1;1;4;Cat_6;D
+466313;Mujer;1;58;1;Artista;1;1;1;Cat_4;A
+466315;Mujer;1;69;1;Ingeniero;1;1;1;Cat_6;B
+466317;Hombre;1;37;1;Entertainment;4;1;1;Cat_6;B
+466318;Mujer;0;30;0;Personal de salud;0;1;3;Cat_6;D
+466319;Mujer;0;25;0;Personal de salud;0;1;4;Cat_6;D
+466320;Mujer;0;39;1;Ingeniero;8;1;2;Cat_4;C
+466321;Hombre;1;43;1;Entertainment;3;1;2;Cat_4;D
+466324;Mujer;0;32;0;Ingeniero;0;1;1;Cat_4;A
+466326;Hombre;0;23;0;Personal de salud;0;1;5;Cat_3;A
+466335;Mujer;0;30;0;Personal de salud;1;1;3;Cat_4;D
+466337;Mujer;1;41;0;Ingeniero;1;1;2;Cat_4;C
+466341;Hombre;1;49;1;Artista;1;2;2;Cat_5;A
+466347;Hombre;1;66;0;Ejecutivo;6;1;3;Cat_4;B
+466352;Mujer;1;67;1;Doctor;1;1;2;Cat_6;D
+466355;Hombre;0;30;1;Personal de salud;0;1;2;Cat_6;A
+466367;Mujer;0;39;1;Doctor;6;1;1;Cat_2;C
+466370;Mujer;0;52;1;Artista;0;1;4;Cat_2;C
+466372;Mujer;1;57;1;Artista;0;2;5;Cat_6;A
+466373;Hombre;1;63;1;Ejecutivo;1;3;1;Cat_6;B
+466376;Mujer;1;52;0;Constructor;4;3;3;Cat_6;B
+466377;Hombre;1;61;1;Desconocida;8;2;2;Cat_6;C
+466380;Hombre;1;35;1;Entertainment;7;1;2;Cat_6;D
+466381;Hombre;1;52;1;Artista;4;2;2;Cat_6;B
+466382;Mujer;1;45;1;Ingeniero;2;3;2;Cat_4;A
+466387;Hombre;1;37;1;Entertainment;8;2;2;Cat_6;A
+466389;Mujer;1;45;1;Ingeniero;1;2;2;Cat_6;D
+466391;Mujer;1;55;1;Ingeniero;0;2;0;Cat_6;B
+466392;Mujer;1;49;1;Ingeniero;4;2;0;Cat_3;C
+466393;Mujer;1;42;0;Entertainment;1;1;6;Cat_3;D
+466395;Mujer;1;39;1;Doctor;3;3;2;Cat_4;A
+466397;Hombre;0;18;0;Personal de salud;0;1;3;Cat_3;B
+466400;Hombre;1;43;0;Artista;1;2;3;Cat_3;B
+466401;Hombre;1;50;0;Ejecutivo;1;2;4;Cat_6;B
+466402;Hombre;1;37;1;Artista;1;2;4;Cat_6;D
+466404;Mujer;0;37;1;Ingeniero;1;1;1;Cat_6;C
+466406;Hombre;1;63;1;Entertainment;0;1;3;Cat_6;B
+466408;Hombre;1;83;1;Abogado;1;1;2;Cat_3;A
+466411;Hombre;1;55;1;Artista;1;2;3;Cat_3;A
+466414;Hombre;1;71;1;Artista;1;1;3;Cat_6;D
+466418;Hombre;1;87;0;Abogado;1;1;1;Cat_4;C
+466419;Mujer;1;49;1;Entertainment;2;2;5;Cat_3;A
+466422;Hombre;1;27;0;Doctor;0;1;4;Cat_4;B
+466427;Mujer;1;25;0;Marketing;1;1;4;Cat_4;D
+466429;Hombre;1;42;0;Personal de salud;0;1;2;Cat_3;D
+466443;Mujer;1;66;1;Artista;4;1;2;Cat_6;A
+466450;Mujer;0;32;1;Personal de salud;1;1;1;Cat_6;D
+466455;Mujer;1;32;1;Doctor;4;1;2;Cat_6;D
+466456;Mujer;1;37;0;Doctor;8;1;1;Cat_2;A
+466457;Mujer;1;62;0;Abogado;9;1;5;Cat_6;B
+466463;Mujer;0;33;1;Personal de salud;3;1;4;Cat_4;D
+466464;Mujer;1;45;1;Constructor;2;2;2;Cat_3;A
+466466;Mujer;0;18;0;Personal de salud;5;1;5;Cat_3;D
+466467;Mujer;1;37;1;Artista;0;2;3;Cat_3;A
+466468;Hombre;0;30;1;Doctor;4;1;4;Cat_3;B
+466474;Hombre;0;31;1;Entertainment;5;1;3;Cat_6;A
+466478;Mujer;1;48;1;Artista;0;2;4;Cat_3;D
+466483;Hombre;0;31;1;Personal de salud;0;1;1;Cat_3;D
+466486;Mujer;1;36;1;Doctor;8;1;2;Cat_4;D
+466488;Hombre;1;61;1;Entertainment;0;2;6;Cat_6;B
+466490;Mujer;1;83;0;Abogado;0;3;2;Cat_6;C
+466493;Hombre;1;77;0;Abogado;1;3;2;Cat_6;C
+466500;Mujer;1;46;1;Artista;3;3;3;Cat_4;B
+466501;Hombre;1;48;1;Ingeniero;0;2;3;Cat_3;B
+466502;Hombre;0;19;0;Personal de salud;0;1;5;Cat_3;A
+466516;Hombre;0;21;0;Personal de salud;1;1;3;Cat_6;D
+466517;Mujer;0;40;0;Ingeniero;0;1;1;Cat_6;A
+466526;Hombre;0;27;0;Personal de salud;0;1;5;Cat_2;B
+466527;Mujer;1;49;0;Marketing;0;1;1;Cat_5;D
+466530;Hombre;0;19;0;Personal de salud;1;1;4;;B
+466533;Mujer;0;53;1;Entertainment;1;1;1;Cat_6;D
+466535;Hombre;0;29;1;Artista;8;1;1;Cat_6;D
+466536;Hombre;0;23;0;Personal de salud;3;1;4;Cat_4;B
+466538;Hombre;1;84;1;Abogado;1;3;2;Cat_6;D
+466541;Hombre;0;38;1;Entertainment;0;1;4;Cat_6;A
+466543;Hombre;0;26;1;Doctor;11;1;2;Cat_7;A
+466545;Mujer;0;19;0;Personal de salud;1;1;4;Cat_2;A
+466550;Mujer;0;22;0;Personal de salud;1;1;4;Cat_6;D
+466552;Hombre;1;20;0;Entertainment;0;1;2;Cat_6;D
+466553;Hombre;1;36;1;Personal de salud;0;1;3;Cat_6;C
+466556;Hombre;0;18;0;Personal de salud;1;1;3;Cat_6;D
+466562;Mujer;0;20;0;Personal de salud;7;1;4;Cat_6;A
+466564;Mujer;0;18;0;Marketing;1;1;4;Cat_6;A
+466565;Hombre;1;32;0;Artista;7;2;2;Cat_6;A
+466576;Mujer;0;18;0;Personal de salud;0;1;4;Cat_6;D
+466586;Hombre;0;18;0;Personal de salud;0;1;2;Cat_6;C
+466588;Mujer;0;21;0;Personal de salud;8;1;4;Cat_6;D
+466596;Mujer;1;75;1;Artista;1;3;2;Cat_6;C
+466603;Hombre;1;37;1;Ingeniero;0;2;2;Cat_6;B
+466606;Mujer;1;35;1;Ingeniero;1;1;3;Cat_3;B
+466613;Hombre;0;20;0;Personal de salud;9;1;3;Cat_6;A
+466623;Hombre;1;58;0;Entertainment;2;2;4;Cat_3;D
+466628;Hombre;0;33;0;Personal de salud;8;1;4;;D
+466631;Hombre;1;58;1;Artista;0;1;3;Cat_6;A
+466634;Hombre;0;20;0;Personal de salud;1;1;5;Cat_6;A
+466635;Hombre;1;50;1;Artista;4;2;2;Cat_6;B
+466644;Mujer;0;51;1;Constructor;0;1;0;Cat_6;B
+466650;Mujer;0;27;0;Personal de salud;8;1;3;Cat_4;D
+466652;Mujer;1;58;1;Doctor;1;2;2;Cat_6;D
+466655;Hombre;1;62;0;Ejecutivo;1;1;2;Cat_6;A
+466656;Hombre;1;79;1;Marketing;0;3;2;Cat_6;D
+466658;Mujer;0;19;0;Personal de salud;1;1;4;Cat_6;C
+466662;Mujer;0;33;0;Ingeniero;0;1;0;Cat_4;B
+466665;Hombre;1;36;1;Artista;1;2;2;Cat_6;D
+466666;Mujer;1;29;1;Personal de salud;1;1;2;Cat_6;D
+466671;Mujer;0;28;0;Personal de salud;3;1;3;Cat_2;A
+466686;Mujer;0;22;0;Personal de salud;0;1;4;Cat_6;D
+466687;Hombre;0;21;0;Personal de salud;1;1;3;Cat_6;D
+466688;Hombre;0;22;0;Personal de salud;0;1;3;Cat_4;D
+466689;Hombre;0;28;1;Artista;9;1;3;Cat_6;D
+466696;Mujer;1;48;1;Artista;3;2;4;Cat_6;C
+466704;Hombre;1;48;1;Doctor;3;2;2;Cat_6;D
+466705;Hombre;1;66;0;Abogado;0;1;3;Cat_6;A
+466707;Mujer;1;47;1;Constructor;1;1;4;Cat_6;A
+466713;Mujer;1;68;1;Artista;1;3;4;Cat_6;A
+466718;Hombre;1;73;0;Ejecutivo;0;3;2;Cat_6;A
+466720;Mujer;1;59;0;Abogado;0;1;1;Cat_2;B
+466721;Hombre;1;38;1;Doctor;7;2;2;Cat_6;A
+466725;Mujer;1;76;0;Abogado;1;3;2;Cat_6;A
+466731;Mujer;1;40;1;Ingeniero;3;1;2;Cat_4;D
+466732;Mujer;1;49;1;Ingeniero;0;3;2;Cat_4;D
+466733;Mujer;0;33;0;Constructor;0;1;0;Cat_4;A
+466735;Hombre;0;18;0;Personal de salud;1;1;0;Cat_6;D
+466746;Mujer;1;69;1;Abogado;0;3;2;Cat_6;D
+466749;Hombre;0;22;0;Personal de salud;1;1;5;Cat_3;D
+466750;Mujer;0;18;0;Personal de salud;0;1;3;Cat_3;D
+466751;Mujer;0;20;0;Personal de salud;1;1;4;Cat_6;D
+466752;Hombre;1;36;1;Personal de salud;1;1;1;Cat_6;A
+466753;Mujer;1;67;1;Artista;0;2;2;Cat_3;A
+466754;Mujer;1;37;1;Artista;1;2;3;Cat_6;D
+466759;Mujer;0;26;0;Personal de salud;2;1;0;Cat_6;D
+466760;Hombre;1;51;1;Doctor;1;2;4;Cat_6;D
+466765;Mujer;1;67;1;Abogado;1;1;2;Cat_6;D
+466769;Mujer;0;29;1;Entertainment;1;1;4;Cat_6;A
+466775;Mujer;1;76;1;Abogado;0;1;2;Cat_6;A
+466776;Hombre;1;86;1;Abogado;0;1;1;Cat_6;C
+466777;Mujer;1;51;1;Constructor;9;2;2;Cat_6;D
+466778;Hombre;1;35;1;Entertainment;1;1;2;Cat_3;A
+466788;Hombre;0;30;0;Doctor;3;1;2;Cat_6;D
+466790;Hombre;1;47;1;Doctor;0;2;2;Cat_3;A
+466791;Hombre;1;81;0;Abogado;0;1;1;Cat_6;A
+466792;Mujer;1;85;0;Abogado;0;1;1;Cat_6;A
+466795;Hombre;0;60;1;Entertainment;0;2;5;Cat_6;A
+466799;Mujer;0;21;0;Personal de salud;2;1;3;Cat_6;D
+466802;Mujer;0;40;1;Ingeniero;0;1;1;Cat_6;A
+466804;Mujer;0;35;1;Constructor;4;1;1;Cat_3;B
+466807;Mujer;0;35;1;Personal de salud;0;1;1;Cat_4;A
+466808;Mujer;0;41;0;Ingeniero;1;1;1;Cat_6;A
+466810;Hombre;0;18;0;Personal de salud;0;1;3;Cat_6;D
+466811;Hombre;0;22;0;Personal de salud;0;1;0;Cat_4;D
+466813;Hombre;1;61;1;Artista;0;1;0;Cat_6;A
+466814;Hombre;0;23;0;Personal de salud;0;1;3;Cat_6;D
+466815;Hombre;0;31;0;Personal de salud;1;1;5;Cat_4;D
+466816;Hombre;1;82;1;Abogado;0;3;2;Cat_6;A
+466818;Hombre;1;84;0;Ejecutivo;1;3;2;Cat_6;A
+466826;Hombre;1;41;1;Entertainment;1;1;2;Cat_6;A
+466832;Mujer;1;66;1;Artista;0;2;2;Cat_4;D
+466833;Hombre;1;57;1;Artista;5;1;2;Cat_6;C
+466846;Hombre;0;20;0;Personal de salud;3;1;4;Cat_2;A
+466863;Mujer;0;32;0;Constructor;14;1;1;Cat_6;C
+466867;Mujer;0;29;0;Constructor;11;1;1;Cat_6;D
+466871;Hombre;1;36;1;Ejecutivo;0;3;4;Cat_6;A
+466874;Hombre;1;38;1;Entertainment;1;2;3;Cat_6;B
+466884;Mujer;1;43;0;Doctor;1;1;1;Cat_6;A
+466886;Mujer;0;42;0;Marketing;1;1;1;Cat_6;D
+466891;Mujer;1;48;0;Constructor;8;1;1;Cat_6;C
+466905;Hombre;1;62;1;Artista;0;1;1;Cat_6;B
+466906;Hombre;0;63;1;Artista;0;1;2;Cat_6;B
+466908;Hombre;1;60;1;Entertainment;1;1;2;Cat_6;C
+466909;Hombre;1;63;1;Artista;1;1;2;Cat_6;D
+466910;Hombre;1;62;1;Entertainment;9;1;1;Cat_6;C
+466917;Hombre;1;40;0;Ejecutivo;4;1;0;Cat_6;A
+466918;Hombre;1;63;1;Artista;0;2;1;Cat_6;C
+466920;Hombre;0;19;0;Personal de salud;6;1;4;Cat_3;A
+466923;Mujer;0;21;0;Constructor;8;1;1;Cat_6;D
+466926;Hombre;0;21;0;Personal de salud;1;1;0;Cat_6;D
+466927;Hombre;0;22;0;Ingeniero;6;1;5;Cat_2;D
+466936;Hombre;1;60;0;Abogado;1;3;3;Cat_6;D
+466938;Hombre;1;59;1;Artista;8;1;1;Cat_6;A
+466939;Hombre;1;73;0;Abogado;1;3;2;Cat_6;A
+466951;Mujer;1;52;1;Artista;0;3;3;Cat_6;B
+466954;Mujer;1;66;0;Doctor;9;2;2;Cat_6;A
+466955;Hombre;1;61;0;Entertainment;1;1;4;Cat_3;B
+466956;Mujer;1;61;1;Artista;1;1;1;Cat_6;C
+466961;Mujer;1;61;1;Artista;2;2;2;Cat_6;C
+466966;Hombre;1;59;1;Entertainment;1;2;2;Cat_6;C
+466967;Hombre;1;51;1;Artista;1;1;1;Cat_6;B
+466970;Mujer;1;36;1;Constructor;9;1;2;Cat_4;C
+466971;Hombre;0;71;1;Ejecutivo;9;1;3;Cat_6;B
+466975;Hombre;1;48;1;Artista;1;2;2;Cat_6;D
+466990;Hombre;1;43;1;Entertainment;9;2;2;Cat_6;C
+466996;Mujer;0;36;1;Artista;9;1;1;Cat_6;D
+466998;Mujer;1;57;0;Artista;0;2;3;Cat_6;C
+466999;Hombre;0;33;1;Personal de salud;1;1;3;Cat_6;A
+467000;Mujer;0;31;1;Artista;1;1;6;Cat_4;A
+467008;Hombre;1;57;1;Artista;1;2;3;Cat_6;A
+467009;Mujer;0;33;0;Constructor;2;1;4;Cat_3;D
+467022;Hombre;0;30;1;Artista;1;1;5;Cat_6;D
+467023;Hombre;1;26;0;Doctor;8;2;2;Cat_6;D
+467025;Mujer;0;29;0;Ingeniero;1;1;3;Cat_6;B
+467044;Mujer;0;42;1;Marketing;0;1;1;Cat_7;B
+467046;Mujer;0;30;0;Doctor;0;1;5;Cat_3;B
+467050;Mujer;0;18;0;Ingeniero;1;1;5;Cat_2;D
+467053;Hombre;0;18;0;Personal de salud;5;1;4;Cat_6;B
+467058;Hombre;1;80;0;Ejecutivo;0;3;2;Cat_6;A
+467060;Hombre;0;35;0;Ingeniero;7;1;2;Cat_6;A
+467063;Hombre;1;45;1;Entertainment;1;2;2;Cat_6;A
+467073;Hombre;0;42;1;Ingeniero;8;1;1;Cat_6;B
+467078;Mujer;1;26;0;Personal de salud;0;3;2;Cat_7;D
+467079;Hombre;1;38;1;Artista;1;1;2;Cat_6;A
+467084;Hombre;1;41;1;Artista;1;2;7;Cat_6;A
+467085;Hombre;0;45;1;Entertainment;1;1;2;Cat_6;A
+467088;Hombre;1;57;1;Artista;1;1;1;Cat_3;A
+467092;Mujer;0;33;1;Personal de salud;5;1;4;Cat_6;C
+467093;Mujer;1;51;1;Artista;8;2;2;Cat_6;C
+467098;Hombre;1;85;0;Ejecutivo;1;1;2;Cat_6;A
+467099;Mujer;0;30;0;Entertainment;0;1;3;Cat_6;D
+467107;Hombre;1;38;1;Ingeniero;1;2;3;Cat_4;A
+467111;Hombre;1;66;1;Artista;1;1;1;Cat_6;D
+467112;Hombre;0;40;1;Artista;0;1;2;Cat_2;D
+467113;Hombre;1;83;1;Abogado;0;1;1;Cat_6;A
+467114;Hombre;1;61;1;Marketing;1;2;3;Cat_6;C
+467116;Hombre;1;65;1;Ejecutivo;1;3;2;Cat_6;B
+467119;Hombre;1;37;0;Marketing;0;3;4;Cat_7;D
+467121;Hombre;1;47;1;Doctor;0;1;0;Cat_6;D
+467125;Hombre;1;51;0;Entertainment;1;2;4;Cat_3;D
+467127;Hombre;1;73;0;Abogado;0;1;1;Cat_6;C
+467129;Mujer;0;49;0;Marketing;1;2;3;Cat_4;C
+467132;Mujer;1;73;1;Ingeniero;0;1;2;Cat_6;C
+467136;Hombre;1;37;0;Entertainment;1;2;4;Cat_4;A
+467137;Mujer;1;55;1;Ingeniero;0;1;1;Cat_6;B
+467138;Mujer;0;32;0;Constructor;12;1;1;Cat_6;A
+467139;Mujer;0;28;1;Artista;0;1;3;Cat_6;D
+467143;Mujer;0;50;0;Abogado;0;1;3;Cat_6;D
+467144;Hombre;1;38;1;Entertainment;1;1;2;Cat_6;B
+467146;Mujer;0;28;0;Constructor;8;1;1;Cat_6;A
+467147;Hombre;0;46;1;Entertainment;1;1;1;Cat_6;A
+467153;Mujer;1;47;1;Artista;0;1;0;Cat_6;C
+467157;Hombre;1;39;1;Ejecutivo;8;3;6;Cat_7;A
+467158;Mujer;0;26;0;Personal de salud;1;1;0;Cat_6;A
+467159;Mujer;1;37;1;Constructor;9;3;2;Cat_6;C
+467160;Hombre;1;43;0;Desconocida;1;2;2;Cat_3;C
+467165;Mujer;0;27;0;Constructor;0;1;1;Cat_6;C
+467167;Hombre;1;69;1;Artista;1;2;0;Cat_3;C
+467168;Hombre;1;47;1;Artista;9;2;2;Cat_1;A
+467172;Hombre;0;36;0;Artista;9;1;2;Cat_6;B
+467180;Hombre;1;43;1;Personal de salud;1;1;3;Cat_3;D
+467183;Hombre;1;42;1;Entertainment;3;2;4;Cat_6;A
+467185;Hombre;0;29;1;Artista;0;1;3;Cat_6;D
+467189;Mujer;1;45;1;Artista;1;3;4;Cat_6;A
+467193;Hombre;1;88;1;Artista;1;1;2;Cat_6;C
+467201;Mujer;0;33;1;Ingeniero;0;1;5;Cat_7;D
+467202;Hombre;1;18;0;Doctor;0;1;4;Cat_6;D
+467208;Mujer;1;41;1;Constructor;0;3;2;Cat_6;C
+467212;Mujer;0;28;1;Doctor;1;1;3;Cat_6;D
+467216;Mujer;0;30;1;Entertainment;0;1;1;Cat_6;D
+467217;Mujer;1;79;1;Abogado;0;3;2;Cat_6;D
+467218;Mujer;0;27;1;Artista;8;1;1;Cat_6;D
+467223;Mujer;1;53;1;Ingeniero;0;2;4;Cat_6;D
+467227;Mujer;0;43;1;Artista;14;1;1;Cat_4;D
+467230;Hombre;0;19;0;Personal de salud;1;1;4;Cat_6;C
+467232;Hombre;0;26;0;Entertainment;1;1;2;Cat_6;D
+467233;Mujer;0;67;0;Artista;1;1;2;Cat_6;A
+467235;Mujer;0;32;1;Artista;1;1;2;Cat_5;D
+467238;Mujer;0;26;0;Doctor;7;1;4;Cat_6;C
+467239;Mujer;0;29;0;Ingeniero;0;1;3;Cat_6;D
+467241;Mujer;0;33;1;Artista;9;1;1;Cat_6;A
+467242;Hombre;0;22;0;Doctor;0;1;3;Cat_6;A
+467247;Mujer;0;27;0;Ingeniero;0;1;2;Cat_6;A
+467256;Hombre;0;30;0;Personal de salud;1;1;4;Cat_2;A
+467260;Hombre;0;25;0;Doctor;8;1;4;Cat_6;A
+467263;Mujer;0;32;0;Marketing;0;1;1;Cat_4;D
+467268;Hombre;1;85;1;Abogado;0;1;1;Cat_6;B
+467275;Hombre;0;29;1;Personal de salud;0;1;0;Cat_6;D
+467281;Hombre;1;56;1;Abogado;0;1;4;Cat_6;B
+467283;Hombre;1;52;1;Artista;0;2;3;Cat_2;A
+467288;Mujer;0;25;0;Personal de salud;0;1;5;Cat_6;A
+467296;Mujer;1;65;1;Artista;0;2;2;Cat_3;D
+467300;Mujer;1;49;1;Artista;1;1;1;Cat_6;D
+467301;Mujer;1;73;0;Abogado;1;1;2;Cat_6;D
+467303;Hombre;1;36;1;Doctor;2;2;2;Cat_6;A
+467309;Mujer;0;36;1;Ingeniero;4;1;1;Cat_7;A
+467311;Hombre;1;71;1;Abogado;1;3;3;Cat_6;A
+467312;Mujer;1;55;1;Artista;0;1;2;Cat_6;B
+467313;Hombre;1;35;1;Entertainment;1;2;2;Cat_6;A
+467314;Hombre;1;41;0;Artista;0;2;2;Cat_6;C
+467317;Hombre;0;42;1;Artista;1;1;1;Cat_2;C
+467318;Hombre;1;35;1;Doctor;0;1;2;Cat_6;A
+467322;Mujer;1;48;1;Artista;1;2;2;Cat_1;C
+467325;Mujer;1;73;1;Abogado;1;3;2;Cat_6;A
+467329;Mujer;0;40;1;Doctor;1;1;1;Cat_6;C
+467338;Mujer;0;29;1;Personal de salud;3;1;6;Cat_6;D
+467339;Hombre;0;62;1;Artista;1;2;3;Cat_6;A
+467344;Hombre;1;89;1;Abogado;0;1;2;Cat_6;D
+467345;Hombre;1;86;1;Abogado;0;1;1;Cat_6;A
+467346;Hombre;1;38;1;Artista;0;2;3;Cat_6;A
+467352;Hombre;1;45;1;Ejecutivo;0;3;4;Cat_6;A
+467355;Hombre;0;26;0;Personal de salud;0;1;4;Cat_6;D
+467357;Hombre;1;55;1;Desconocida;1;1;2;Cat_6;B
+467358;Mujer;1;52;1;Artista;1;2;5;Cat_6;C
+467359;Hombre;1;43;1;Artista;5;2;2;Cat_6;C
+467365;Hombre;0;35;1;Artista;1;1;1;Cat_6;D
+467367;Hombre;1;73;1;Abogado;1;1;2;Cat_6;B
+467369;Hombre;0;41;1;Artista;4;1;3;Cat_6;D
+467373;Hombre;0;27;1;Personal de salud;0;1;1;Cat_6;B
+467375;Hombre;1;35;1;Entertainment;6;1;3;Cat_6;D
+467378;Mujer;1;63;1;Artista;0;2;2;Cat_6;D
+467384;Hombre;0;41;1;Desconocida;0;1;1;Cat_6;C
+467385;Hombre;0;53;0;Artista;1;1;0;Cat_4;A
+467389;Hombre;0;42;0;Ingeniero;0;1;0;Cat_6;B
+467393;Mujer;1;46;1;Artista;0;2;4;Cat_6;A
+467398;Hombre;1;38;0;Entertainment;0;1;2;Cat_6;D
+467399;Hombre;1;25;1;Doctor;1;1;3;Cat_6;D
+467403;Mujer;1;40;1;Artista;7;2;3;Cat_4;D
+467410;Mujer;1;55;1;Abogado;1;1;2;Cat_6;B
+467415;Mujer;0;29;1;Personal de salud;0;1;1;Cat_6;D
+467419;Mujer;1;39;1;Artista;2;1;1;Cat_6;A
+467421;Hombre;1;50;0;Doctor;1;2;3;Cat_6;C
+467422;Mujer;1;61;1;Artista;1;2;2;Cat_6;D
+467423;Hombre;1;56;1;Artista;0;1;1;Cat_6;B
+467434;Hombre;0;40;1;Entertainment;1;1;3;Cat_1;D
+467437;Mujer;1;86;1;Abogado;0;3;2;Cat_6;C
+467438;Hombre;0;27;0;Entertainment;5;1;3;Cat_6;D
+467441;Hombre;0;35;1;Artista;0;1;1;Cat_6;B
+467442;Hombre;1;56;1;Artista;0;2;2;Cat_6;A
+467444;Mujer;1;36;1;Artista;0;1;2;Cat_6;B
+467445;Hombre;1;32;0;Doctor;9;1;2;Cat_2;C
+467449;Mujer;1;85;1;Abogado;1;1;2;Cat_6;A
+467451;Mujer;1;51;1;Artista;0;1;1;Cat_1;C
+467455;Mujer;0;41;1;Artista;8;1;2;Cat_6;A
+467456;Hombre;1;42;0;Ejecutivo;5;3;4;Cat_6;C
+467457;Mujer;0;30;1;Marketing;0;1;6;Cat_6;A
+467459;Hombre;1;42;1;Ejecutivo;0;3;5;Cat_6;D
+467463;Mujer;1;42;1;Artista;9;2;3;Cat_6;A
+467468;Mujer;0;25;0;Personal de salud;0;1;5;Cat_7;D
+467472;Hombre;1;60;1;Ejecutivo;4;3;4;Cat_6;A
+467474;Hombre;0;18;0;Personal de salud;2;1;5;Cat_6;D
+467479;Hombre;1;36;1;Ejecutivo;0;2;4;Cat_6;D
+467481;Hombre;1;49;1;Artista;0;2;2;Cat_6;B
+467482;Hombre;1;42;1;Ejecutivo;1;3;3;Cat_6;D
+467487;Hombre;1;42;0;Artista;1;2;5;Cat_4;A
+467488;Mujer;1;39;1;Entertainment;0;2;2;Cat_2;B
+467492;Mujer;1;62;1;Doctor;1;1;2;Cat_7;D
+467493;Hombre;1;47;1;Ejecutivo;0;3;4;;A
+467499;Hombre;1;39;1;Artista;0;1;3;Cat_6;A
+467500;Mujer;1;25;1;Artista;3;3;2;Cat_6;D
+467503;Mujer;0;27;1;Artista;1;1;4;Cat_6;D
+467504;Mujer;0;31;0;Doctor;0;1;4;Cat_6;D
+467505;Hombre;1;36;1;Artista;0;1;4;Cat_6;D
+467510;Hombre;1;51;1;Entertainment;3;1;3;Cat_6;C
+467511;Hombre;1;63;1;Entertainment;0;1;1;Cat_6;A
+467514;Hombre;0;40;1;Artista;0;1;4;Cat_6;A
+467518;Hombre;0;22;0;Doctor;1;1;0;Cat_6;D
+467532;Hombre;1;52;1;Artista;9;1;1;Cat_6;B
+467533;Hombre;1;89;1;Abogado;4;1;1;Cat_6;A
+467537;Mujer;1;65;0;Abogado;0;3;3;Cat_6;A
+467539;Hombre;1;48;1;Artista;0;2;4;Cat_7;C
+467540;Hombre;1;48;1;Personal de salud;1;2;4;Cat_6;A
+467542;Hombre;0;31;1;Personal de salud;8;1;1;Cat_6;B
+467557;Mujer;1;62;1;Artista;0;2;2;Cat_6;B
+467559;Hombre;1;58;1;Ejecutivo;0;2;4;Cat_6;A
+467565;Hombre;1;60;1;Artista;0;1;3;Cat_6;B
+467569;Hombre;0;19;0;Personal de salud;0;1;4;Cat_6;D
+467570;Hombre;0;18;0;Personal de salud;14;1;0;Cat_6;A
+467576;Hombre;1;48;1;Doctor;1;2;3;Cat_6;B
+467579;Hombre;0;35;1;Doctor;5;1;1;Cat_6;A
+467580;Hombre;0;27;1;Doctor;0;1;3;Cat_6;B
+467588;Hombre;1;60;1;Artista;0;2;4;Cat_6;C
+467589;Hombre;0;32;0;Entertainment;0;1;1;Cat_6;B
+467592;Hombre;1;40;1;Entertainment;7;1;2;Cat_6;B
+467595;Mujer;0;25;1;Personal de salud;0;1;1;Cat_6;A
+467596;Hombre;1;42;0;Artista;1;1;5;Cat_3;C
+467604;Hombre;0;26;0;Personal de salud;8;1;8;Cat_4;D
+467608;Hombre;0;27;1;Ingeniero;6;1;1;Cat_6;D
+467609;Hombre;0;42;0;Artista;2;1;4;Cat_6;A
+467610;Mujer;1;77;1;Abogado;4;1;1;Cat_6;A
+467612;Hombre;1;70;1;Ejecutivo;0;1;0;Cat_7;D
+467614;Hombre;1;36;0;Artista;4;2;2;Cat_6;B
+467620;Hombre;1;57;1;Abogado;6;1;3;Cat_6;A
+467621;Hombre;1;76;1;Abogado;1;1;1;Cat_6;B
+467623;Hombre;1;77;1;Desconocida;0;3;2;Cat_6;C
+467629;Hombre;1;52;1;Artista;1;1;1;Cat_6;D
+467635;Mujer;0;35;1;Artista;9;1;1;Cat_6;A
+467641;Hombre;1;43;1;Doctor;9;2;2;Cat_6;C
+467643;Hombre;0;43;1;Artista;14;1;1;Cat_3;B
+467654;Mujer;1;62;1;Artista;0;3;4;Cat_6;B
+467657;Hombre;0;21;0;Personal de salud;0;1;4;Cat_3;D
+467658;Hombre;0;23;0;Personal de salud;0;1;4;Cat_3;A
+467659;Hombre;1;65;1;Entertainment;0;2;2;Cat_6;B
+467664;Hombre;1;35;1;Ejecutivo;4;3;4;Cat_6;C
+467666;Hombre;1;48;1;Ejecutivo;4;3;3;Cat_6;C
+467667;Hombre;1;33;0;Doctor;9;1;2;Cat_6;A
+467669;Hombre;1;82;0;Abogado;1;3;2;Cat_6;A
+467673;Hombre;1;45;0;Ejecutivo;1;3;4;Cat_6;B
+467678;Hombre;0;56;0;Marketing;1;1;2;Cat_6;A
+467679;Mujer;1;49;1;Artista;0;2;4;Cat_2;C
+467683;Hombre;1;30;1;Personal de salud;8;3;3;Cat_2;A
+467684;Hombre;0;37;1;Personal de salud;8;1;3;Cat_2;C
+467685;Hombre;1;51;0;Marketing;0;3;6;Cat_4;B
+467693;Hombre;1;59;1;Entertainment;5;3;5;Cat_6;B
+467694;Hombre;1;56;1;Ejecutivo;0;3;2;Cat_6;D
+467699;Mujer;1;29;1;Doctor;0;2;2;Cat_4;D
+467705;Hombre;1;31;1;Artista;0;1;2;Cat_6;A
+467706;Mujer;1;35;1;Artista;0;2;4;Cat_6;D
+467707;Hombre;1;89;1;Abogado;7;3;2;Cat_6;C
+467710;Mujer;0;38;1;Artista;9;1;4;Cat_6;C
+467715;Hombre;1;45;1;Ejecutivo;4;3;3;Cat_6;A
+467721;Hombre;0;37;1;Entertainment;0;1;1;Cat_4;C
+467723;Hombre;1;74;0;Ejecutivo;1;1;7;Cat_6;B
+467726;Hombre;1;82;1;Abogado;0;3;2;Cat_6;A
+467727;Hombre;1;53;1;Artista;7;3;4;Cat_3;C
+467728;Mujer;1;43;0;Ingeniero;0;3;5;Cat_6;A
+467729;Hombre;1;62;1;Entertainment;2;2;6;Cat_6;A
+467733;Hombre;1;56;0;Ejecutivo;8;3;3;Cat_6;A
+467734;Hombre;1;88;1;Abogado;3;3;2;Cat_6;D
+467735;Hombre;0;28;1;Doctor;0;1;2;Cat_6;D
+467737;Mujer;1;51;1;Entertainment;5;2;2;Cat_6;B
+467739;Mujer;1;60;0;Artista;0;2;4;Cat_6;C
+467740;Hombre;0;19;0;Personal de salud;0;1;3;Cat_6;D
+467741;Hombre;0;23;0;Personal de salud;1;1;3;Cat_4;B
+467749;Hombre;0;20;0;Personal de salud;0;1;9;Cat_7;D
+467763;Mujer;0;50;1;Artista;1;1;1;Cat_2;A
+467767;Mujer;0;21;0;Marketing;4;1;4;Cat_6;D
+467768;Hombre;1;62;1;Doctor;0;2;2;Cat_6;C
+467769;Mujer;0;36;1;Doctor;1;1;1;Cat_3;A
+467772;Mujer;0;31;0;Marketing;0;1;2;Cat_6;D
+467779;Hombre;1;52;1;Doctor;4;2;3;Cat_6;A
+467789;Hombre;0;20;0;Personal de salud;1;1;5;Cat_6;B
+467798;Mujer;0;23;0;Desconocida;0;1;2;Cat_6;D
+467802;Mujer;1;48;1;Artista;1;3;5;Cat_6;A
+467803;Mujer;1;40;1;Entertainment;6;2;2;Cat_6;D
+467806;Hombre;1;55;1;Artista;1;3;2;Cat_6;C
+467808;Mujer;1;62;1;Artista;1;2;2;Cat_6;B
+467812;Hombre;0;48;1;Artista;0;1;1;Cat_2;B
+467813;Hombre;1;36;1;Entertainment;1;1;2;Cat_4;B
+467815;Mujer;1;73;1;Artista;0;1;2;Cat_6;C
+467825;Mujer;0;23;0;Marketing;0;1;8;Cat_6;C
+467828;Mujer;1;25;1;Artista;0;2;2;Cat_2;B
+467838;Hombre;1;60;1;Artista;0;2;2;Cat_6;D
+467848;Hombre;0;37;1;Artista;14;1;1;Cat_6;A
+467849;Mujer;1;39;1;Doctor;0;1;1;Cat_2;A
+467852;Mujer;0;39;1;Artista;12;1;1;Cat_6;C
+467856;Hombre;1;58;1;Artista;0;1;2;Cat_6;C
+467860;Mujer;0;33;1;Entertainment;0;1;1;Cat_7;A
+467861;Mujer;0;29;0;Artista;0;1;4;Cat_4;D
+467864;Mujer;1;66;1;Abogado;1;3;2;Cat_6;C
+467865;Mujer;0;40;1;Artista;2;1;1;Cat_4;D
+467868;Mujer;1;66;1;Entertainment;0;3;2;Cat_6;A
+467876;Mujer;1;50;1;Artista;9;3;2;Cat_6;C
+467879;Mujer;1;51;1;Artista;0;3;4;Cat_6;A
+467880;Mujer;1;50;1;Artista;0;2;2;Cat_6;D
+467882;Mujer;0;39;1;Artista;1;1;1;Cat_6;D
+467883;Mujer;1;46;1;Artista;0;2;2;Cat_6;A
+467888;Hombre;0;29;0;Doctor;0;1;4;Cat_6;D
+467891;Mujer;0;29;1;Doctor;0;1;5;Cat_6;A
+467892;Hombre;0;23;0;Doctor;1;1;5;Cat_6;D
+467894;Hombre;1;57;1;Artista;1;2;2;Cat_6;A
+467895;Mujer;0;31;1;Personal de salud;1;1;4;Cat_6;A
+467898;Mujer;1;69;1;Artista;1;1;1;Cat_6;B
+467901;Mujer;0;28;1;Entertainment;0;1;4;Cat_6;A
+467904;Mujer;0;31;1;Artista;14;1;1;Cat_6;D
+467905;Hombre;1;37;1;Ejecutivo;0;3;3;Cat_6;B
+467911;Hombre;1;58;1;Personal de salud;0;1;4;Cat_6;B
+467913;Hombre;1;48;1;Artista;3;1;1;Cat_6;B
+467915;Mujer;0;18;0;Doctor;1;1;4;Cat_6;B
+467917;Mujer;0;27;1;Personal de salud;2;1;4;Cat_1;A
+467927;Hombre;0;30;1;Doctor;8;1;6;Cat_2;D
+467929;Mujer;1;36;1;Artista;1;2;2;Cat_6;C
+467930;Hombre;1;45;1;Entertainment;4;2;2;Cat_6;C
+467932;Mujer;0;26;0;Personal de salud;1;1;4;Cat_6;A
+467933;Mujer;0;23;0;Personal de salud;0;1;3;Cat_6;D
+467934;Mujer;0;42;1;Artista;0;1;1;Cat_6;C
+467938;Hombre;1;46;1;Entertainment;5;1;1;Cat_2;C
+467940;Mujer;0;27;0;Marketing;8;1;4;Cat_2;D
+467946;Mujer;1;42;1;Artista;0;1;2;Cat_6;A
+467948;Mujer;0;19;0;Personal de salud;0;1;3;Cat_6;A
+467949;Hombre;0;21;0;Personal de salud;1;1;4;Cat_4;D
+467950;Mujer;0;35;1;Entertainment;1;1;2;Cat_6;D
+467954;Hombre;0;29;0;Personal de salud;9;1;4;Cat_6;B
+467958;Mujer;0;35;1;Doctor;1;1;1;Cat_6;A
+467960;Mujer;0;53;1;Entertainment;0;1;2;Cat_6;C
+467961;Hombre;1;47;1;Ejecutivo;1;3;5;Cat_4;C
+467968;Mujer;0;43;1;Personal de salud;9;1;3;Cat_7;A
