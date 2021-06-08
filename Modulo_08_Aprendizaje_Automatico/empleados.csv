@@ -1,4 +1,4 @@
-nombre,edad,sueldo,sexo,sector,jerarquia,performance
+nombre,edad,sueldo,sexo,sector,nivel,performance
 Allen Smith,45,NaN,NaN,Operations,G3,723
 S Kumar,NaN,16000,F,Finance,G0,520
 Jack Morgan,32,35000,M,Finance,G2,674
