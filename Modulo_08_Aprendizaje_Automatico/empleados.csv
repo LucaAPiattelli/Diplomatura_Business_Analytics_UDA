@@ -1,10 +1,10 @@
 nombre,edad,sueldo,sexo,sector,nivel,performance
-Allen Smith,45,NaN,NaN,Operations,G3,723
-S Kumar,NaN,16000,F,Finance,G0,520
-Jack Morgan,32,35000,M,Finance,G2,674
-Ying Chin,45,65000,F,Sales,G3,556
-Dheeraj Patel,30,42000,F,Operations,G2,711
-Satyam Sharma,NaN,62000,NaN,Sales,G3,649
-James Authur,54,NaN,F,Operations,G3,53
-Josh Wills,54,52000,F,Finance,G3,901
-Leo Duck,23,98000,M,Sales,G4,709
+Alan Smith,45,NaN,NaN,Operations,G3,723
+Sandro Kumar,NaN,16000,F,Finance,G0,520
+Jacinto Morgan,32,35000,M,Finance,G2,674
+Ernesto Chin,45,65000,F,Sales,G3,556
+Fernanda Patel,30,42000,F,Operations,G2,711
+Samara Sharma,NaN,62000,NaN,Sales,G3,649
+Joaquin Fleiman,54,NaN,F,Operations,G3,53
+Juana Wilkis,54,52000,F,Finance,G3,901
+Leonardo Doberti,23,98000,M,Sales,G4,709
